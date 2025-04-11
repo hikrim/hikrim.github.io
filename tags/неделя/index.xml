@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Неделя | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
-      <atom:link href="https://example.com/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <atom:link href="http://localhost:1313/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     <description>Неделя</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Неделя</title>
-      <link>https://example.com/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <link>http://localhost:1313/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
     </image>
     
     <item>
       <title>✅ Пост по прошедшей неделе</title>
-      <link>https://example.com/post/last-week/</link>
+      <link>http://localhost:1313/post/last-week/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/last-week/</guid>
+      <guid>http://localhost:1313/post/last-week/</guid>
       <description>&lt;p&gt;Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;В понедельник, я был на дистанционных занятиях, после которых выполнял работу &amp;ldquo;Алгоритм &amp;ldquo;Spigot&amp;rdquo; на C++&amp;rdquo; на вторник по предмету &amp;ldquo;Компьютерный практикум&amp;rdquo;. Вечером отдыхал.&lt;/p&gt;
