@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/blog/</link>
+      <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Blog</title>
+      <link>http://localhost:1313/tags/blog/</link>
+    </image>
+    
+    <item>
+      <title>✅ Last week&#39;s post</title>
+      <link>http://localhost:1313/post/last-week-stage-6/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/last-week-stage-6/</guid>
+      <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;On Monday, I took distance classes, then rested.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;On Tuesday I attended classes at the institute, there was a matanalysis test, after the institute I was preparing for the Wednesday test and did not rest.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;On Wednesday I attended classes at the institute, there was a test in mathematical logic. After college, I got ready for Thursday at home and had a rest.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;On Thursday, I attended classes at the institute, defended a laboratory paper on programming technology. After college, I got ready for Friday at home and had a rest.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;On Friday I attended classes at the institute, there was a test in German and a monologue in English. I had a rest after college.&lt;/p&gt;
+&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;On Saturday, I rested and prepared for the next difficult week.&lt;/p&gt;
+&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
+&lt;p&gt;I did the same thing on Sunday as I did on Saturday.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>✅ Last week&#39;s post</title>
+      <link>http://localhost:1313/post/last-week-stage-5/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/last-week-stage-5/</guid>
+      <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;On Monday, I took distance classes, then rested.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;I didn&amp;rsquo;t have classes at the institute on Tuesday, so Tuesday was like a day off for me.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;I also had no classes at the institute on Wednesday, so I started doing an external course.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;Thursday was a day off, which I spent doing an external course.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;On Friday, I played a volleyball tournament in our Fok, the tournament was in honor of Victory Day, and my team won first place with me.&lt;/p&gt;
+&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;On Saturday, I continued to do the external course and rested.&lt;/p&gt;
+&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
+&lt;p&gt;On Sunday, I finalized the external course by completing the last section.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>✅ Scientific programming languages</title>
+      <link>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <description>&lt;h1 id=&#34;scientific-programming-languages-which-ones-to-choose&#34;&gt;Scientific programming languages: which ones to choose?&lt;/h1&gt;
+&lt;p&gt;Scientific programming is a powerful tool for solving complex problems in mathematics, physics, bioinformatics, Data Science and other fields. But which languages are best suited for such calculations?
+📌 Top 5 languages for scientific calculations:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Python 🐍
+
+    Advantages: Simplicity, rich libraries (NumPy, SciPy, Pandas, Matplotlib), machine learning support (TensorFlow, PyTorch).
+
+    Cons: Not the fastest, but integration with C/Fortran solves the problem.
+
+Julia ✨
+
+    Advantages: High speed (like C), convenient syntax (like Python), built-in support for parallel computing.
+
+    Cons: There are fewer ready-made solutions than Python.
+
+R 📊
+
+    Pros: The best for statistics and data visualization (ggplot2, dplyr).
+
+    Cons: Slower than Python/Julia, specific syntax.
+
+MATLAB ➕
+
+    Pros: Ready-made tools for engineers and mathematicians, excellent visualization.
+
+    Cons: Expensive license, slower than modern analogues.
+
+Fortran &amp;amp; C/C++ ⚡
+
+    Positive: Maximum performance, used in HPC (supercomputers).
+
+    Cons: Complex syntax, long development time.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;, Which one should I choose?&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;For Data Science / ML → Python + Julia.
+
+For mathematical modeling → Julia / MATLAB.
+
+For high-performance computing → Fortran / C++.
+
+For statistics → R.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>✅ Creating a report</title>
+      <link>http://localhost:1313/post/report/</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/report/</guid>
+      <description>&lt;p&gt;** How to make a report correctly: instructions for laboratory and research**&lt;/p&gt;
+&lt;p&gt;Writing a report is an important part of any scientific or educational work. A properly designed document helps to clearly state the results and make them understandable to the examiners. Here are the main points worth paying attention to:&lt;/p&gt;
+&lt;h3 id=&#34;1-report-structure&#34;&gt;&lt;strong&gt;1. Report structure&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;✔ &lt;strong&gt;Title page&lt;/strong&gt; – title of the work, full name of the author, teacher/supervisor, date.&lt;br&gt;
+✔ &lt;strong&gt;Table of Contents&lt;/strong&gt; – indicating the pages.&lt;br&gt;
+✔ &lt;strong&gt;Introduction&lt;/strong&gt; – purpose of the work, tasks, relevance.&lt;br&gt;
+✔ &lt;strong&gt;The theoretical part&lt;/strong&gt; is a brief review of the literature, basic concepts.&lt;br&gt;
+✔ &lt;strong&gt;Methodology&lt;/strong&gt; – description of methods, equipment, algorithms.&lt;br&gt;
+✔ &lt;strong&gt;Results&lt;/strong&gt; – tables, graphs, calculations with explanations.&lt;br&gt;
+✔ &lt;strong&gt;Conclusions&lt;/strong&gt; – a brief summary of the results, meeting the goals.&lt;br&gt;
+✔ &lt;strong&gt;The list of references&lt;/strong&gt; is designed according to GOST or university requirements.&lt;/p&gt;
+&lt;h3 id=&#34;2-text-formatting&#34;&gt;&lt;strong&gt;2. Text formatting&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Font&lt;/strong&gt; – usually Times New Roman, 12-14 pt.&lt;br&gt;
+🔹 **The interval ** is 1.5 (for readability).&lt;br&gt;
+🔹 &lt;strong&gt;The margins&lt;/strong&gt; are standard (2-3 cm).&lt;br&gt;
+*&lt;strong&gt;Page numbering&lt;/strong&gt; is end–to-end, starting from the title page (but no number is placed on it).&lt;/p&gt;
+&lt;h3 id=&#34;3-graphs-and-tables&#34;&gt;&lt;strong&gt;3. Graphs and tables&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;📊 &lt;strong&gt;Signatures&lt;/strong&gt; should be clear, with numbers (Fig. 1, Table 2).&lt;br&gt;
+📊 &lt;strong&gt;Discussion&lt;/strong&gt; – each graph/table needs to be commented in the text.&lt;/p&gt;
+&lt;h3 id=&#34;4-checking-before-delivery&#34;&gt;&lt;strong&gt;4. Checking before delivery&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Spelling and punctuation (you can use services like Grammarly).&lt;br&gt;
+Compliance with the requirements of the training manual (if any).&lt;br&gt;
+Logical presentation – are all conclusions justified?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>✅ Last week&#39;s post</title>
+      <link>http://localhost:1313/post/last-week-stage-4/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/last-week-stage-4/</guid>
+      <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;On Monday, I was at school, after which I completed the necessary tasks, and rested in the evening.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;On Tuesday, I attended classes at the institute, after which I went home, and then went to the volleyball section, rested in the evening.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;On Wednesday, I was in class at the institute, the first pair for me was next to the main building, and the second was in the building of my faculty. I had a rest after college.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;On Thursday, I attended classes at the institute, after which I rested and prepared assignments for Friday.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;On Friday, I attended language classes at the institute, after which I rested at home.&lt;/p&gt;
+&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;On Saturday, I took distance classes, after which I had a volleyball section at the institute, after which I rested.&lt;/p&gt;
+&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
+&lt;p&gt;I took a day off on Sunday.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>✅ Last week&#39;s post</title>
+      <link>http://localhost:1313/post/last-week-stage-3/</link>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/last-week-stage-3/</guid>
+      <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;On Monday, I was at school, after which I completed the necessary tasks, and rested in the evening.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;On Tuesday, I attended classes at the institute, after which I went home, and then went to the volleyball section, rested in the evening.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;On Wednesday, I was in class at the institute, the first pair for me was next to the main building, and the second was in the building of my faculty. I had a rest after college.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;On Thursday, I attended classes at the institute, after which I rested and prepared assignments for Friday.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;On Friday, I attended language classes at the institute, after which I was at home doing laboratory work No. 8.&lt;/p&gt;
+&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;On Saturday, I took distance classes, after which I had a volleyball section at the institute, after which I rested.&lt;/p&gt;
+&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
+&lt;p&gt;Sunday was like a day off for me, and I also completed lab work No. 9.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>✅ Last week&#39;s post</title>
+      <link>http://localhost:1313/post/last-week/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/last-week/</guid>
+      <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;On Monday, I was in remote classes, after which I completed the work &amp;ldquo;The Spigot algorithm in C++&amp;rdquo; for Tuesday on the subject of &amp;ldquo;Computer workshop&amp;rdquo;. I rested in the evening.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;On Tuesday, I attended classes at the institute, after which I went home, and then went to the volleyball section, rested in the evening.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;On Wednesday, I was in class at the institute, the first pair for me was next to the main building, and the second was in the building of my faculty. At home, I was creating a presentation on Thursday on the subject &amp;ldquo;Fundamentals of Russian Statehood&amp;rdquo; about the Museum of Cosmonautics in Moscow. I rested in the evening.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;On Thursday, I attended classes at the institute, where I told a presentation that I was preparing, and on Wednesday I defended my Laboratory work on the subject of &amp;ldquo;Programming Technology&amp;rdquo;. I rested after the steam.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;Before the institute, I was preparing for the &amp;ldquo;solution essay&amp;rdquo; for English, in which I later wrote it. After graduation, I rested and began to carry out the second stage of the implementation of an individual project for the &amp;ldquo;Operating Systems&amp;rdquo; project.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

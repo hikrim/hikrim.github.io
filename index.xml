@@ -34,74 +34,97 @@
     </item>
     
     <item>
-      <title>✅ Пост по прошедшей неделе</title>
-      <link>http://localhost:1313/post/last-week-stage-5/</link>
-      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/last-week-stage-5/</guid>
-      <description>&lt;p&gt;Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p&gt;
-&lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
-&lt;p&gt;В понедельник был на дистанционных занятиях, потом отдыхал.&lt;/p&gt;
-&lt;h2 id=&#34;вторник&#34;&gt;Вторник&lt;/h2&gt;
-&lt;p&gt;Во вторник занятий в институте у меня не было, поэтому вторник для меня был как выходной.&lt;/p&gt;
-&lt;h2 id=&#34;среда&#34;&gt;Среда&lt;/h2&gt;
-&lt;p&gt;В среду также занятий в институте у меня не было, поэтому я начал выполнять внешний курс.&lt;/p&gt;
-&lt;h2 id=&#34;четверг&#34;&gt;Четверг&lt;/h2&gt;
-&lt;p&gt;В четверг был выходной, который я потратил на выполнение внешнего курса.&lt;/p&gt;
-&lt;h2 id=&#34;пятница&#34;&gt;Пятница&lt;/h2&gt;
-&lt;p&gt;В пятницу я играл турнир по волейболу в нашем ФОК&amp;rsquo;е, турнир был в честь Дня Победы, моя команда вместе со мной выиграла первое место.&lt;/p&gt;
-&lt;h2 id=&#34;суббота&#34;&gt;Суббота&lt;/h2&gt;
-&lt;p&gt;В субботу я продолжил выполнять внешний курс и отдыхал.&lt;/p&gt;
-&lt;h2 id=&#34;воскресенье&#34;&gt;Воскресенье&lt;/h2&gt;
-&lt;p&gt;В воскресенье я финализировал выполнение внешнего курса выполнив последний раздел.&lt;/p&gt;
+      <title>✅ Last week&#39;s post</title>
+      <link>http://localhost:1313/post/last-week-stage-6/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/last-week-stage-6/</guid>
+      <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;On Monday, I took distance classes, then rested.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;On Tuesday I attended classes at the institute, there was a matanalysis test, after the institute I was preparing for the Wednesday test and did not rest.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;On Wednesday I attended classes at the institute, there was a test in mathematical logic. After college, I got ready for Thursday at home and had a rest.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;On Thursday, I attended classes at the institute, defended a laboratory paper on programming technology. After college, I got ready for Friday at home and had a rest.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;On Friday I attended classes at the institute, there was a test in German and a monologue in English. I had a rest after college.&lt;/p&gt;
+&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;On Saturday, I rested and prepared for the next difficult week.&lt;/p&gt;
+&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
+&lt;p&gt;I did the same thing on Sunday as I did on Saturday.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>✅ Языки научного программирования</title>
+      <title>✅ Last week&#39;s post</title>
+      <link>http://localhost:1313/post/last-week-stage-5/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/last-week-stage-5/</guid>
+      <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;On Monday, I took distance classes, then rested.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;I didn&amp;rsquo;t have classes at the institute on Tuesday, so Tuesday was like a day off for me.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;I also had no classes at the institute on Wednesday, so I started doing an external course.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;Thursday was a day off, which I spent doing an external course.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;On Friday, I played a volleyball tournament in our Fok, the tournament was in honor of Victory Day, and my team won first place with me.&lt;/p&gt;
+&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;On Saturday, I continued to do the external course and rested.&lt;/p&gt;
+&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
+&lt;p&gt;On Sunday, I finalized the external course by completing the last section.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>✅ Scientific programming languages</title>
       <link>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
-      <description>&lt;h1 id=&#34;языки-научного-программирования-какие-выбрать&#34;&gt;Языки научного программирования: какие выбрать?&lt;/h1&gt;
-&lt;p&gt;Научное программирование — это мощный инструмент для решения сложных задач в математике, физике, биоинформатике, Data Science и других областях. Но какие языки лучше всего подходят для таких вычислений?
-📌 Топ-5 языков для научных расчетов:&lt;/p&gt;
+      <description>&lt;h1 id=&#34;scientific-programming-languages-which-ones-to-choose&#34;&gt;Scientific programming languages: which ones to choose?&lt;/h1&gt;
+&lt;p&gt;Scientific programming is a powerful tool for solving complex problems in mathematics, physics, bioinformatics, Data Science and other fields. But which languages are best suited for such calculations?
+📌 Top 5 languages for scientific calculations:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;Python 🐍
 
-    Плюсы: Простота, богатые библиотеки (NumPy, SciPy, Pandas, Matplotlib), поддержка машинного обучения (TensorFlow, PyTorch).
+    Advantages: Simplicity, rich libraries (NumPy, SciPy, Pandas, Matplotlib), machine learning support (TensorFlow, PyTorch).
 
-    Минусы: Не самый быстрый, но интеграция с C/Fortran решает проблему.
+    Cons: Not the fastest, but integration with C/Fortran solves the problem.
 
 Julia ✨
 
-    Плюсы: Высокая скорость (как C), удобный синтаксис (как Python), встроенная поддержка параллельных вычислений.
+    Advantages: High speed (like C), convenient syntax (like Python), built-in support for parallel computing.
 
-    Минусы: Меньше готовых решений, чем у Python.
+    Cons: There are fewer ready-made solutions than Python.
 
 R 📊
 
-    Плюсы: Лучший для статистики и визуализации данных (ggplot2, dplyr).
+    Pros: The best for statistics and data visualization (ggplot2, dplyr).
 
-    Минусы: Медленнее Python/Julia, специфический синтаксис.
+    Cons: Slower than Python/Julia, specific syntax.
 
 MATLAB ➕
 
-    Плюсы: Готовые инструменты для инженеров и математиков, отличная визуализация.
+    Pros: Ready-made tools for engineers and mathematicians, excellent visualization.
 
-    Минусы: Дорогая лицензия, медленнее современных аналогов.
+    Cons: Expensive license, slower than modern analogues.
 
 Fortran &amp;amp; C/C++ ⚡
 
-    Плюсы: Максимальная производительность, используются в HPC (суперкомпьютеры).
+    Positive: Maximum performance, used in HPC (supercomputers).
 
-    Минусы: Сложный синтаксис, долгая разработка.
+    Cons: Complex syntax, long development time.
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;🔎 Какой выбрать?&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Для Data Science / ML → Python + Julia.
+&lt;p&gt;, Which one should I choose?&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;For Data Science / ML → Python + Julia.
 
-Для математического моделирования → Julia / MATLAB.
+For mathematical modeling → Julia / MATLAB.
 
-Для высокопроизводительных вычислений → Fortran / C++.
+For high-performance computing → Fortran / C++.
 
-Для статистики → R.
+For statistics → R.
 &lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
@@ -111,7 +134,7 @@ Fortran &amp;amp; C/C++ ⚡
       <link>http://localhost:1313/project/github-blog/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/github-blog/</guid>
-      <description>&lt;p&gt;Мой репозиторий, с помощью которого я добавляю и редактирую информацию на этом сайте.&lt;/p&gt;</description>
+      <description>&lt;p&gt;My repository, which I use to add and edit information on this site.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -119,7 +142,7 @@ Fortran &amp;amp; C/C++ ⚡
       <link>http://localhost:1313/project/github-study/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/github-study/</guid>
-      <description>&lt;p&gt;Мой репозиторий, который содержит отчеты и презентации по лабораторным работам и не только в курсе &amp;ldquo;Операционные системы&amp;rdquo;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;My repository, which contains reports and presentations on laboratory work and not only in the course &amp;ldquo;Operating Systems&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -127,82 +150,82 @@ Fortran &amp;amp; C/C++ ⚡
       <link>http://localhost:1313/project/stepik/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/stepik/</guid>
-      <description>&lt;p&gt;Курс &amp;ldquo;Введение в Linux&amp;rdquo; на платформе &amp;ldquo;Stepik&amp;rdquo;, который я прошел.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The course &amp;ldquo;Introduction to Linux&amp;rdquo; on the Stepik platform, which I completed.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>✅ Оформление отчёта</title>
+      <title>✅ Creating a report</title>
       <link>http://localhost:1313/post/report/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/report/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;📌 Как правильно оформить отчет: инструкция для лабораторных и НИР&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Написание отчета – важная часть любой научной или учебной работы. Правильно оформленный документ помогает четко изложить результаты и сделать их понятными для проверяющих. Вот основные моменты, на которые стоит обратить внимание:&lt;/p&gt;
-&lt;h3 id=&#34;1-структура-отчета&#34;&gt;&lt;strong&gt;1. Структура отчета&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;✔ &lt;strong&gt;Титульный лист&lt;/strong&gt; – название работы, ФИО автора, преподавателя/руководителя, дата.&lt;br&gt;
-✔ &lt;strong&gt;Оглавление&lt;/strong&gt; – с указанием страниц.&lt;br&gt;
-✔ &lt;strong&gt;Введение&lt;/strong&gt; – цель работы, задачи, актуальность.&lt;br&gt;
-✔ &lt;strong&gt;Теоретическая часть&lt;/strong&gt; – краткий обзор литературы, основные понятия.&lt;br&gt;
-✔ &lt;strong&gt;Методика&lt;/strong&gt; – описание методов, оборудования, алгоритмов.&lt;br&gt;
-✔ &lt;strong&gt;Результаты&lt;/strong&gt; – таблицы, графики, расчеты с пояснениями.&lt;br&gt;
-✔ &lt;strong&gt;Выводы&lt;/strong&gt; – краткое подведение итогов, соответствие целям.&lt;br&gt;
-✔ &lt;strong&gt;Список литературы&lt;/strong&gt; – оформленный по ГОСТу или требованиям вуза.&lt;/p&gt;
-&lt;h3 id=&#34;2-оформление-текста&#34;&gt;&lt;strong&gt;2. Оформление текста&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;🔹 &lt;strong&gt;Шрифт&lt;/strong&gt; – обычно Times New Roman, 12–14 pt.&lt;br&gt;
-🔹 &lt;strong&gt;Интервал&lt;/strong&gt; – 1,5 (для удобства чтения).&lt;br&gt;
-🔹 &lt;strong&gt;Поля&lt;/strong&gt; – стандартные (2–3 см).&lt;br&gt;
-🔹 &lt;strong&gt;Нумерация страниц&lt;/strong&gt; – сквозная, начиная с титульного листа (но на нем номер не ставится).&lt;/p&gt;
-&lt;h3 id=&#34;3-графики-и-таблицы&#34;&gt;&lt;strong&gt;3. Графики и таблицы&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;📊 &lt;strong&gt;Подписи&lt;/strong&gt; – должны быть четкими, с номерами (Рис. 1, Таблица 2).&lt;br&gt;
-📊 &lt;strong&gt;Обсуждение&lt;/strong&gt; – каждый график/таблицу нужно прокомментировать в тексте.&lt;/p&gt;
-&lt;h3 id=&#34;4-проверка-перед-сдачей&#34;&gt;&lt;strong&gt;4. Проверка перед сдачей&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;✅ Орфография и пунктуация (можно использовать сервисы вроде Grammarly).&lt;br&gt;
-✅ Соответствие требованиям методички (если есть).&lt;br&gt;
-✅ Логичность изложения – все ли выводы обоснованы?&lt;/p&gt;
+      <description>&lt;p&gt;** How to make a report correctly: instructions for laboratory and research**&lt;/p&gt;
+&lt;p&gt;Writing a report is an important part of any scientific or educational work. A properly designed document helps to clearly state the results and make them understandable to the examiners. Here are the main points worth paying attention to:&lt;/p&gt;
+&lt;h3 id=&#34;1-report-structure&#34;&gt;&lt;strong&gt;1. Report structure&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;✔ &lt;strong&gt;Title page&lt;/strong&gt; – title of the work, full name of the author, teacher/supervisor, date.&lt;br&gt;
+✔ &lt;strong&gt;Table of Contents&lt;/strong&gt; – indicating the pages.&lt;br&gt;
+✔ &lt;strong&gt;Introduction&lt;/strong&gt; – purpose of the work, tasks, relevance.&lt;br&gt;
+✔ &lt;strong&gt;The theoretical part&lt;/strong&gt; is a brief review of the literature, basic concepts.&lt;br&gt;
+✔ &lt;strong&gt;Methodology&lt;/strong&gt; – description of methods, equipment, algorithms.&lt;br&gt;
+✔ &lt;strong&gt;Results&lt;/strong&gt; – tables, graphs, calculations with explanations.&lt;br&gt;
+✔ &lt;strong&gt;Conclusions&lt;/strong&gt; – a brief summary of the results, meeting the goals.&lt;br&gt;
+✔ &lt;strong&gt;The list of references&lt;/strong&gt; is designed according to GOST or university requirements.&lt;/p&gt;
+&lt;h3 id=&#34;2-text-formatting&#34;&gt;&lt;strong&gt;2. Text formatting&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;🔹 &lt;strong&gt;Font&lt;/strong&gt; – usually Times New Roman, 12-14 pt.&lt;br&gt;
+🔹 **The interval ** is 1.5 (for readability).&lt;br&gt;
+🔹 &lt;strong&gt;The margins&lt;/strong&gt; are standard (2-3 cm).&lt;br&gt;
+*&lt;strong&gt;Page numbering&lt;/strong&gt; is end–to-end, starting from the title page (but no number is placed on it).&lt;/p&gt;
+&lt;h3 id=&#34;3-graphs-and-tables&#34;&gt;&lt;strong&gt;3. Graphs and tables&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;📊 &lt;strong&gt;Signatures&lt;/strong&gt; should be clear, with numbers (Fig. 1, Table 2).&lt;br&gt;
+📊 &lt;strong&gt;Discussion&lt;/strong&gt; – each graph/table needs to be commented in the text.&lt;/p&gt;
+&lt;h3 id=&#34;4-checking-before-delivery&#34;&gt;&lt;strong&gt;4. Checking before delivery&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Spelling and punctuation (you can use services like Grammarly).&lt;br&gt;
+Compliance with the requirements of the training manual (if any).&lt;br&gt;
+Logical presentation – are all conclusions justified?&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>✅ Пост по прошедшей неделе</title>
+      <title>✅ Last week&#39;s post</title>
       <link>http://localhost:1313/post/last-week-stage-4/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/last-week-stage-4/</guid>
-      <description>&lt;p&gt;Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p&gt;
-&lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
-&lt;p&gt;В понедельник я был на учебе, после чего выполнял необходимые задания, вечером отдыхал&lt;/p&gt;
-&lt;h2 id=&#34;вторник&#34;&gt;Вторник&lt;/h2&gt;
-&lt;p&gt;Во вторник я был на занятиях в институте, после чего поехал домой, а потом выехал на секцию о волейболу, вечером отдыхал.&lt;/p&gt;
-&lt;h2 id=&#34;среда&#34;&gt;Среда&lt;/h2&gt;
-&lt;p&gt;В среду я был на занятиях в иституте, первая для меня пара была рядом с главным корпусом, а вторая в корпусе моего факультета. После института отдыхал.&lt;/p&gt;
-&lt;h2 id=&#34;четверг&#34;&gt;Четверг&lt;/h2&gt;
-&lt;p&gt;В четверг я был на занятиях в институте, после них отдыхал и готовил задания к пятнице.&lt;/p&gt;
-&lt;h2 id=&#34;пятница&#34;&gt;Пятница&lt;/h2&gt;
-&lt;p&gt;В пятницу был на языковых занятиях в институте, после чего дома отдыхал.&lt;/p&gt;
-&lt;h2 id=&#34;суббота&#34;&gt;Суббота&lt;/h2&gt;
-&lt;p&gt;В субботу я был на дистанционных занятиях, после чего у меня была секция по волейболу в институте, после нее я отдыхал.&lt;/p&gt;
-&lt;h2 id=&#34;воскресенье&#34;&gt;Воскресенье&lt;/h2&gt;
-&lt;p&gt;В воскресенье я сделал себе выходной.&lt;/p&gt;
+      <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;On Monday, I was at school, after which I completed the necessary tasks, and rested in the evening.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;On Tuesday, I attended classes at the institute, after which I went home, and then went to the volleyball section, rested in the evening.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;On Wednesday, I was in class at the institute, the first pair for me was next to the main building, and the second was in the building of my faculty. I had a rest after college.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;On Thursday, I attended classes at the institute, after which I rested and prepared assignments for Friday.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;On Friday, I attended language classes at the institute, after which I rested at home.&lt;/p&gt;
+&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;On Saturday, I took distance classes, after which I had a volleyball section at the institute, after which I rested.&lt;/p&gt;
+&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
+&lt;p&gt;I took a day off on Sunday.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>✅ Язык разметки Markdown</title>
+      <title>✅ Markdown Markup Language</title>
       <link>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
-      <description>&lt;p&gt;Теоретические сведения.&lt;/p&gt;
-&lt;h2 id=&#34;базовые-сведения-о-markdown&#34;&gt;Базовые сведения о Markdown&lt;/h2&gt;
-&lt;p&gt;Чтобы создать заголовок, используйте знак ( # ).&lt;/p&gt;
+      <description>&lt;p&gt;Theoretical information.&lt;/p&gt;
+&lt;h2 id=&#34;basic-information-about-markdown&#34;&gt;Basic information about Markdown&lt;/h2&gt;
+&lt;p&gt;To create a title, use the ( # ) sign.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# This is heading 1
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;## This is heading 2
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;### This is heading 3
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;#### This is heading 4
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Чтобы задать для текста полужирное начертание, заключите его в двойные звездочки:&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To make the text bold, enclose it with double asterisks.:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This text is **bold**.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Чтобы задать для текста курсивное начертание, заключите его в одинарные звездочки:&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To set the text in italics, enclose it in single asterisks.:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This text is *italic*.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Чтобы задать для текста полужирное и курсивное начертание, заключите его в тройные звездочки:&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To make the text bold and italicized, enclose it in triple asterisks.:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This is text is both ***bold and italic***.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Блоки цитирования создаются с помощью символа &amp;gt;:&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Quotation blocks are created using the symbol &amp;gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;gt; The drought had lasted now for ten million years, and the reign of
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;the terrible lizards had long since ended. Here on the Equator, in
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;the continent which would one day be known as Africa, the battle
@@ -210,262 +233,260 @@ Fortran &amp;amp; C/C++ ⚡
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;was not yet in sight. In this barren and desiccated land, only the
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;small or the swift or the fierce could flourish, or even hope to
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;survive.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Неупорядоченный (маркированный) список можно отформатировать с помощью звез-
-дочек или тире:&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;An unordered (bulleted) list can be formatted using asterisks
+or dashes.:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- List item 1
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- List item 2
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- List item 3
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка:&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To nest one list into another, add an indentation for the elements of the child list.:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- List item 1
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - List item A
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - List item B
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- List item 2
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Упорядоченный список можно отформатировать с помощью соответствующих цифр:&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The ordered list can be formatted using the appropriate numbers.:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. First instruction
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Second instruction
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Third instruction
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка:&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To nest one list into another, add an indentation for the elements of the child list.:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. First instruction
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  1. Sub-instruction
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  1. Sub-instruction
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Second instruction
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Синтаксис Markdown для встроенной ссылки состоит из части [link text] , представ-
-ляющей текст гиперссылки, и части (file-name.md) – URL-адреса или имени файла,
-на который дается ссылка:&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The Markdown syntax for an embedded link consists of the [link text] part, representing-
+containing the hyperlink text, and parts of (file-name.md ) is the URL or name of the file
+to which the link is given.:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[link text](file-name.md)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Markdown поддерживает как встраивание фрагментов кода в предложение, так и их
-размещение между предложениями в виде отдельных огражденных блоков. Огражденные
-блоки кода — это простой способ выделить синтаксис для фрагментов кода. Общий
-формат огражденных блоков кода:&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Markdown supports both embedding code fragments into a sentence and
+placing them between sentences as separate fenced blocks. Fenced
+code blocks are an easy way to highlight syntax for code snippets. The general
+format of the protected code blocks:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;``` language
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2 your code goes in here
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Верхние и нижние индексы:&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Upper and lower indexes:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;    𝐻2
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;записывается как:&lt;/p&gt;
+&lt;p&gt;it is written as:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;H~2~O
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;  2^10^
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;записывается как&lt;/p&gt;
+&lt;p&gt;it is written as&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2^10^
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Внутритекстовые формулы делаются аналогично формулам LaTeX. Например, формула
-sin2(𝑥) + cos2(𝑥) = 1 запишется как:&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;In-text formulas are made similarly to LaTeX formulas. For example, the formula
+sin2(𝑥) + cos2(𝑥) = 1 is written as:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$\sin^2 (x) + \cos^2 (x) = 1$
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;обработка-файлов-в-формате-markdown&#34;&gt;Обработка файлов в формате Markdown&lt;/h2&gt;
-&lt;p&gt;Для обработки файлов в формате Markdown будем использовать Pandoc
-&lt;a href=&#34;https://pandoc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pandoc.org/&lt;/a&gt;. Конкретно, нам понадобится программа pandoc ,
-pandoc-citeproc &lt;a href=&#34;https://github.com/jgm/pandoc/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jgm/pandoc/releases&lt;/a&gt;, pandoc-crossref
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;processing-files-in-markdown-format&#34;&gt;Processing files in Markdown format&lt;/h2&gt;
+&lt;p&gt;We will use Pandoc to process files in Markdown format.
+&lt;a href=&#34;https://pandoc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pandoc.org/&lt;/a&gt;. Specifically, we will need the pandoc program,
+pandoc-citeproc. &lt;a href=&#34;https://github.com/jgm/pandoc/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jgm/pandoc/releases&lt;/a&gt; , pandoc-crossref
 &lt;a href=&#34;https://github.com/lierdakil/pandoc-crossref/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/lierdakil/pandoc-crossref/releases&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Преобразовать файл README.md можно следующим образом:&lt;/p&gt;
+&lt;p&gt;Convert the file README.md it can be done as follows:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;pandoc README.md -o README.pdf
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;или так&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Or so&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;pandoc README.md -o README.docx
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     
     <item>
-      <title>✅ Пост по прошедшей неделе</title>
+      <title>✅ Last week&#39;s post</title>
       <link>http://localhost:1313/post/last-week-stage-3/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/last-week-stage-3/</guid>
-      <description>&lt;p&gt;Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p&gt;
-&lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
-&lt;p&gt;В понедельник я был на учебе, после чего выполнял необходимые задания, вечером отдыхал&lt;/p&gt;
-&lt;h2 id=&#34;вторник&#34;&gt;Вторник&lt;/h2&gt;
-&lt;p&gt;Во вторник я был на занятиях в институте, после чего поехал домой, а потом выехал на секцию о волейболу, вечером отдыхал.&lt;/p&gt;
-&lt;h2 id=&#34;среда&#34;&gt;Среда&lt;/h2&gt;
-&lt;p&gt;В среду я был на занятиях в иституте, первая для меня пара была рядом с главным корпусом, а вторая в корпусе моего факультета. После института отдыхал.&lt;/p&gt;
-&lt;h2 id=&#34;четверг&#34;&gt;Четверг&lt;/h2&gt;
-&lt;p&gt;В четверг я был на занятиях в институте, после них отдыхал и готовил задания к пятнице.&lt;/p&gt;
-&lt;h2 id=&#34;пятница&#34;&gt;Пятница&lt;/h2&gt;
-&lt;p&gt;В пятницу был на языковых занятиях в институте, после чего дома выполняял лабораторную работу №8.&lt;/p&gt;
-&lt;h2 id=&#34;суббота&#34;&gt;Суббота&lt;/h2&gt;
-&lt;p&gt;В субботу я был на дистанционных занятиях, после чего у меня была секция по волейболу в институте, после нее я отдыхал&lt;/p&gt;
-&lt;h2 id=&#34;воскресенье&#34;&gt;Воскресенье&lt;/h2&gt;
-&lt;p&gt;Воскресенье было для меня как выходной, также я выполнил лабораторную работу №9.&lt;/p&gt;
+      <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;On Monday, I was at school, after which I completed the necessary tasks, and rested in the evening.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;On Tuesday, I attended classes at the institute, after which I went home, and then went to the volleyball section, rested in the evening.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;On Wednesday, I was in class at the institute, the first pair for me was next to the main building, and the second was in the building of my faculty. I had a rest after college.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;On Thursday, I attended classes at the institute, after which I rested and prepared assignments for Friday.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;On Friday, I attended language classes at the institute, after which I was at home doing laboratory work No. 8.&lt;/p&gt;
+&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
+&lt;p&gt;On Saturday, I took distance classes, after which I had a volleyball section at the institute, after which I rested.&lt;/p&gt;
+&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
+&lt;p&gt;Sunday was like a day off for me, and I also completed lab work No. 9.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>✅ Пост по прошедшей неделе</title>
+      <title>✅ Last week&#39;s post</title>
       <link>http://localhost:1313/post/last-week/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/last-week/</guid>
-      <description>&lt;p&gt;Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p&gt;
-&lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
-&lt;p&gt;В понедельник, я был на дистанционных занятиях, после которых выполнял работу &amp;ldquo;Алгоритм &amp;ldquo;Spigot&amp;rdquo; на C++&amp;rdquo; на вторник по предмету &amp;ldquo;Компьютерный практикум&amp;rdquo;. Вечером отдыхал.&lt;/p&gt;
-&lt;h2 id=&#34;вторник&#34;&gt;Вторник&lt;/h2&gt;
-&lt;p&gt;Во вторник я был на занятиях в институте, после чего поехал домой, а потом выехал на секцию о волейболу, вечером отдыхал.&lt;/p&gt;
-&lt;h2 id=&#34;среда&#34;&gt;Среда&lt;/h2&gt;
-&lt;p&gt;В среду я был на занятиях в иституте, первая для меня пара была рядом с главным корпусом, а вторая в корпусе моего факультета. Дома я создавал презентацию на четверг по предмету &amp;ldquo;Основы российской государственности&amp;rdquo; про Музей космонавтики в Москве. Вечером отдыхал.&lt;/p&gt;
-&lt;h2 id=&#34;четверг&#34;&gt;Четверг&lt;/h2&gt;
-&lt;p&gt;В четверг я был на занятиях в институте, на которых рассказал презентацию, которую готовил в среду защищал свою Лабораторную работу по предмету &amp;ldquo;Технология программирования&amp;rdquo;. После пар отдыхал.&lt;/p&gt;
-&lt;h2 id=&#34;пятница&#34;&gt;Пятница&lt;/h2&gt;
-&lt;p&gt;Перед институтом готовился к &amp;ldquo;solution essay&amp;rdquo; для Английского языка, на котором я его потом и писал. После института отдохнул и начал выполнять второй этап реализации индивидуального проекта по предемету &amp;ldquo;Операционные системы&amp;rdquo;.&lt;/p&gt;
+      <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
+&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
+&lt;p&gt;On Monday, I was in remote classes, after which I completed the work &amp;ldquo;The Spigot algorithm in C++&amp;rdquo; for Tuesday on the subject of &amp;ldquo;Computer workshop&amp;rdquo;. I rested in the evening.&lt;/p&gt;
+&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
+&lt;p&gt;On Tuesday, I attended classes at the institute, after which I went home, and then went to the volleyball section, rested in the evening.&lt;/p&gt;
+&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
+&lt;p&gt;On Wednesday, I was in class at the institute, the first pair for me was next to the main building, and the second was in the building of my faculty. At home, I was creating a presentation on Thursday on the subject &amp;ldquo;Fundamentals of Russian Statehood&amp;rdquo; about the Museum of Cosmonautics in Moscow. I rested in the evening.&lt;/p&gt;
+&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
+&lt;p&gt;On Thursday, I attended classes at the institute, where I told a presentation that I was preparing, and on Wednesday I defended my Laboratory work on the subject of &amp;ldquo;Programming Technology&amp;rdquo;. I rested after the steam.&lt;/p&gt;
+&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
+&lt;p&gt;Before the institute, I was preparing for the &amp;ldquo;solution essay&amp;rdquo; for English, in which I later wrote it. After graduation, I rested and began to carry out the second stage of the implementation of an individual project for the &amp;ldquo;Operating Systems&amp;rdquo; project.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>✅ Управление версиями. Git.</title>
+      <title>✅ Version control. Git.</title>
       <link>http://localhost:1313/post/git/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/git/</guid>
-      <description>&lt;p&gt;Теоретические сведения.&lt;/p&gt;
-&lt;h2 id=&#34;системы-контроля-версий-общие-понятия&#34;&gt;Системы контроля версий. Общие понятия&lt;/h2&gt;
-&lt;p&gt;Системы контроля версий (Version Control System, VCS) применяются при работе нескольких человек над одним проектом. Обычно основное дерево проекта хранится в локальном или удалённом репозитории, к которому настроен доступ для участников проекта. При внесении изменений в содержание проекта система контроля версий позволяет их фиксировать, совмещать изменения, произведённые разными участниками проекта, производить откат к любой более ранней версии проекта, если это требуется.&lt;/p&gt;
-&lt;p&gt;В классических системах контроля версий используется централизованная модель, предполагающая наличие единого репозитория для хранения файлов. Выполнение большинства функций по управлению версиями осуществляется специальным сервером. Участник проекта (пользователь) перед началом работы посредством определённых команд получает нужную ему версию файлов. После внесения изменений, пользователь размещает новую версию в хранилище. При этом предыдущие версии не удаляются из центрального хранилища и к ним можно вернуться в любой момент. Сервер может сохранять не полную версию изменённых файлов, а производить так называемую дельта-компрессию — сохранять только изменения между последовательными версиями, что позволяет уменьшить объём хранимых данных.&lt;/p&gt;
-&lt;p&gt;Системы контроля версий поддерживают возможность отслеживания и разрешения конфликтов, которые могут возникнуть при работе нескольких человек над одним файлом. Можно объединить (слить) изменения, сделанные разными участниками (автоматически или вручную), вручную выбрать нужную версию, отменить изменения вовсе или заблокировать файлы для изменения. В зависимости от настроек блокировка не позволяет другим пользователям получить рабочую копию или препятствует изменению рабочей копии файла средствами файловой системы ОС, обеспечивая таким образом, привилегированный доступ только одному пользователю, работающему с файлом.&lt;/p&gt;
-&lt;p&gt;Системы контроля версий также могут обеспечивать дополнительные, более гибкие функциональные возможности. Например, они могут поддерживать работу с несколькими версиями одного файла, сохраняя общую историю изменений до точки ветвления версий и собственные истории изменений каждой ветви. Кроме того, обычно доступна информация о том, кто из участников, когда и какие изменения вносил. Обычно такого рода информация хранится в журнале изменений, доступ к которому можно ограничить.&lt;/p&gt;
-&lt;p&gt;В отличие от классических, в распределённых системах контроля версий центральный репозиторий не является обязательным.&lt;/p&gt;
-&lt;p&gt;Среди классических VCS наиболее известны CVS, Subversion, а среди распределённых — Git, Bazaar, Mercurial. Принципы их работы схожи, отличаются они в основном синтаксисом используемых в работе команд.&lt;/p&gt;
-&lt;h2 id=&#34;примеры-использования-git&#34;&gt;Примеры использования git&lt;/h2&gt;
+      <description>&lt;p&gt;Theoretical information&lt;/p&gt;
+&lt;h2 id=&#34;version-control-systems-general-concepts&#34;&gt;Version control systems. General concepts&lt;/h2&gt;
+&lt;p&gt;Version Control Systems (VCS) are used when several people work on the same project. Usually, the main project tree is stored in a local or remote repository, to which access is configured for project participants. When making changes to the project content, the version control system allows you to fix them, combine changes made by different project participants, and roll back to any earlier version of the project, if required.&lt;/p&gt;
+&lt;p&gt;Classical version control systems use a centralized model that assumes a single repository for storing files. Most version control functions are performed by a dedicated server. The project participant (user) receives the required version of files through certain commands before starting work. After making changes, the user places the new version in the repository. However, previous versions are not deleted from the central repository and you can return to them at any time. The server may not save the full version of the modified files, but rather perform so-called delta compression — save only changes between successive versions, which reduces the amount of data stored.&lt;/p&gt;
+&lt;p&gt;Version control systems support the ability to track and resolve conflicts that may arise when multiple people are working on a single file. You can merge (merge) the changes made by different participants (automatically or manually), manually select the desired version, cancel the changes altogether, or lock the files for modification. Depending on the settings, the lock prevents other users from obtaining a working copy or prevents the OS file system from changing the working copy of the file, thus providing privileged access to only one user working with the file.&lt;/p&gt;
+&lt;p&gt;Version control systems can also provide additional, more flexible functionality. For example, they can support working with multiple versions of a single file, maintaining a common revision history up to the point of branching versions and their own revision histories of each branch. In addition, information is usually available about which of the participants made changes, when and what. Usually, this kind of information is stored in the changelog, access to which can be restricted.&lt;/p&gt;
+&lt;p&gt;Unlike classical systems, a central repository is not mandatory in distributed version control systems.&lt;/p&gt;
+&lt;p&gt;Among the classic VCS, CVS and Subversion are the most well—known, while among the distributed ones are Git, Bazaar, and Mercurial. The principles of their work are similar, they differ mainly in the syntax of the commands used in the work.&lt;/p&gt;
+&lt;h2 id=&#34;examples-of-using-git&#34;&gt;Examples of using git&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Система контроля версий Git представляет собой набор программ командной строки. Доступ к ним можно получить из терминала посредством ввода команды git с различными опциями.&lt;/p&gt;
+&lt;p&gt;The Git version control system is a set of command-line programs. They can be accessed from the terminal by entering the git command with various options.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Благодаря тому, что Git является распределённой системой контроля версий, резервную копию локального хранилища можно сделать простым копированием или архивацией.&lt;/p&gt;
+&lt;p&gt;Due to the fact that Git is a distributed version control system, a backup copy of the local storage can be made by simple copying or archiving.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;основные-команды-git&#34;&gt;Основные команды git&lt;/h2&gt;
+&lt;h2 id=&#34;basic-git-commands&#34;&gt;Basic git commands&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Перечислим наиболее часто используемые команды git.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s list the most frequently used git commands.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Создание основного дерева репозитория:&lt;/p&gt;
+&lt;p&gt;Creation of the main repository tree:&lt;/p&gt;
 &lt;p&gt;git init&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Получение обновлений (изменений) текущего дерева из центрального репозитория:&lt;/p&gt;
+&lt;p&gt;Getting updates (changes) to the current tree from the central repository:&lt;/p&gt;
 &lt;p&gt;git pull&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Отправка всех произведённых изменений локального дерева в центральный репозиторий:&lt;/p&gt;
+&lt;p&gt;Sending all changes made to the local tree to the central repository:&lt;/p&gt;
 &lt;p&gt;git push&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Просмотр списка изменённых файлов в текущей директории:&lt;/p&gt;
+&lt;p&gt;View the list of changed files in the current directory:&lt;/p&gt;
 &lt;p&gt;git status&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Просмотр текущих изменений:&lt;/p&gt;
+&lt;p&gt;View current changes:&lt;/p&gt;
 &lt;p&gt;git diff&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Сохранение текущих изменений:&lt;/p&gt;
+&lt;p&gt;Save current changes:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;добавить все изменённые и/или созданные файлы и/или каталоги:&lt;/p&gt;
+&lt;p&gt;add all modified and/or created files and/or directories:&lt;/p&gt;
 &lt;p&gt;git add .&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;добавить конкретные изменённые и/или созданные файлы и/или каталоги:&lt;/p&gt;
-&lt;p&gt;git add имена_файлов&lt;/p&gt;
+&lt;p&gt;add specific modified and/or created files and/or directories:&lt;/p&gt;
+&lt;p&gt;git add file_name&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;удалить файл и/или каталог из индекса репозитория (при этом файл и/или каталог остаётся в локальной директории):&lt;/p&gt;
-&lt;p&gt;git rm имена_файлов&lt;/p&gt;
+&lt;p&gt;delete the file and/or directory from the repository index (while the file and/or directory remains in the local directory):&lt;/p&gt;
+&lt;p&gt;git rm file_name&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Сохранение добавленных изменений:&lt;/p&gt;
+&lt;p&gt;Saving added changes:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;сохранить все добавленные изменения и все изменённые файлы:&lt;/p&gt;
-&lt;p&gt;git commit -am &amp;lsquo;Описание коммита&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;save all added changes and all modified files:&lt;/p&gt;
+&lt;p&gt;git commit -am &amp;lsquo;Description of the commit&amp;rsquo;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;сохранить добавленные изменения с внесением комментария через встроенный редактор:&lt;/p&gt;
+&lt;p&gt;save the added changes with a comment through the built-in editor:&lt;/p&gt;
 &lt;p&gt;git commit&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;создание новой ветки, базирующейся на текущей:&lt;/p&gt;
-&lt;p&gt;git checkout -b имя_ветки&lt;/p&gt;
+&lt;p&gt;create a new branch based on the current one:&lt;/p&gt;
+&lt;p&gt;git checkout -b_name&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;переключение на некоторую ветку:&lt;/p&gt;
-&lt;p&gt;git checkout имя_ветки&lt;/p&gt;
-&lt;p&gt;(при переключении на ветку, которой ещё нет в локальном репозитории, она будет создана и связана с удалённой)&lt;/p&gt;
+&lt;p&gt;switching to a certain branch:&lt;/p&gt;
+&lt;p&gt;git checkout branch name_&lt;/p&gt;
+&lt;p&gt;(when switching to a branch that is not yet in the local repository, it will be created and linked to the remote one)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;отправка изменений конкретной ветки в центральный репозиторий:&lt;/p&gt;
-&lt;p&gt;git push origin имя_ветки&lt;/p&gt;
+&lt;p&gt;sending changes of a specific branch to the central repository:&lt;/p&gt;
+&lt;p&gt;git push origin_name&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;слияние ветки с текущим деревом:&lt;/p&gt;
-&lt;p&gt;git merge &amp;ndash;no-ff имя_ветки&lt;/p&gt;
+&lt;p&gt;merge a branch with the current tree:&lt;/p&gt;
+&lt;p&gt;git merge &amp;ndash;no-ff_name&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Удаление ветки:&lt;/p&gt;
+&lt;p&gt;Deleting a branch:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;удаление локальной уже слитой с основным деревом ветки:&lt;/p&gt;
-&lt;p&gt;git branch -d имя_ветки&lt;/p&gt;
+&lt;p&gt;deleting a local branch that has already merged with the main tree:&lt;/p&gt;
+&lt;p&gt;git branch -d branch_name&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;принудительное удаление локальной ветки:&lt;/li&gt;
+&lt;li&gt;forced deletion of a local branch:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;git branch -D имя_ветки&lt;/p&gt;
+&lt;p&gt;git branch -D branch_name&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;удаление ветки с центрального репозитория:&lt;/li&gt;
+&lt;li&gt;deleting a branch from the central repository:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;git push origin :имя_ветки&lt;/p&gt;
+&lt;p&gt;git push origin :branch name_&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;базовая-настройка-git&#34;&gt;Базовая настройка git&lt;/h2&gt;
-&lt;h3 id=&#34;первичная-настройка-параметров-git&#34;&gt;Первичная настройка параметров git&lt;/h3&gt;
+&lt;h2 id=&#34;basic-git-setup&#34;&gt;Basic git setup&lt;/h2&gt;
+&lt;h3 id=&#34;initial-configuration-of-git-parameters&#34;&gt;Initial configuration of git parameters&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Зададим имя и email владельца репозитория:&lt;/p&gt;
+&lt;p&gt;Enter the name and email address of the repository owner:&lt;/p&gt;
 &lt;p&gt;git config &amp;ndash;global user.name &amp;ldquo;Name Surname&amp;rdquo;
 git config &amp;ndash;global user.email &amp;ldquo;work@mail&amp;rdquo;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Настроим utf-8 в выводе сообщений git:&lt;/p&gt;
+&lt;p&gt;Configure utf-8 in git message output:&lt;/p&gt;
 &lt;p&gt;git config &amp;ndash;global core.quotepath false&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Настройте верификацию и подписание коммитов git.&lt;/p&gt;
+&lt;p&gt;Set up verification and signing of git commits.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Зададим имя начальной ветки (будем называть её master):&lt;/p&gt;
+&lt;p&gt;We will set the name of the initial branch (we will call it master):&lt;/p&gt;
 &lt;p&gt;git config &amp;ndash;global init.defaultBranch master&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;учёт-переносов-строк&#34;&gt;Учёт переносов строк&lt;/h3&gt;
+&lt;h3 id=&#34;accounting-for-line-breaks&#34;&gt;Accounting for line breaks&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;В разных операционных системах приняты разные символы для перевода строк:
-Windows: \r\n (CR и LF);
+&lt;p&gt;Different operating systems use different characters for translating strings:
+Windows: \r\n (CR and LF);
 Unix: \n (LF);
 Mac: \r (CR).&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Посмотреть значения переносов строк в репозитории можно командой:&lt;/p&gt;
+&lt;p&gt;You can view the values of line breaks in the repository using the command:&lt;/p&gt;
 &lt;p&gt;git ls-files &amp;ndash;eol&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol&gt;
-&lt;li&gt;Параметр autocrlf&lt;/li&gt;
+&lt;li&gt;The autocrlf parameter is
+the core setting.autocrlf is designed to ensure that all line breaks in text files are the same in the main repository.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Настройка core.autocrlf предназначена для того, чтобы в главном репозитории все переводы строк текстовых файлах были одинаковы.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Настройка core.autocrlf с параметрами true и input делает все переводы строк текстовых файлов в главном репозитории одинаковыми.&lt;/p&gt;
+&lt;p&gt;Configuring core.autocrlf with the true and input parameters makes all line breaks of text files in the main repository the same.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;core.autocrlf true: конвертация CRLF-&amp;gt;LF при коммите и обратно LF-&amp;gt;CRLF при выгрузке кода из репозитория на файловую систему (обычно используется в Windows).&lt;/li&gt;
-&lt;li&gt;core.autocrlf input: конвертация CRLF-&amp;gt;LF только при коммитах (используются в MacOS/Linux).&lt;/li&gt;
+&lt;li&gt;core.autocrlf true: CRLF-&amp;gt;LF conversion when committing and back LF-&amp;gt;CRLF when uploading code from the repository to the file system (usually used on Windows).&lt;/li&gt;
+&lt;li&gt;core.autocrlf input: CRLF-&amp;gt;LF conversion only for commits (used on macOS/Linux).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Варианты конвертации&lt;/p&gt;
+&lt;p&gt;Conversion options&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -477,92 +498,6 @@ Mac: \r (CR).&lt;/p&gt;
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:1313/post/get-started/</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/get-started/</guid>
-      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
-
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#get-started&#34;&gt;Get Started&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#-click-here-to-become-a-sponsor-and-help-support-hugo-blox&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ecosystem&#34;&gt;Ecosystem&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#features&#34;&gt;Features&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#themes&#34;&gt;Themes&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#license&#34;&gt;License&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;get-started&#34;&gt;Get Started&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Hugo Blox community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/GetResearchDev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GetResearchDev&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; #MadeWithHugoBlox&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Hugo Blox&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Hugo Blox?&lt;/strong&gt; View the &lt;a href=&#34;https://docs.hugoblox.com/reference/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-hugo-blox&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Hugo Blox&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GetRD/academic-file-converter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bibtex To Markdown&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://hugoblox.com/creators/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn what other &lt;strong&gt;creators&lt;/strong&gt;&lt;/a&gt; are building with this template.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with no-code &lt;a href=&#34;https://hugoblox.com/blocks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;blocks&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://docs.hugoblox.com/getting-started/cms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://docs.hugoblox.com/getting-started/cms/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code syntax highlighting and LaTeX math supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one-page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 35+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Hugo Blox and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/getting-started/customize/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -587,438 +522,6 @@ Mac: \r (CR).&lt;/p&gt;
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:1313/post/second-brain/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/second-brain/</guid>
-      <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
-&lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
-&lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
-&lt;p&gt;Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.&lt;/p&gt;
-&lt;h2 id=&#34;mindmaps&#34;&gt;Mindmaps&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
-&lt;p&gt;With this open format, can even edit your mindmaps in other popular tools such as Obsidian.&lt;/p&gt;
-&lt;p&gt;Simply insert a Markdown code block labelled as &lt;code&gt;markmap&lt;/code&gt; and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
-&lt;p&gt;Mindmaps can be created by simply writing the items as a Markdown list within the &lt;code&gt;markmap&lt;/code&gt; code block, indenting each item to create as many sub-levels as you need:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
-```markmap {height=&#34;200px&#34;}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
-
-&lt;pre&gt;- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Anh here&amp;rsquo;s a more advanced mindmap with formatting, code blocks, and math:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log(&#39;hello&#39;);
-      console.log(&#39;code block&#39;);
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;markmap&#34; style=&#34;height: 500px;&#34;&gt;
-
-&lt;pre&gt;- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log(&#39;hello&#39;);
-      console.log(&#39;code block&#39;);
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;highlighting&#34;&gt;Highlighting&lt;/h2&gt;
-&lt;p&gt;&lt;mark&gt;Highlight&lt;/mark&gt; important text with &lt;code&gt;mark&lt;/code&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;mark&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Highlighted text&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;mark&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;callouts&#34;&gt;Callouts&lt;/h2&gt;
-&lt;p&gt;Use &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/#callouts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;callouts&lt;/a&gt; (aka &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;) to draw attention to notes, tips, and warnings.&lt;/p&gt;
-&lt;p&gt;By wrapping a paragraph in &lt;code&gt;{{% callout note %}} ... {{% /callout %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% callout note %}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /callout %}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Or use the &lt;code&gt;warning&lt;/code&gt; callout type so your readers don&amp;rsquo;t miss critical details:&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-yellow-100 dark:bg-yellow-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-red-400&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0zM12 15.75h.007v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/span&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:1313/post/data-visualization/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/data-visualization/</guid>
-      <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
-&lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
-&lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports the popular &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p&gt;
-&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
-&lt;p&gt;Demo:&lt;/p&gt;
-
-
-
-
-&lt;div id=&#34;chart-542631897&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-  async function fetchChartJSON() {
-    console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
-    const response = await fetch(&#39;.\/line-chart.json&#39;);
-    return await response.json();
-  }
-
-  (function() {
-    let a = setInterval( function() {
-      if ( typeof window.Plotly === &#39;undefined&#39; ) {
-        console.debug(&#39;Plotly not loaded yet...&#39;)
-        return;
-      }
-      clearInterval( a );
-
-      fetchChartJSON().then(chart =&gt; {
-        console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-542631897&#39;, chart.data, chart.layout, {responsive: true});
-      });
-    }, 500 );
-  })();
-&lt;/script&gt;
-
-&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
-&lt;h2 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports the &lt;em&gt;Mermaid&lt;/em&gt; Markdown extension for diagrams.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-graph TD
-A[Hard] --&amp;gt;|Text| B(Round)
-B --&amp;gt; C{Decision}
-C --&amp;gt;|One| D[Result 1]
-C --&amp;gt;|Two| E[Result 2]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;graph TD
-A[Hard] --&gt;|Text| B(Round)
-B --&gt; C{Decision}
-C --&gt;|One| D[Result 1]
-C --&gt;|Two| E[Result 2]
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-sequenceDiagram
-Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&amp;gt;&amp;gt;Alice: Great!
-John-&amp;gt;&amp;gt;Bob: How about you?
-Bob--&amp;gt;&amp;gt;John: Jolly good!
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;sequenceDiagram
-Alice-&gt;&gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&gt;&gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&gt;&gt;Alice: Great!
-John-&gt;&gt;Bob: How about you?
-Bob--&gt;&gt;John: Jolly good!
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-classDiagram
-Class01 &amp;lt;|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --&amp;gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&amp;gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 &amp;lt;--&amp;gt; C2: Cool label
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;classDiagram
-Class01 &lt;|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --&gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 &lt;--&gt; C2: Cool label
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-stateDiagram
-[*] --&amp;gt; Still
-Still --&amp;gt; [*]
-Still --&amp;gt; Moving
-Moving --&amp;gt; Still
-Moving --&amp;gt; Crash
-Crash --&amp;gt; [*]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;stateDiagram
-[*] --&gt; Still
-Still --&gt; [*]
-Still --&gt; Moving
-Moving --&gt; Still
-Moving --&gt; Crash
-Crash --&gt; [*]
-&lt;/div&gt;
-&lt;h2 id=&#34;data-frames&#34;&gt;Data Frames&lt;/h2&gt;
-&lt;p&gt;Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em&gt;Table&lt;/em&gt; shortcode to your page:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;table&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;results.csv&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;header&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;caption&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Table 1: My results&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;table class=&#34;table-auto w-full&#34;&gt;
-  
-    
-    
-    &lt;thead&gt;
-      &lt;tr&gt;  &lt;th class=&#34;border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left&#34;&gt;customer_id&lt;/th&gt;  &lt;th class=&#34;border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left&#34;&gt;score&lt;/th&gt;  &lt;/tr&gt;
-    &lt;/thead&gt;
-  
-  &lt;tbody&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;0&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;2&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;0.5&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;3&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-  &lt;/tbody&gt;
-  
-    &lt;caption class=&#34;table-caption&#34;&gt;Table 1: My results&lt;/caption&gt;
-  
-&lt;/table&gt;
-
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:1313/post/teach-courses/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/teach-courses/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
-&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
-&lt;p&gt;Teach your course by sharing videos with your students. Choose from one of the following approaches:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube D2vj0WcvH5c &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; bilibili BV1WV4y1r7DF &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
-  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1WV4y1r7DF&amp;page=1&#34;
-  allow=&#34;accelerometer; clipboard-write; encrypted-media; gyroscope; fullscreen; picture-in-picture;&#34;
-  class=&#34;w-full h-full&#34;
-  &gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Video file&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Videos may be added to a page by either placing them in your &lt;code&gt;assets/media/&lt;/code&gt; media library or in your &lt;a href=&#34;https://gohugo.io/content-management/page-bundles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page&amp;rsquo;s folder&lt;/a&gt;, and then embedding them with the &lt;em&gt;video&lt;/em&gt; shortcode:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; video src=&amp;quot;my_video.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;podcast&#34;&gt;Podcast&lt;/h2&gt;
-&lt;p&gt;You can add a podcast or music to a page by placing the MP3 file in the page&amp;rsquo;s folder or the media library folder and then embedding the audio on your page with the &lt;em&gt;audio&lt;/em&gt; shortcode:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; audio src=&amp;quot;ambient-piano.mp3&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Try it out:&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-&lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
-&lt;/audio&gt;
-
-&lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
-&lt;p&gt;Provide a simple yet fun self-assessment by revealing the solutions to challenges with the &lt;code&gt;spoiler&lt;/code&gt; shortcode:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;👉 Click to view the solution&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
-  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
-  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
-    You found me 🎉
-  &lt;/div&gt;
-&lt;/details&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. Enable math by setting the &lt;code&gt;math: true&lt;/code&gt; option in your page&amp;rsquo;s front matter, or enable math for your entire site by toggling math in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;features&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;math&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$...$&lt;/code&gt; or &lt;code&gt;$$...$$&lt;/code&gt;, respectively.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
-&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
-1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
-$$&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
-&lt;p&gt;Hugo Blox Builder utilises Hugo&amp;rsquo;s Markdown extension for highlighting code syntax. The code theme can be selected in the &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;inline-images&#34;&gt;Inline Images&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Python&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;
-  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
-    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt; Python&lt;/p&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
     </item>
     
     <item>
@@ -1269,81 +772,6 @@ data.head()
   &lt;span class=&#34;inline-block  pr-1&#34;&gt;
     &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
   &lt;/span&gt; Python&lt;/p&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>✅ Manage your projects</title>
-      <link>http://localhost:1313/post/project-management/</link>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/project-management/</guid>
-      <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
-&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
-&lt;p&gt;Simply insert a Markdown code block labelled as &lt;code&gt;markmap&lt;/code&gt; and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
-&lt;p&gt;Mindmaps can be created by simply writing the items as a Markdown list within the &lt;code&gt;markmap&lt;/code&gt; code block, indenting each item to create as many sub-levels as you need:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
-```markmap {height=&#34;200px&#34;}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
-
-&lt;pre&gt;- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports the &lt;em&gt;Mermaid&lt;/em&gt; Markdown extension for diagrams.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-&lt;/div&gt;
-&lt;h2 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h2&gt;
-&lt;p&gt;You can even write your todo lists in Markdown too:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write math example
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write diagram example
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [ ]&lt;/span&gt; Do something else
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
 </description>
     </item>

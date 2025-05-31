@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Неделя 17.03.2025 - 21.03.2025 | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-17.03.2025---21.03.2025/</link>
+      <atom:link href="http://localhost:1313/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-17.03.2025---21.03.2025/index.xml" rel="self" type="application/rss+xml" />
+    <description>Неделя 17.03.2025 - 21.03.2025</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Неделя 17.03.2025 - 21.03.2025</title>
+      <link>http://localhost:1313/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-17.03.2025---21.03.2025/</link>
+    </image>
+    
+    <item>
+      <title>✅ Пост по прошедшей неделе</title>
+      <link>http://localhost:1313/ru/post/last-week/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/post/last-week/</guid>
+      <description>&lt;p&gt;Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p&gt;
+&lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
+&lt;p&gt;В понедельник, я был на дистанционных занятиях, после которых выполнял работу &amp;ldquo;Алгоритм &amp;ldquo;Spigot&amp;rdquo; на C++&amp;rdquo; на вторник по предмету &amp;ldquo;Компьютерный практикум&amp;rdquo;. Вечером отдыхал.&lt;/p&gt;
+&lt;h2 id=&#34;вторник&#34;&gt;Вторник&lt;/h2&gt;
+&lt;p&gt;Во вторник я был на занятиях в институте, после чего поехал домой, а потом выехал на секцию о волейболу, вечером отдыхал.&lt;/p&gt;
+&lt;h2 id=&#34;среда&#34;&gt;Среда&lt;/h2&gt;
+&lt;p&gt;В среду я был на занятиях в иституте, первая для меня пара была рядом с главным корпусом, а вторая в корпусе моего факультета. Дома я создавал презентацию на четверг по предмету &amp;ldquo;Основы российской государственности&amp;rdquo; про Музей космонавтики в Москве. Вечером отдыхал.&lt;/p&gt;
+&lt;h2 id=&#34;четверг&#34;&gt;Четверг&lt;/h2&gt;
+&lt;p&gt;В четверг я был на занятиях в институте, на которых рассказал презентацию, которую готовил в среду защищал свою Лабораторную работу по предмету &amp;ldquo;Технология программирования&amp;rdquo;. После пар отдыхал.&lt;/p&gt;
+&lt;h2 id=&#34;пятница&#34;&gt;Пятница&lt;/h2&gt;
+&lt;p&gt;Перед институтом готовился к &amp;ldquo;solution essay&amp;rdquo; для Английского языка, на котором я его потом и писал. После института отдохнул и начал выполнять второй этап реализации индивидуального проекта по предемету &amp;ldquo;Операционные системы&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stepik | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/ru/tags/stepik/</link>
+      <atom:link href="http://localhost:1313/ru/tags/stepik/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stepik</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Stepik</title>
+      <link>http://localhost:1313/ru/tags/stepik/</link>
+    </image>
+    
+    <item>
+      <title>Stepik</title>
+      <link>http://localhost:1313/ru/project/stepik/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/project/stepik/</guid>
+      <description>&lt;p&gt;Курс &amp;ldquo;Введение в Linux&amp;rdquo; на платформе &amp;ldquo;Stepik&amp;rdquo;, который я прошел.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
