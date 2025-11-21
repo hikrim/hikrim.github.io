@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Report | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/ru/tags/report/</link>
-      <atom:link href="http://localhost:1313/ru/tags/report/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/ru/tags/report/</link>
+      <atom:link href="https://example.com/ru/tags/report/index.xml" rel="self" type="application/rss+xml" />
     <description>Report</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
       <title>Report</title>
-      <link>http://localhost:1313/ru/tags/report/</link>
+      <link>https://example.com/ru/tags/report/</link>
     </image>
     
     <item>
       <title>✅ Оформление отчёта</title>
-      <link>http://localhost:1313/ru/post/report/</link>
+      <link>https://example.com/ru/post/report/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/report/</guid>
+      <guid>https://example.com/ru/post/report/</guid>
       <description>&lt;p&gt;&lt;strong&gt;📌 Как правильно оформить отчет: инструкция для лабораторных и НИР&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Написание отчета – важная часть любой научной или учебной работы. Правильно оформленный документ помогает четко изложить результаты и сделать их понятными для проверяющих. Вот основные моменты, на которые стоит обратить внимание:&lt;/p&gt;
 &lt;h3 id=&#34;1-структура-отчета&#34;&gt;&lt;strong&gt;1. Структура отчета&lt;/strong&gt;&lt;/h3&gt;

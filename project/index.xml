@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://example.com/project/</link>
     </image>
     
     <item>
       <title>github blog</title>
-      <link>http://localhost:1313/project/github-blog/</link>
+      <link>https://example.com/project/github-blog/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/github-blog/</guid>
+      <guid>https://example.com/project/github-blog/</guid>
       <description>&lt;p&gt;My repository, which I use to add and edit information on this site.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>github os-intro</title>
-      <link>http://localhost:1313/project/github-study/</link>
+      <link>https://example.com/project/github-study/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/github-study/</guid>
+      <guid>https://example.com/project/github-study/</guid>
       <description>&lt;p&gt;My repository, which contains reports and presentations on laboratory work and not only in the course &amp;ldquo;Operating Systems&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Stepik</title>
-      <link>http://localhost:1313/project/stepik/</link>
+      <link>https://example.com/project/stepik/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/stepik/</guid>
+      <guid>https://example.com/project/stepik/</guid>
       <description>&lt;p&gt;The course &amp;ldquo;Introduction to Linux&amp;rdquo; on the Stepik platform, which I completed.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
+      <link>https://example.com/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
+      <guid>https://example.com/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
+      <link>https://example.com/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
+      <guid>https://example.com/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
+      <link>https://example.com/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
+      <guid>https://example.com/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     

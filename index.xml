@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Academic CV Theme</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Academic CV Theme</title>
-      <link>http://localhost:1313/</link>
+      <link>https://example.com/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/event/example/</link>
+      <link>https://example.com/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
+      <guid>https://example.com/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>✅ Last week&#39;s post</title>
-      <link>http://localhost:1313/post/last-week-stage-6/</link>
+      <link>https://example.com/post/last-week-stage-6/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/last-week-stage-6/</guid>
+      <guid>https://example.com/post/last-week-stage-6/</guid>
       <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;On Monday, I took distance classes, then rested.&lt;/p&gt;
@@ -58,9 +58,9 @@
     
     <item>
       <title>✅ Pointers in C&#43;&#43;</title>
-      <link>http://localhost:1313/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</link>
+      <link>https://example.com/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</guid>
+      <guid>https://example.com/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</guid>
       <description>&lt;p&gt;&lt;strong&gt;📌 Pointers in C++&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Pointers are one of the most powerful but complex topics in C++. They allow you to work with memory directly, which makes the code more flexible and efficient. Let&amp;rsquo;s figure out how they work!&lt;/p&gt;
 &lt;h3 id=&#34;-what-is-a-pointer&#34;&gt;🔹 What is a pointer?&lt;/h3&gt;
@@ -99,9 +99,9 @@ int* ptr; // ptr is a pointer to the int type&lt;/p&gt;
     
     <item>
       <title>✅ Last week&#39;s post</title>
-      <link>http://localhost:1313/post/last-week-stage-5/</link>
+      <link>https://example.com/post/last-week-stage-5/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/last-week-stage-5/</guid>
+      <guid>https://example.com/post/last-week-stage-5/</guid>
       <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;On Monday, I took distance classes, then rested.&lt;/p&gt;
@@ -122,9 +122,9 @@ int* ptr; // ptr is a pointer to the int type&lt;/p&gt;
     
     <item>
       <title>✅ Scientific programming languages</title>
-      <link>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
       <description>&lt;h1 id=&#34;scientific-programming-languages-which-ones-to-choose&#34;&gt;Scientific programming languages: which ones to choose?&lt;/h1&gt;
 &lt;p&gt;Scientific programming is a powerful tool for solving complex problems in mathematics, physics, bioinformatics, Data Science and other fields. But which languages are best suited for such calculations?
 📌 Top 5 languages for scientific calculations:&lt;/p&gt;
@@ -172,33 +172,33 @@ For statistics → R.
     
     <item>
       <title>github blog</title>
-      <link>http://localhost:1313/project/github-blog/</link>
+      <link>https://example.com/project/github-blog/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/github-blog/</guid>
+      <guid>https://example.com/project/github-blog/</guid>
       <description>&lt;p&gt;My repository, which I use to add and edit information on this site.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>github os-intro</title>
-      <link>http://localhost:1313/project/github-study/</link>
+      <link>https://example.com/project/github-study/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/github-study/</guid>
+      <guid>https://example.com/project/github-study/</guid>
       <description>&lt;p&gt;My repository, which contains reports and presentations on laboratory work and not only in the course &amp;ldquo;Operating Systems&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Stepik</title>
-      <link>http://localhost:1313/project/stepik/</link>
+      <link>https://example.com/project/stepik/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/stepik/</guid>
+      <guid>https://example.com/project/stepik/</guid>
       <description>&lt;p&gt;The course &amp;ldquo;Introduction to Linux&amp;rdquo; on the Stepik platform, which I completed.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>✅ Creating a report</title>
-      <link>http://localhost:1313/post/report/</link>
+      <link>https://example.com/post/report/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/report/</guid>
+      <guid>https://example.com/post/report/</guid>
       <description>&lt;p&gt;** How to make a report correctly: instructions for laboratory and research**&lt;/p&gt;
 &lt;p&gt;Writing a report is an important part of any scientific or educational work. A properly designed document helps to clearly state the results and make them understandable to the examiners. Here are the main points worth paying attention to:&lt;/p&gt;
 &lt;h3 id=&#34;1-report-structure&#34;&gt;&lt;strong&gt;1. Report structure&lt;/strong&gt;&lt;/h3&gt;
@@ -227,9 +227,9 @@ Logical presentation – are all conclusions justified?&lt;/p&gt;
     
     <item>
       <title>✅ Last week&#39;s post</title>
-      <link>http://localhost:1313/post/last-week-stage-4/</link>
+      <link>https://example.com/post/last-week-stage-4/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/last-week-stage-4/</guid>
+      <guid>https://example.com/post/last-week-stage-4/</guid>
       <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;On Monday, I was at school, after which I completed the necessary tasks, and rested in the evening.&lt;/p&gt;
@@ -250,9 +250,9 @@ Logical presentation – are all conclusions justified?&lt;/p&gt;
     
     <item>
       <title>✅ Markdown Markup Language</title>
-      <link>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
+      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
+      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
       <description>&lt;p&gt;Theoretical information.&lt;/p&gt;
 &lt;h2 id=&#34;basic-information-about-markdown&#34;&gt;Basic information about Markdown&lt;/h2&gt;
 &lt;p&gt;To create a title, use the ( # ) sign.&lt;/p&gt;
@@ -329,9 +329,9 @@ pandoc-citeproc. &lt;a href=&#34;https://github.com/jgm/pandoc/releases&#34; tar
     
     <item>
       <title>✅ Last week&#39;s post</title>
-      <link>http://localhost:1313/post/last-week-stage-3/</link>
+      <link>https://example.com/post/last-week-stage-3/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/last-week-stage-3/</guid>
+      <guid>https://example.com/post/last-week-stage-3/</guid>
       <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;On Monday, I was at school, after which I completed the necessary tasks, and rested in the evening.&lt;/p&gt;
@@ -352,9 +352,9 @@ pandoc-citeproc. &lt;a href=&#34;https://github.com/jgm/pandoc/releases&#34; tar
     
     <item>
       <title>✅ Last week&#39;s post</title>
-      <link>http://localhost:1313/post/last-week/</link>
+      <link>https://example.com/post/last-week/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/last-week/</guid>
+      <guid>https://example.com/post/last-week/</guid>
       <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;On Monday, I was in remote classes, after which I completed the work &amp;ldquo;The Spigot algorithm in C++&amp;rdquo; for Tuesday on the subject of &amp;ldquo;Computer workshop&amp;rdquo;. I rested in the evening.&lt;/p&gt;
@@ -371,9 +371,9 @@ pandoc-citeproc. &lt;a href=&#34;https://github.com/jgm/pandoc/releases&#34; tar
     
     <item>
       <title>✅ Version control. Git.</title>
-      <link>http://localhost:1313/post/git/</link>
+      <link>https://example.com/post/git/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/git/</guid>
+      <guid>https://example.com/post/git/</guid>
       <description>&lt;p&gt;Theoretical information&lt;/p&gt;
 &lt;h2 id=&#34;version-control-systems-general-concepts&#34;&gt;Version control systems. General concepts&lt;/h2&gt;
 &lt;p&gt;Version Control Systems (VCS) are used when several people work on the same project. Usually, the main project tree is stored in a local or remote repository, to which access is configured for project participants. When making changes to the project content, the version control system allows you to fix them, combine changes made by different project participants, and roll back to any earlier version of the project, if required.&lt;/p&gt;
@@ -535,49 +535,49 @@ the core setting.autocrlf is designed to ensure that all line breaks in text fil
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://example.com/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://example.com/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
+      <link>https://example.com/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
+      <guid>https://example.com/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
+      <link>https://example.com/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
+      <guid>https://example.com/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
+      <link>https://example.com/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
+      <guid>https://example.com/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>https://example.com/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>https://example.com/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:1313/teaching/js/</link>
+      <link>https://example.com/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/js/</guid>
+      <guid>https://example.com/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -620,7 +620,7 @@ the core setting.autocrlf is designed to ensure that all line breaks in text fil
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://example.com/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -697,9 +697,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:1313/teaching/python/</link>
+      <link>https://example.com/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/python/</guid>
+      <guid>https://example.com/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -742,7 +742,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://example.com/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -819,10 +819,10 @@ data.head()
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>http://localhost:1313/publication/preprint/</link>
+      <link>https://example.com/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>https://example.com/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://example.com/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -835,9 +835,9 @@ data.head()
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
+      <link>https://example.com/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
+      <guid>https://example.com/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -856,9 +856,9 @@ data.head()
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
+      <link>https://example.com/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <guid>https://example.com/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
