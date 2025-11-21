@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Неделя 17.03.2025 - 21.03.2025 | Hugo Academic CV Theme</title>
-    <link>https://example.com/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-17.03.2025---21.03.2025/</link>
-      <atom:link href="https://example.com/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-17.03.2025---21.03.2025/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hikrim.github.io/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-17.03.2025---21.03.2025/</link>
+      <atom:link href="https://hikrim.github.io/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-17.03.2025---21.03.2025/index.xml" rel="self" type="application/rss+xml" />
     <description>Неделя 17.03.2025 - 21.03.2025</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Неделя 17.03.2025 - 21.03.2025</title>
-      <link>https://example.com/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-17.03.2025---21.03.2025/</link>
+      <link>https://hikrim.github.io/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-17.03.2025---21.03.2025/</link>
     </image>
     
     <item>
       <title>✅ Пост по прошедшей неделе</title>
-      <link>https://example.com/ru/post/last-week/</link>
+      <link>https://hikrim.github.io/ru/post/last-week/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-week/</guid>
+      <guid>https://hikrim.github.io/ru/post/last-week/</guid>
       <description>&lt;p&gt;Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;В понедельник, я был на дистанционных занятиях, после которых выполнял работу &amp;ldquo;Алгоритм &amp;ldquo;Spigot&amp;rdquo; на C++&amp;rdquo; на вторник по предмету &amp;ldquo;Компьютерный практикум&amp;rdquo;. Вечером отдыхал.&lt;/p&gt;

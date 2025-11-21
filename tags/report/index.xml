@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Report | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/report/</link>
-      <atom:link href="https://example.com/tags/report/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hikrim.github.io/tags/report/</link>
+      <atom:link href="https://hikrim.github.io/tags/report/index.xml" rel="self" type="application/rss+xml" />
     <description>Report</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Report</title>
-      <link>https://example.com/tags/report/</link>
+      <link>https://hikrim.github.io/tags/report/</link>
     </image>
     
     <item>
       <title>✅ Creating a report</title>
-      <link>https://example.com/post/report/</link>
+      <link>https://hikrim.github.io/post/report/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/report/</guid>
+      <guid>https://hikrim.github.io/post/report/</guid>
       <description>&lt;p&gt;** How to make a report correctly: instructions for laboratory and research**&lt;/p&gt;
 &lt;p&gt;Writing a report is an important part of any scientific or educational work. A properly designed document helps to clearly state the results and make them understandable to the examiners. Here are the main points worth paying attention to:&lt;/p&gt;
 &lt;h3 id=&#34;1-report-structure&#34;&gt;&lt;strong&gt;1. Report structure&lt;/strong&gt;&lt;/h3&gt;

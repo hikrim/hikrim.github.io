@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Os-Intro | Hugo Academic CV Theme</title>
-    <link>https://example.com/ru/tags/os-intro/</link>
-      <atom:link href="https://example.com/ru/tags/os-intro/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hikrim.github.io/ru/tags/os-intro/</link>
+      <atom:link href="https://hikrim.github.io/ru/tags/os-intro/index.xml" rel="self" type="application/rss+xml" />
     <description>Os-Intro</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Os-Intro</title>
-      <link>https://example.com/ru/tags/os-intro/</link>
+      <link>https://hikrim.github.io/ru/tags/os-intro/</link>
     </image>
     
     <item>
       <title>github os-intro</title>
-      <link>https://example.com/ru/project/github-study/</link>
+      <link>https://hikrim.github.io/ru/project/github-study/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/github-study/</guid>
+      <guid>https://hikrim.github.io/ru/project/github-study/</guid>
       <description>&lt;p&gt;Мой репозиторий, который содержит отчеты и презентации по лабораторным работам и не только в курсе &amp;ldquo;Операционные системы&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     

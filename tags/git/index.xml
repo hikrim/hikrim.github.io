@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/git/</link>
-      <atom:link href="https://example.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hikrim.github.io/tags/git/</link>
+      <atom:link href="https://hikrim.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <description>Git</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Git</title>
-      <link>https://example.com/tags/git/</link>
+      <link>https://hikrim.github.io/tags/git/</link>
     </image>
     
     <item>
       <title>✅ Version control. Git.</title>
-      <link>https://example.com/post/git/</link>
+      <link>https://hikrim.github.io/post/git/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/git/</guid>
+      <guid>https://hikrim.github.io/post/git/</guid>
       <description>&lt;p&gt;Theoretical information&lt;/p&gt;
 &lt;h2 id=&#34;version-control-systems-general-concepts&#34;&gt;Version control systems. General concepts&lt;/h2&gt;
 &lt;p&gt;Version Control Systems (VCS) are used when several people work on the same project. Usually, the main project tree is stored in a local or remote repository, to which access is configured for project participants. When making changes to the project content, the version control system allows you to fix them, combine changes made by different project participants, and roll back to any earlier version of the project, if required.&lt;/p&gt;
