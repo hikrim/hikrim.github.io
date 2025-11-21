@@ -7,7 +7,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/event/example/"
                 />
     <xhtml:link
@@ -21,7 +21,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/event/"
                 />
     <xhtml:link
@@ -35,7 +35,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/post/last-week-stage-6/"
                 />
     <xhtml:link
@@ -49,7 +49,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/"
                 />
     <xhtml:link
@@ -63,7 +63,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/post/"
                 />
     <xhtml:link
@@ -76,12 +76,16 @@
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/tags/pointers-in-c&#43;&#43;/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/"
                 />
     <xhtml:link
@@ -94,40 +98,12 @@
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:1313/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/%D0%B1%D0%BB%D0%BE%D0%B3/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</loc>
-    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://localhost:1313/ru/tags/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/"
-                />
-  </url><url>
     <loc>http://localhost:1313/post/last-week-stage-5/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/post/last-week-stage-5/"
                 />
     <xhtml:link
@@ -141,7 +117,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/"
                 />
     <xhtml:link
@@ -155,7 +131,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/github/"
                 />
     <xhtml:link
@@ -169,7 +145,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/project/github-blog/"
                 />
     <xhtml:link
@@ -183,7 +159,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/project/github-study/"
                 />
     <xhtml:link
@@ -197,7 +173,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/github-pages/"
                 />
     <xhtml:link
@@ -211,7 +187,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/hugo/"
                 />
     <xhtml:link
@@ -225,7 +201,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/linux/"
                 />
     <xhtml:link
@@ -239,7 +215,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/os-intro/"
                 />
     <xhtml:link
@@ -253,7 +229,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/project/"
                 />
     <xhtml:link
@@ -271,7 +247,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/project/stepik/"
                 />
     <xhtml:link
@@ -285,7 +261,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/stepik/"
                 />
     <xhtml:link
@@ -303,7 +279,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/post/report/"
                 />
     <xhtml:link
@@ -317,7 +293,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/report/"
                 />
     <xhtml:link
@@ -331,7 +307,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/post/last-week-stage-4/"
                 />
     <xhtml:link
@@ -349,7 +325,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/"
                 />
     <xhtml:link
@@ -363,7 +339,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/markdown/"
                 />
     <xhtml:link
@@ -372,12 +348,26 @@
                 href="http://localhost:1313/tags/markdown/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</loc>
+    <lastmod>2025-04-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="http://localhost:1313/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/tags/%D0%B1%D0%BB%D0%BE%D0%B3/"
+                />
+  </url><url>
     <loc>http://localhost:1313/post/last-week-stage-3/</loc>
     <lastmod>2025-04-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/post/last-week-stage-3/"
                 />
     <xhtml:link
@@ -395,7 +385,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/post/last-week/"
                 />
     <xhtml:link
@@ -409,7 +399,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/post/git/"
                 />
     <xhtml:link
@@ -423,7 +413,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/git/"
                 />
     <xhtml:link
@@ -441,7 +431,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/projects/"
                 />
     <xhtml:link
@@ -455,7 +445,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/project/pandas/"
                 />
     <xhtml:link
@@ -469,7 +459,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/project/pytorch/"
                 />
     <xhtml:link
@@ -483,7 +473,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/project/scikit/"
                 />
     <xhtml:link
@@ -497,7 +487,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/wowchemy/"
                 />
     <xhtml:link
@@ -511,7 +501,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/experience/"
                 />
     <xhtml:link
@@ -525,7 +515,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/javascript/"
                 />
     <xhtml:link
@@ -539,7 +529,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/teaching/js/"
                 />
     <xhtml:link
@@ -553,7 +543,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/teaching/python/"
                 />
     <xhtml:link
@@ -567,7 +557,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/python/"
                 />
     <xhtml:link
@@ -581,7 +571,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/teaching/"
                 />
     <xhtml:link
@@ -595,7 +585,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/"
                 />
     <xhtml:link
@@ -609,7 +599,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/publication/preprint/"
                 />
     <xhtml:link
@@ -623,7 +613,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/publication_types/article/"
                 />
     <xhtml:link
@@ -637,7 +627,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/large-language-models/"
                 />
     <xhtml:link
@@ -651,7 +641,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/publication_types/"
                 />
     <xhtml:link
@@ -665,7 +655,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/publication/"
                 />
     <xhtml:link
@@ -679,7 +669,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/publication/journal-article/"
                 />
     <xhtml:link
@@ -693,7 +683,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/publication_types/article-journal/"
                 />
     <xhtml:link
@@ -707,7 +697,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/tags/source-themes/"
                 />
     <xhtml:link
@@ -721,7 +711,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/publication/conference-paper/"
                 />
     <xhtml:link
@@ -735,7 +725,7 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="http://localhost:1313/ru/publication_types/paper-conference/"
                 />
     <xhtml:link
