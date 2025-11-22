@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Hugo Academic CV Theme</title>
-    <link>https://hikrim.github.io/tags/blog/</link>
-      <atom:link href="https://hikrim.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/blog/</link>
+      <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
-      <link>https://hikrim.github.io/tags/blog/</link>
+      <link>http://localhost:1313/tags/blog/</link>
     </image>
     
     <item>
       <title>✅ Last week&#39;s post</title>
-      <link>https://hikrim.github.io/post/last-week-stage-6/</link>
+      <link>http://localhost:1313/post/last-week-stage-6/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://hikrim.github.io/post/last-week-stage-6/</guid>
+      <guid>http://localhost:1313/post/last-week-stage-6/</guid>
       <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;On Monday, I took distance classes, then rested.&lt;/p&gt;
@@ -37,9 +37,9 @@
     
     <item>
       <title>✅ Pointers in C&#43;&#43;</title>
-      <link>https://hikrim.github.io/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</link>
+      <link>http://localhost:1313/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://hikrim.github.io/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</guid>
+      <guid>http://localhost:1313/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</guid>
       <description>&lt;p&gt;&lt;strong&gt;📌 Pointers in C++&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Pointers are one of the most powerful but complex topics in C++. They allow you to work with memory directly, which makes the code more flexible and efficient. Let&amp;rsquo;s figure out how they work!&lt;/p&gt;
 &lt;h3 id=&#34;-what-is-a-pointer&#34;&gt;🔹 What is a pointer?&lt;/h3&gt;
@@ -78,9 +78,9 @@ int* ptr; // ptr is a pointer to the int type&lt;/p&gt;
     
     <item>
       <title>✅ Last week&#39;s post</title>
-      <link>https://hikrim.github.io/post/last-week-stage-5/</link>
+      <link>http://localhost:1313/post/last-week-stage-5/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://hikrim.github.io/post/last-week-stage-5/</guid>
+      <guid>http://localhost:1313/post/last-week-stage-5/</guid>
       <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;On Monday, I took distance classes, then rested.&lt;/p&gt;
@@ -101,9 +101,9 @@ int* ptr; // ptr is a pointer to the int type&lt;/p&gt;
     
     <item>
       <title>✅ Scientific programming languages</title>
-      <link>https://hikrim.github.io/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <link>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://hikrim.github.io/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <guid>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
       <description>&lt;h1 id=&#34;scientific-programming-languages-which-ones-to-choose&#34;&gt;Scientific programming languages: which ones to choose?&lt;/h1&gt;
 &lt;p&gt;Scientific programming is a powerful tool for solving complex problems in mathematics, physics, bioinformatics, Data Science and other fields. But which languages are best suited for such calculations?
 📌 Top 5 languages for scientific calculations:&lt;/p&gt;
@@ -151,9 +151,9 @@ For statistics → R.
     
     <item>
       <title>✅ Creating a report</title>
-      <link>https://hikrim.github.io/post/report/</link>
+      <link>http://localhost:1313/post/report/</link>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://hikrim.github.io/post/report/</guid>
+      <guid>http://localhost:1313/post/report/</guid>
       <description>&lt;p&gt;** How to make a report correctly: instructions for laboratory and research**&lt;/p&gt;
 &lt;p&gt;Writing a report is an important part of any scientific or educational work. A properly designed document helps to clearly state the results and make them understandable to the examiners. Here are the main points worth paying attention to:&lt;/p&gt;
 &lt;h3 id=&#34;1-report-structure&#34;&gt;&lt;strong&gt;1. Report structure&lt;/strong&gt;&lt;/h3&gt;
@@ -182,9 +182,9 @@ Logical presentation – are all conclusions justified?&lt;/p&gt;
     
     <item>
       <title>✅ Last week&#39;s post</title>
-      <link>https://hikrim.github.io/post/last-week-stage-4/</link>
+      <link>http://localhost:1313/post/last-week-stage-4/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://hikrim.github.io/post/last-week-stage-4/</guid>
+      <guid>http://localhost:1313/post/last-week-stage-4/</guid>
       <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;On Monday, I was at school, after which I completed the necessary tasks, and rested in the evening.&lt;/p&gt;
@@ -205,9 +205,9 @@ Logical presentation – are all conclusions justified?&lt;/p&gt;
     
     <item>
       <title>✅ Last week&#39;s post</title>
-      <link>https://hikrim.github.io/post/last-week-stage-3/</link>
+      <link>http://localhost:1313/post/last-week-stage-3/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://hikrim.github.io/post/last-week-stage-3/</guid>
+      <guid>http://localhost:1313/post/last-week-stage-3/</guid>
       <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;On Monday, I was at school, after which I completed the necessary tasks, and rested in the evening.&lt;/p&gt;
@@ -228,9 +228,9 @@ Logical presentation – are all conclusions justified?&lt;/p&gt;
     
     <item>
       <title>✅ Last week&#39;s post</title>
-      <link>https://hikrim.github.io/post/last-week/</link>
+      <link>http://localhost:1313/post/last-week/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://hikrim.github.io/post/last-week/</guid>
+      <guid>http://localhost:1313/post/last-week/</guid>
       <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
 &lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
 &lt;p&gt;On Monday, I was in remote classes, after which I completed the work &amp;ldquo;The Spigot algorithm in C++&amp;rdquo; for Tuesday on the subject of &amp;ldquo;Computer workshop&amp;rdquo;. I rested in the evening.&lt;/p&gt;

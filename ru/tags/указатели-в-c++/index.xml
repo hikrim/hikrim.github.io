@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Указатели В C&#43;&#43; | Hugo Academic CV Theme</title>
-    <link>https://hikrim.github.io/ru/tags/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</link>
-      <atom:link href="https://hikrim.github.io/ru/tags/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c++/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ru/tags/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</link>
+      <atom:link href="http://localhost:1313/ru/tags/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c++/index.xml" rel="self" type="application/rss+xml" />
     <description>Указатели В C&#43;&#43;</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Указатели В C&#43;&#43;</title>
-      <link>https://hikrim.github.io/ru/tags/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</link>
+      <link>http://localhost:1313/ru/tags/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</link>
     </image>
     
     <item>
       <title>✅ Указатели в C&#43;&#43;</title>
-      <link>https://hikrim.github.io/ru/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</link>
+      <link>http://localhost:1313/ru/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://hikrim.github.io/ru/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</guid>
+      <guid>http://localhost:1313/ru/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</guid>
       <description>&lt;p&gt;&lt;strong&gt;📌      Указатели в C++&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Указатели — одна из самых мощных, но сложных тем в C++. Они позволяют работать с памятью напрямую, что делает код более гибким и эффективным. Давайте разберёмся, как они устроены!&lt;/p&gt;
 &lt;h3 id=&#34;-что-такое-указатель&#34;&gt;🔹 Что такое указатель?&lt;/h3&gt;
