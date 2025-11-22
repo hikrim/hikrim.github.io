@@ -1,51 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Указатели В C&#43;&#43; | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/ru/tags/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</link>
-      <atom:link href="http://localhost:1313/ru/tags/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c++/index.xml" rel="self" type="application/rss+xml" />
-    <description>Указатели В C&#43;&#43;</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
-      <title>Указатели В C&#43;&#43;</title>
-      <link>http://localhost:1313/ru/tags/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</link>
-    </image>
-    
-    <item>
-      <title>✅ Указатели в C&#43;&#43;</title>
-      <link>http://localhost:1313/ru/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;📌      Указатели в C++&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Указатели — одна из самых мощных, но сложных тем в C++. Они позволяют работать с памятью напрямую, что делает код более гибким и эффективным. Давайте разберёмся, как они устроены!&lt;/p&gt;
-&lt;h3 id=&#34;-что-такое-указатель&#34;&gt;🔹 Что такое указатель?&lt;/h3&gt;
-&lt;p&gt;Указатель — это переменная, которая хранит &lt;strong&gt;адрес другой переменной&lt;/strong&gt; в памяти. Объявляется он так:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ptr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// ptr — указатель на тип int
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;-как-получить-адрес-переменной&#34;&gt;🔹 Как получить адрес переменной?&lt;/h3&gt;
-&lt;p&gt;Через оператор &lt;code&gt;&amp;amp;&lt;/code&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;num&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ptr&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// ptr теперь хранит адрес num
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;-разыменование-указателя&#34;&gt;🔹 Разыменование указателя&lt;/h3&gt;
-&lt;p&gt;Чтобы получить значение по адресу, используется оператор &lt;code&gt;*&lt;/code&gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;cout&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ptr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// Выведет 10 (значение num)
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;-динамическая-память&#34;&gt;🔹 Динамическая память&lt;/h3&gt;
-&lt;p&gt;Указатели часто используют для работы с динамической памятью:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;arr&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;];&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// Выделили память под массив
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;delete&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[]&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;arr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// Не забываем освободить!
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;-nullptr-вместо-null&#34;&gt;🔹 nullptr вместо NULL&lt;/h3&gt;
-&lt;p&gt;В современном C++ лучше использовать &lt;code&gt;nullptr&lt;/code&gt; для пустых указателей:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ptr&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;nullptr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// Указатель ни на что не ссылается
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;-зачем-это-нужно&#34;&gt;🔹 Зачем это нужно?&lt;/h3&gt;
-&lt;p&gt;Указатели применяют для:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Работы с динамическими структурами (массивы, списки).&lt;/li&gt;
-&lt;li&gt;Передачи больших данных в функции без копирования.&lt;/li&gt;
-&lt;li&gt;Полиморфизма (через указатели на базовые классы).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;💡 Совет:&lt;/strong&gt; Всегда проверяйте указатели на &lt;code&gt;nullptr&lt;/code&gt; перед использованием!&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Указатели В C++ | Hugo Academic CV Theme</title><link>https://hikrim.github.io/ru/tags/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c++/</link><atom:link href="https://hikrim.github.io/ru/tags/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c++/index.xml" rel="self" type="application/rss+xml"/><description>Указатели В C++</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate><image><url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url><title>Указатели В C++</title><link>https://hikrim.github.io/ru/tags/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c++/</link></image><item><title>✅ Указатели в C++</title><link>https://hikrim.github.io/ru/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c++/</link><pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/ru/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c++/</guid><description>&lt;p>&lt;strong>📌 Указатели в C++&lt;/strong>&lt;/p>
+&lt;p>Указатели — одна из самых мощных, но сложных тем в C++. Они позволяют работать с памятью напрямую, что делает код более гибким и эффективным. Давайте разберёмся, как они устроены!&lt;/p>
+&lt;h3 id="-что-такое-указатель">🔹 Что такое указатель?&lt;/h3>
+&lt;p>Указатель — это переменная, которая хранит &lt;strong>адрес другой переменной&lt;/strong> в памяти. Объявляется он так:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span>&lt;span class="o">*&lt;/span> &lt;span class="n">ptr&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="c1">// ptr — указатель на тип int
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="-как-получить-адрес-переменной">🔹 Как получить адрес переменной?&lt;/h3>
+&lt;p>Через оператор &lt;code>&amp;amp;&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span> &lt;span class="n">num&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">10&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span>&lt;span class="o">*&lt;/span> &lt;span class="n">ptr&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="o">&amp;amp;&lt;/span>&lt;span class="n">num&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="c1">// ptr теперь хранит адрес num
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="-разыменование-указателя">🔹 Разыменование указателя&lt;/h3>
+&lt;p>Чтобы получить значение по адресу, используется оператор &lt;code>*&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="n">cout&lt;/span> &lt;span class="o">&amp;lt;&amp;lt;&lt;/span> &lt;span class="o">*&lt;/span>&lt;span class="n">ptr&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="c1">// Выведет 10 (значение num)
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="-динамическая-память">🔹 Динамическая память&lt;/h3>
+&lt;p>Указатели часто используют для работы с динамической памятью:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span>&lt;span class="o">*&lt;/span> &lt;span class="n">arr&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="kt">int&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="mi">10&lt;/span>&lt;span class="p">];&lt;/span> &lt;span class="c1">// Выделили память под массив
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="k">delete&lt;/span>&lt;span class="p">[]&lt;/span> &lt;span class="n">arr&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="c1">// Не забываем освободить!
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="-nullptr-вместо-null">🔹 nullptr вместо NULL&lt;/h3>
+&lt;p>В современном C++ лучше использовать &lt;code>nullptr&lt;/code> для пустых указателей:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span>&lt;span class="o">*&lt;/span> &lt;span class="n">ptr&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">nullptr&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="c1">// Указатель ни на что не ссылается
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="-зачем-это-нужно">🔹 Зачем это нужно?&lt;/h3>
+&lt;p>Указатели применяют для:&lt;/p>
+&lt;ul>
+&lt;li>Работы с динамическими структурами (массивы, списки).&lt;/li>
+&lt;li>Передачи больших данных в функции без копирования.&lt;/li>
+&lt;li>Полиморфизма (через указатели на базовые классы).&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>💡 Совет:&lt;/strong> Всегда проверяйте указатели на &lt;code>nullptr&lt;/code> перед использованием!&lt;/p></description></item></channel></rss>

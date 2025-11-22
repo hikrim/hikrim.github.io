@@ -1,39 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Неделя 31.03.2025 - 06.04.2025 | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-31.03.2025---06.04.2025/</link>
-      <atom:link href="http://localhost:1313/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-31.03.2025---06.04.2025/index.xml" rel="self" type="application/rss+xml" />
-    <description>Неделя 31.03.2025 - 06.04.2025</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
-      <title>Неделя 31.03.2025 - 06.04.2025</title>
-      <link>http://localhost:1313/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-31.03.2025---06.04.2025/</link>
-    </image>
-    
-    <item>
-      <title>✅ Пост по прошедшей неделе</title>
-      <link>http://localhost:1313/ru/post/last-week-stage-3/</link>
-      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/last-week-stage-3/</guid>
-      <description>&lt;p&gt;Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p&gt;
-&lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
-&lt;p&gt;В понедельник я был на учебе, после чего выполнял необходимые задания, вечером отдыхал&lt;/p&gt;
-&lt;h2 id=&#34;вторник&#34;&gt;Вторник&lt;/h2&gt;
-&lt;p&gt;Во вторник я был на занятиях в институте, после чего поехал домой, а потом выехал на секцию о волейболу, вечером отдыхал.&lt;/p&gt;
-&lt;h2 id=&#34;среда&#34;&gt;Среда&lt;/h2&gt;
-&lt;p&gt;В среду я был на занятиях в иституте, первая для меня пара была рядом с главным корпусом, а вторая в корпусе моего факультета. После института отдыхал.&lt;/p&gt;
-&lt;h2 id=&#34;четверг&#34;&gt;Четверг&lt;/h2&gt;
-&lt;p&gt;В четверг я был на занятиях в институте, после них отдыхал и готовил задания к пятнице.&lt;/p&gt;
-&lt;h2 id=&#34;пятница&#34;&gt;Пятница&lt;/h2&gt;
-&lt;p&gt;В пятницу был на языковых занятиях в институте, после чего дома выполняял лабораторную работу №8.&lt;/p&gt;
-&lt;h2 id=&#34;суббота&#34;&gt;Суббота&lt;/h2&gt;
-&lt;p&gt;В субботу я был на дистанционных занятиях, после чего у меня была секция по волейболу в институте, после нее я отдыхал&lt;/p&gt;
-&lt;h2 id=&#34;воскресенье&#34;&gt;Воскресенье&lt;/h2&gt;
-&lt;p&gt;Воскресенье было для меня как выходной, также я выполнил лабораторную работу №9.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Неделя 31.03.2025 - 06.04.2025 | Hugo Academic CV Theme</title><link>https://hikrim.github.io/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-31.03.2025---06.04.2025/</link><atom:link href="https://hikrim.github.io/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-31.03.2025---06.04.2025/index.xml" rel="self" type="application/rss+xml"/><description>Неделя 31.03.2025 - 06.04.2025</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate><image><url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url><title>Неделя 31.03.2025 - 06.04.2025</title><link>https://hikrim.github.io/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-31.03.2025---06.04.2025/</link></image><item><title>✅ Пост по прошедшей неделе</title><link>https://hikrim.github.io/ru/post/last-week-stage-3/</link><pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/ru/post/last-week-stage-3/</guid><description>&lt;p>Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p>
+&lt;h2 id="понедельник">Понедельник&lt;/h2>
+&lt;p>В понедельник я был на учебе, после чего выполнял необходимые задания, вечером отдыхал&lt;/p>
+&lt;h2 id="вторник">Вторник&lt;/h2>
+&lt;p>Во вторник я был на занятиях в институте, после чего поехал домой, а потом выехал на секцию о волейболу, вечером отдыхал.&lt;/p>
+&lt;h2 id="среда">Среда&lt;/h2>
+&lt;p>В среду я был на занятиях в иституте, первая для меня пара была рядом с главным корпусом, а вторая в корпусе моего факультета. После института отдыхал.&lt;/p>
+&lt;h2 id="четверг">Четверг&lt;/h2>
+&lt;p>В четверг я был на занятиях в институте, после них отдыхал и готовил задания к пятнице.&lt;/p>
+&lt;h2 id="пятница">Пятница&lt;/h2>
+&lt;p>В пятницу был на языковых занятиях в институте, после чего дома выполняял лабораторную работу №8.&lt;/p>
+&lt;h2 id="суббота">Суббота&lt;/h2>
+&lt;p>В субботу я был на дистанционных занятиях, после чего у меня была секция по волейболу в институте, после нее я отдыхал&lt;/p>
+&lt;h2 id="воскресенье">Воскресенье&lt;/h2>
+&lt;p>Воскресенье было для меня как выходной, также я выполнил лабораторную работу №9.&lt;/p></description></item></channel></rss>

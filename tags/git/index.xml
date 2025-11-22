@@ -1,180 +1,156 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Git | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/git/</link>
-      <atom:link href="http://localhost:1313/tags/git/index.xml" rel="self" type="application/rss+xml" />
-    <description>Git</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
-      <title>Git</title>
-      <link>http://localhost:1313/tags/git/</link>
-    </image>
-    
-    <item>
-      <title>✅ Version control. Git.</title>
-      <link>http://localhost:1313/post/git/</link>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/git/</guid>
-      <description>&lt;p&gt;Theoretical information&lt;/p&gt;
-&lt;h2 id=&#34;version-control-systems-general-concepts&#34;&gt;Version control systems. General concepts&lt;/h2&gt;
-&lt;p&gt;Version Control Systems (VCS) are used when several people work on the same project. Usually, the main project tree is stored in a local or remote repository, to which access is configured for project participants. When making changes to the project content, the version control system allows you to fix them, combine changes made by different project participants, and roll back to any earlier version of the project, if required.&lt;/p&gt;
-&lt;p&gt;Classical version control systems use a centralized model that assumes a single repository for storing files. Most version control functions are performed by a dedicated server. The project participant (user) receives the required version of files through certain commands before starting work. After making changes, the user places the new version in the repository. However, previous versions are not deleted from the central repository and you can return to them at any time. The server may not save the full version of the modified files, but rather perform so-called delta compression — save only changes between successive versions, which reduces the amount of data stored.&lt;/p&gt;
-&lt;p&gt;Version control systems support the ability to track and resolve conflicts that may arise when multiple people are working on a single file. You can merge (merge) the changes made by different participants (automatically or manually), manually select the desired version, cancel the changes altogether, or lock the files for modification. Depending on the settings, the lock prevents other users from obtaining a working copy or prevents the OS file system from changing the working copy of the file, thus providing privileged access to only one user working with the file.&lt;/p&gt;
-&lt;p&gt;Version control systems can also provide additional, more flexible functionality. For example, they can support working with multiple versions of a single file, maintaining a common revision history up to the point of branching versions and their own revision histories of each branch. In addition, information is usually available about which of the participants made changes, when and what. Usually, this kind of information is stored in the changelog, access to which can be restricted.&lt;/p&gt;
-&lt;p&gt;Unlike classical systems, a central repository is not mandatory in distributed version control systems.&lt;/p&gt;
-&lt;p&gt;Among the classic VCS, CVS and Subversion are the most well—known, while among the distributed ones are Git, Bazaar, and Mercurial. The principles of their work are similar, they differ mainly in the syntax of the commands used in the work.&lt;/p&gt;
-&lt;h2 id=&#34;examples-of-using-git&#34;&gt;Examples of using git&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;The Git version control system is a set of command-line programs. They can be accessed from the terminal by entering the git command with various options.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Due to the fact that Git is a distributed version control system, a backup copy of the local storage can be made by simple copying or archiving.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;basic-git-commands&#34;&gt;Basic git commands&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Let&amp;rsquo;s list the most frequently used git commands.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Creation of the main repository tree:&lt;/p&gt;
-&lt;p&gt;git init&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Getting updates (changes) to the current tree from the central repository:&lt;/p&gt;
-&lt;p&gt;git pull&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Sending all changes made to the local tree to the central repository:&lt;/p&gt;
-&lt;p&gt;git push&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;View the list of changed files in the current directory:&lt;/p&gt;
-&lt;p&gt;git status&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;View current changes:&lt;/p&gt;
-&lt;p&gt;git diff&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Save current changes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;add all modified and/or created files and/or directories:&lt;/p&gt;
-&lt;p&gt;git add .&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;add specific modified and/or created files and/or directories:&lt;/p&gt;
-&lt;p&gt;git add file_name&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;delete the file and/or directory from the repository index (while the file and/or directory remains in the local directory):&lt;/p&gt;
-&lt;p&gt;git rm file_name&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Saving added changes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;save all added changes and all modified files:&lt;/p&gt;
-&lt;p&gt;git commit -am &amp;lsquo;Description of the commit&amp;rsquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;save the added changes with a comment through the built-in editor:&lt;/p&gt;
-&lt;p&gt;git commit&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;create a new branch based on the current one:&lt;/p&gt;
-&lt;p&gt;git checkout -b_name&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;switching to a certain branch:&lt;/p&gt;
-&lt;p&gt;git checkout branch name_&lt;/p&gt;
-&lt;p&gt;(when switching to a branch that is not yet in the local repository, it will be created and linked to the remote one)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;sending changes of a specific branch to the central repository:&lt;/p&gt;
-&lt;p&gt;git push origin_name&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;merge a branch with the current tree:&lt;/p&gt;
-&lt;p&gt;git merge &amp;ndash;no-ff_name&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Deleting a branch:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;deleting a local branch that has already merged with the main tree:&lt;/p&gt;
-&lt;p&gt;git branch -d branch_name&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;forced deletion of a local branch:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;git branch -D branch_name&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;deleting a branch from the central repository:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;git push origin :branch name_&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;basic-git-setup&#34;&gt;Basic git setup&lt;/h2&gt;
-&lt;h3 id=&#34;initial-configuration-of-git-parameters&#34;&gt;Initial configuration of git parameters&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Enter the name and email address of the repository owner:&lt;/p&gt;
-&lt;p&gt;git config &amp;ndash;global user.name &amp;ldquo;Name Surname&amp;rdquo;
-git config &amp;ndash;global user.email &amp;ldquo;work@mail&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Configure utf-8 in git message output:&lt;/p&gt;
-&lt;p&gt;git config &amp;ndash;global core.quotepath false&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Set up verification and signing of git commits.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;We will set the name of the initial branch (we will call it master):&lt;/p&gt;
-&lt;p&gt;git config &amp;ndash;global init.defaultBranch master&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;accounting-for-line-breaks&#34;&gt;Accounting for line breaks&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Different operating systems use different characters for translating strings:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Git | Hugo Academic CV Theme</title><link>https://hikrim.github.io/tags/git/</link><atom:link href="https://hikrim.github.io/tags/git/index.xml" rel="self" type="application/rss+xml"/><description>Git</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><image><url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url><title>Git</title><link>https://hikrim.github.io/tags/git/</link></image><item><title>✅ Version control. Git.</title><link>https://hikrim.github.io/post/git/</link><pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/post/git/</guid><description>&lt;p>Theoretical information&lt;/p>
+&lt;h2 id="version-control-systems-general-concepts">Version control systems. General concepts&lt;/h2>
+&lt;p>Version Control Systems (VCS) are used when several people work on the same project. Usually, the main project tree is stored in a local or remote repository, to which access is configured for project participants. When making changes to the project content, the version control system allows you to fix them, combine changes made by different project participants, and roll back to any earlier version of the project, if required.&lt;/p>
+&lt;p>Classical version control systems use a centralized model that assumes a single repository for storing files. Most version control functions are performed by a dedicated server. The project participant (user) receives the required version of files through certain commands before starting work. After making changes, the user places the new version in the repository. However, previous versions are not deleted from the central repository and you can return to them at any time. The server may not save the full version of the modified files, but rather perform so-called delta compression — save only changes between successive versions, which reduces the amount of data stored.&lt;/p>
+&lt;p>Version control systems support the ability to track and resolve conflicts that may arise when multiple people are working on a single file. You can merge (merge) the changes made by different participants (automatically or manually), manually select the desired version, cancel the changes altogether, or lock the files for modification. Depending on the settings, the lock prevents other users from obtaining a working copy or prevents the OS file system from changing the working copy of the file, thus providing privileged access to only one user working with the file.&lt;/p>
+&lt;p>Version control systems can also provide additional, more flexible functionality. For example, they can support working with multiple versions of a single file, maintaining a common revision history up to the point of branching versions and their own revision histories of each branch. In addition, information is usually available about which of the participants made changes, when and what. Usually, this kind of information is stored in the changelog, access to which can be restricted.&lt;/p>
+&lt;p>Unlike classical systems, a central repository is not mandatory in distributed version control systems.&lt;/p>
+&lt;p>Among the classic VCS, CVS and Subversion are the most well—known, while among the distributed ones are Git, Bazaar, and Mercurial. The principles of their work are similar, they differ mainly in the syntax of the commands used in the work.&lt;/p>
+&lt;h2 id="examples-of-using-git">Examples of using git&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>The Git version control system is a set of command-line programs. They can be accessed from the terminal by entering the git command with various options.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Due to the fact that Git is a distributed version control system, a backup copy of the local storage can be made by simple copying or archiving.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="basic-git-commands">Basic git commands&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Let&amp;rsquo;s list the most frequently used git commands.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Creation of the main repository tree:&lt;/p>
+&lt;p>git init&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Getting updates (changes) to the current tree from the central repository:&lt;/p>
+&lt;p>git pull&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sending all changes made to the local tree to the central repository:&lt;/p>
+&lt;p>git push&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>View the list of changed files in the current directory:&lt;/p>
+&lt;p>git status&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>View current changes:&lt;/p>
+&lt;p>git diff&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Save current changes:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>add all modified and/or created files and/or directories:&lt;/p>
+&lt;p>git add .&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>add specific modified and/or created files and/or directories:&lt;/p>
+&lt;p>git add file_name&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>delete the file and/or directory from the repository index (while the file and/or directory remains in the local directory):&lt;/p>
+&lt;p>git rm file_name&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Saving added changes:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>save all added changes and all modified files:&lt;/p>
+&lt;p>git commit -am &amp;lsquo;Description of the commit&amp;rsquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>save the added changes with a comment through the built-in editor:&lt;/p>
+&lt;p>git commit&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>create a new branch based on the current one:&lt;/p>
+&lt;p>git checkout -b_name&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>switching to a certain branch:&lt;/p>
+&lt;p>git checkout branch name_&lt;/p>
+&lt;p>(when switching to a branch that is not yet in the local repository, it will be created and linked to the remote one)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>sending changes of a specific branch to the central repository:&lt;/p>
+&lt;p>git push origin_name&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>merge a branch with the current tree:&lt;/p>
+&lt;p>git merge &amp;ndash;no-ff_name&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Deleting a branch:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>deleting a local branch that has already merged with the main tree:&lt;/p>
+&lt;p>git branch -d branch_name&lt;/p>
+&lt;ul>
+&lt;li>forced deletion of a local branch:&lt;/li>
+&lt;/ul>
+&lt;p>git branch -D branch_name&lt;/p>
+&lt;ul>
+&lt;li>deleting a branch from the central repository:&lt;/li>
+&lt;/ul>
+&lt;p>git push origin :branch name_&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="basic-git-setup">Basic git setup&lt;/h2>
+&lt;h3 id="initial-configuration-of-git-parameters">Initial configuration of git parameters&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Enter the name and email address of the repository owner:&lt;/p>
+&lt;p>git config &amp;ndash;global user.name &amp;ldquo;Name Surname&amp;rdquo;
+git config &amp;ndash;global user.email &amp;ldquo;work@mail&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Configure utf-8 in git message output:&lt;/p>
+&lt;p>git config &amp;ndash;global core.quotepath false&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Set up verification and signing of git commits.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>We will set the name of the initial branch (we will call it master):&lt;/p>
+&lt;p>git config &amp;ndash;global init.defaultBranch master&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="accounting-for-line-breaks">Accounting for line breaks&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Different operating systems use different characters for translating strings:
 Windows: \r\n (CR and LF);
 Unix: \n (LF);
-Mac: \r (CR).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;You can view the values of line breaks in the repository using the command:&lt;/p&gt;
-&lt;p&gt;git ls-files &amp;ndash;eol&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol&gt;
-&lt;li&gt;The autocrlf parameter is
-the core setting.autocrlf is designed to ensure that all line breaks in text files are the same in the main repository.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Configuring core.autocrlf with the true and input parameters makes all line breaks of text files in the main repository the same.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;core.autocrlf true: CRLF-&amp;gt;LF conversion when committing and back LF-&amp;gt;CRLF when uploading code from the repository to the file system (usually used on Windows).&lt;/li&gt;
-&lt;li&gt;core.autocrlf input: CRLF-&amp;gt;LF conversion only for commits (used on macOS/Linux).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Conversion options&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+Mac: \r (CR).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>You can view the values of line breaks in the repository using the command:&lt;/p>
+&lt;p>git ls-files &amp;ndash;eol&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>The autocrlf parameter is
+the core setting.autocrlf is designed to ensure that all line breaks in text files are the same in the main repository.&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>
+&lt;p>Configuring core.autocrlf with the true and input parameters makes all line breaks of text files in the main repository the same.&lt;/p>
+&lt;ul>
+&lt;li>core.autocrlf true: CRLF-&amp;gt;LF conversion when committing and back LF-&amp;gt;CRLF when uploading code from the repository to the file system (usually used on Windows).&lt;/li>
+&lt;li>core.autocrlf input: CRLF-&amp;gt;LF conversion only for commits (used on macOS/Linux).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Conversion options&lt;/p>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>

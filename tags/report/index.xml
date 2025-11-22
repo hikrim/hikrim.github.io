@@ -1,47 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Report | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/report/</link>
-      <atom:link href="http://localhost:1313/tags/report/index.xml" rel="self" type="application/rss+xml" />
-    <description>Report</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
-      <title>Report</title>
-      <link>http://localhost:1313/tags/report/</link>
-    </image>
-    
-    <item>
-      <title>✅ Creating a report</title>
-      <link>http://localhost:1313/post/report/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/report/</guid>
-      <description>&lt;p&gt;** How to make a report correctly: instructions for laboratory and research**&lt;/p&gt;
-&lt;p&gt;Writing a report is an important part of any scientific or educational work. A properly designed document helps to clearly state the results and make them understandable to the examiners. Here are the main points worth paying attention to:&lt;/p&gt;
-&lt;h3 id=&#34;1-report-structure&#34;&gt;&lt;strong&gt;1. Report structure&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;✔ &lt;strong&gt;Title page&lt;/strong&gt; – title of the work, full name of the author, teacher/supervisor, date.&lt;br&gt;
-✔ &lt;strong&gt;Table of Contents&lt;/strong&gt; – indicating the pages.&lt;br&gt;
-✔ &lt;strong&gt;Introduction&lt;/strong&gt; – purpose of the work, tasks, relevance.&lt;br&gt;
-✔ &lt;strong&gt;The theoretical part&lt;/strong&gt; is a brief review of the literature, basic concepts.&lt;br&gt;
-✔ &lt;strong&gt;Methodology&lt;/strong&gt; – description of methods, equipment, algorithms.&lt;br&gt;
-✔ &lt;strong&gt;Results&lt;/strong&gt; – tables, graphs, calculations with explanations.&lt;br&gt;
-✔ &lt;strong&gt;Conclusions&lt;/strong&gt; – a brief summary of the results, meeting the goals.&lt;br&gt;
-✔ &lt;strong&gt;The list of references&lt;/strong&gt; is designed according to GOST or university requirements.&lt;/p&gt;
-&lt;h3 id=&#34;2-text-formatting&#34;&gt;&lt;strong&gt;2. Text formatting&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;🔹 &lt;strong&gt;Font&lt;/strong&gt; – usually Times New Roman, 12-14 pt.&lt;br&gt;
-🔹 **The interval ** is 1.5 (for readability).&lt;br&gt;
-🔹 &lt;strong&gt;The margins&lt;/strong&gt; are standard (2-3 cm).&lt;br&gt;
-*&lt;strong&gt;Page numbering&lt;/strong&gt; is end–to-end, starting from the title page (but no number is placed on it).&lt;/p&gt;
-&lt;h3 id=&#34;3-graphs-and-tables&#34;&gt;&lt;strong&gt;3. Graphs and tables&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;📊 &lt;strong&gt;Signatures&lt;/strong&gt; should be clear, with numbers (Fig. 1, Table 2).&lt;br&gt;
-📊 &lt;strong&gt;Discussion&lt;/strong&gt; – each graph/table needs to be commented in the text.&lt;/p&gt;
-&lt;h3 id=&#34;4-checking-before-delivery&#34;&gt;&lt;strong&gt;4. Checking before delivery&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Spelling and punctuation (you can use services like Grammarly).&lt;br&gt;
-Compliance with the requirements of the training manual (if any).&lt;br&gt;
-Logical presentation – are all conclusions justified?&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Report | Hugo Academic CV Theme</title><link>https://hikrim.github.io/tags/report/</link><atom:link href="https://hikrim.github.io/tags/report/index.xml" rel="self" type="application/rss+xml"/><description>Report</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 May 2025 00:00:00 +0000</lastBuildDate><image><url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url><title>Report</title><link>https://hikrim.github.io/tags/report/</link></image><item><title>✅ Creating a report</title><link>https://hikrim.github.io/post/report/</link><pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/post/report/</guid><description>&lt;p>** How to make a report correctly: instructions for laboratory and research**&lt;/p>
+&lt;p>Writing a report is an important part of any scientific or educational work. A properly designed document helps to clearly state the results and make them understandable to the examiners. Here are the main points worth paying attention to:&lt;/p>
+&lt;h3 id="1-report-structure">&lt;strong>1. Report structure&lt;/strong>&lt;/h3>
+&lt;p>✔ &lt;strong>Title page&lt;/strong> – title of the work, full name of the author, teacher/supervisor, date.&lt;br>
+✔ &lt;strong>Table of Contents&lt;/strong> – indicating the pages.&lt;br>
+✔ &lt;strong>Introduction&lt;/strong> – purpose of the work, tasks, relevance.&lt;br>
+✔ &lt;strong>The theoretical part&lt;/strong> is a brief review of the literature, basic concepts.&lt;br>
+✔ &lt;strong>Methodology&lt;/strong> – description of methods, equipment, algorithms.&lt;br>
+✔ &lt;strong>Results&lt;/strong> – tables, graphs, calculations with explanations.&lt;br>
+✔ &lt;strong>Conclusions&lt;/strong> – a brief summary of the results, meeting the goals.&lt;br>
+✔ &lt;strong>The list of references&lt;/strong> is designed according to GOST or university requirements.&lt;/p>
+&lt;h3 id="2-text-formatting">&lt;strong>2. Text formatting&lt;/strong>&lt;/h3>
+&lt;p>🔹 &lt;strong>Font&lt;/strong> – usually Times New Roman, 12-14 pt.&lt;br>
+🔹 **The interval ** is 1.5 (for readability).&lt;br>
+🔹 &lt;strong>The margins&lt;/strong> are standard (2-3 cm).&lt;br>
+*&lt;strong>Page numbering&lt;/strong> is end–to-end, starting from the title page (but no number is placed on it).&lt;/p>
+&lt;h3 id="3-graphs-and-tables">&lt;strong>3. Graphs and tables&lt;/strong>&lt;/h3>
+&lt;p>📊 &lt;strong>Signatures&lt;/strong> should be clear, with numbers (Fig. 1, Table 2).&lt;br>
+📊 &lt;strong>Discussion&lt;/strong> – each graph/table needs to be commented in the text.&lt;/p>
+&lt;h3 id="4-checking-before-delivery">&lt;strong>4. Checking before delivery&lt;/strong>&lt;/h3>
+&lt;p>Spelling and punctuation (you can use services like Grammarly).&lt;br>
+Compliance with the requirements of the training manual (if any).&lt;br>
+Logical presentation – are all conclusions justified?&lt;/p></description></item></channel></rss>

@@ -1,35 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Week 17.03.2025 - 21.03.2025 | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/week-17.03.2025---21.03.2025/</link>
-      <atom:link href="http://localhost:1313/tags/week-17.03.2025---21.03.2025/index.xml" rel="self" type="application/rss+xml" />
-    <description>Week 17.03.2025 - 21.03.2025</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
-      <title>Week 17.03.2025 - 21.03.2025</title>
-      <link>http://localhost:1313/tags/week-17.03.2025---21.03.2025/</link>
-    </image>
-    
-    <item>
-      <title>✅ Last week&#39;s post</title>
-      <link>http://localhost:1313/post/last-week/</link>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/last-week/</guid>
-      <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
-&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
-&lt;p&gt;On Monday, I was in remote classes, after which I completed the work &amp;ldquo;The Spigot algorithm in C++&amp;rdquo; for Tuesday on the subject of &amp;ldquo;Computer workshop&amp;rdquo;. I rested in the evening.&lt;/p&gt;
-&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
-&lt;p&gt;On Tuesday, I attended classes at the institute, after which I went home, and then went to the volleyball section, rested in the evening.&lt;/p&gt;
-&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
-&lt;p&gt;On Wednesday, I was in class at the institute, the first pair for me was next to the main building, and the second was in the building of my faculty. At home, I was creating a presentation on Thursday on the subject &amp;ldquo;Fundamentals of Russian Statehood&amp;rdquo; about the Museum of Cosmonautics in Moscow. I rested in the evening.&lt;/p&gt;
-&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
-&lt;p&gt;On Thursday, I attended classes at the institute, where I told a presentation that I was preparing, and on Wednesday I defended my Laboratory work on the subject of &amp;ldquo;Programming Technology&amp;rdquo;. I rested after the steam.&lt;/p&gt;
-&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
-&lt;p&gt;Before the institute, I was preparing for the &amp;ldquo;solution essay&amp;rdquo; for English, in which I later wrote it. After graduation, I rested and began to carry out the second stage of the implementation of an individual project for the &amp;ldquo;Operating Systems&amp;rdquo; project.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Week 17.03.2025 - 21.03.2025 | Hugo Academic CV Theme</title><link>https://hikrim.github.io/tags/week-17.03.2025---21.03.2025/</link><atom:link href="https://hikrim.github.io/tags/week-17.03.2025---21.03.2025/index.xml" rel="self" type="application/rss+xml"/><description>Week 17.03.2025 - 21.03.2025</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><image><url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url><title>Week 17.03.2025 - 21.03.2025</title><link>https://hikrim.github.io/tags/week-17.03.2025---21.03.2025/</link></image><item><title>✅ Last week's post</title><link>https://hikrim.github.io/post/last-week/</link><pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/post/last-week/</guid><description>&lt;p>Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p>
+&lt;h2 id="monday">Monday&lt;/h2>
+&lt;p>On Monday, I was in remote classes, after which I completed the work &amp;ldquo;The Spigot algorithm in C++&amp;rdquo; for Tuesday on the subject of &amp;ldquo;Computer workshop&amp;rdquo;. I rested in the evening.&lt;/p>
+&lt;h2 id="tuesday">Tuesday&lt;/h2>
+&lt;p>On Tuesday, I attended classes at the institute, after which I went home, and then went to the volleyball section, rested in the evening.&lt;/p>
+&lt;h2 id="wednesday">Wednesday&lt;/h2>
+&lt;p>On Wednesday, I was in class at the institute, the first pair for me was next to the main building, and the second was in the building of my faculty. At home, I was creating a presentation on Thursday on the subject &amp;ldquo;Fundamentals of Russian Statehood&amp;rdquo; about the Museum of Cosmonautics in Moscow. I rested in the evening.&lt;/p>
+&lt;h2 id="thursday">Thursday&lt;/h2>
+&lt;p>On Thursday, I attended classes at the institute, where I told a presentation that I was preparing, and on Wednesday I defended my Laboratory work on the subject of &amp;ldquo;Programming Technology&amp;rdquo;. I rested after the steam.&lt;/p>
+&lt;h2 id="friday">Friday&lt;/h2>
+&lt;p>Before the institute, I was preparing for the &amp;ldquo;solution essay&amp;rdquo; for English, in which I later wrote it. After graduation, I rested and began to carry out the second stage of the implementation of an individual project for the &amp;ldquo;Operating Systems&amp;rdquo; project.&lt;/p></description></item></channel></rss>

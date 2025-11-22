@@ -1,119 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Markdown | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/ru/tags/markdown/</link>
-      <atom:link href="http://localhost:1313/ru/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
-    <description>Markdown</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
-      <title>Markdown</title>
-      <link>http://localhost:1313/ru/tags/markdown/</link>
-    </image>
-    
-    <item>
-      <title>✅ Язык разметки Markdown</title>
-      <link>http://localhost:1313/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
-      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
-      <description>&lt;p&gt;Теоретические сведения.&lt;/p&gt;
-&lt;h2 id=&#34;базовые-сведения-о-markdown&#34;&gt;Базовые сведения о Markdown&lt;/h2&gt;
-&lt;p&gt;Чтобы создать заголовок, используйте знак ( # ).&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# This is heading 1
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;## This is heading 2
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;### This is heading 3
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;#### This is heading 4
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Чтобы задать для текста полужирное начертание, заключите его в двойные звездочки:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This text is **bold**.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Чтобы задать для текста курсивное начертание, заключите его в одинарные звездочки:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This text is *italic*.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Чтобы задать для текста полужирное и курсивное начертание, заключите его в тройные звездочки:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This is text is both ***bold and italic***.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Блоки цитирования создаются с помощью символа &amp;gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;gt; The drought had lasted now for ten million years, and the reign of
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;the terrible lizards had long since ended. Here on the Equator, in
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;the continent which would one day be known as Africa, the battle
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;for existence had reached a new climax of ferocity, and the victor
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;was not yet in sight. In this barren and desiccated land, only the
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;small or the swift or the fierce could flourish, or even hope to
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;survive.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Неупорядоченный (маркированный) список можно отформатировать с помощью звез-
-дочек или тире:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- List item 1
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- List item 2
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- List item 3
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- List item 1
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - List item A
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - List item B
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- List item 2
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Упорядоченный список можно отформатировать с помощью соответствующих цифр:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. First instruction
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Second instruction
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Third instruction
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. First instruction
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  1. Sub-instruction
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  1. Sub-instruction
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Second instruction
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Синтаксис Markdown для встроенной ссылки состоит из части [link text] , представ-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Markdown | Hugo Academic CV Theme</title><link>https://hikrim.github.io/ru/tags/markdown/</link><atom:link href="https://hikrim.github.io/ru/tags/markdown/index.xml" rel="self" type="application/rss+xml"/><description>Markdown</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><image><url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url><title>Markdown</title><link>https://hikrim.github.io/ru/tags/markdown/</link></image><item><title>✅ Язык разметки Markdown</title><link>https://hikrim.github.io/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link><pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid><description>&lt;p>Теоретические сведения.&lt;/p>
+&lt;h2 id="базовые-сведения-о-markdown">Базовые сведения о Markdown&lt;/h2>
+&lt;p>Чтобы создать заголовок, используйте знак ( # ).&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl"># This is heading 1
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">## This is heading 2
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">### This is heading 3
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">#### This is heading 4
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Чтобы задать для текста полужирное начертание, заключите его в двойные звездочки:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">This text is **bold**.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Чтобы задать для текста курсивное начертание, заключите его в одинарные звездочки:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">This text is *italic*.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Чтобы задать для текста полужирное и курсивное начертание, заключите его в тройные звездочки:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">This is text is both ***bold and italic***.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Блоки цитирования создаются с помощью символа &amp;gt;:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">&amp;gt; The drought had lasted now for ten million years, and the reign of
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">the terrible lizards had long since ended. Here on the Equator, in
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">the continent which would one day be known as Africa, the battle
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">for existence had reached a new climax of ferocity, and the victor
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">was not yet in sight. In this barren and desiccated land, only the
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">small or the swift or the fierce could flourish, or even hope to
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">survive.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Неупорядоченный (маркированный) список можно отформатировать с помощью звез-
+дочек или тире:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">- List item 1
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- List item 2
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- List item 3
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">- List item 1
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> - List item A
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> - List item B
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- List item 2
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Упорядоченный список можно отформатировать с помощью соответствующих цифр:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">1. First instruction
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1. Second instruction
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1. Third instruction
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">1. First instruction
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 1. Sub-instruction
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 1. Sub-instruction
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1. Second instruction
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Синтаксис Markdown для встроенной ссылки состоит из части [link text] , представ-
 ляющей текст гиперссылки, и части (file-name.md) – URL-адреса или имени файла,
-на который дается ссылка:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[link text](file-name.md)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Markdown поддерживает как встраивание фрагментов кода в предложение, так и их
+на который дается ссылка:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">[link text](file-name.md)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Markdown поддерживает как встраивание фрагментов кода в предложение, так и их
 размещение между предложениями в виде отдельных огражденных блоков. Огражденные
 блоки кода — это простой способ выделить синтаксис для фрагментов кода. Общий
-формат огражденных блоков кода:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;``` language
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2 your code goes in here
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Верхние и нижние индексы:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;    𝐻2
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;записывается как:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;H~2~O
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;  2^10^
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;записывается как&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2^10^
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Внутритекстовые формулы делаются аналогично формулам LaTeX. Например, формула
-sin2(𝑥) + cos2(𝑥) = 1 запишется как:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$\sin^2 (x) + \cos^2 (x) = 1$
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;обработка-файлов-в-формате-markdown&#34;&gt;Обработка файлов в формате Markdown&lt;/h2&gt;
-&lt;p&gt;Для обработки файлов в формате Markdown будем использовать Pandoc
-&lt;a href=&#34;https://pandoc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pandoc.org/&lt;/a&gt;. Конкретно, нам понадобится программа pandoc ,
-pandoc-citeproc &lt;a href=&#34;https://github.com/jgm/pandoc/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jgm/pandoc/releases&lt;/a&gt;, pandoc-crossref
-&lt;a href=&#34;https://github.com/lierdakil/pandoc-crossref/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/lierdakil/pandoc-crossref/releases&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Преобразовать файл README.md можно следующим образом:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;pandoc README.md -o README.pdf
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;или так&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;pandoc README.md -o README.docx
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/ru/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/project/pandas/</guid>
-      <description>&lt;p&gt;Гибкая и мощная библиотека анализа и обработки данных для Python, предоставляющая маркированные структуры данных.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/ru/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch — это пакет Python, который обеспечивает тензорные вычисления (например, NumPy) с мощным ускорением на GPU.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/ru/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ru/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn — это модуль Python для машинного обучения, созданный на основе SciPy и распространяется по лицензии BSD из 3 пунктов.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+формат огражденных блоков кода:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">``` language
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">2 your code goes in here
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Верхние и нижние индексы:&lt;/p>
+&lt;pre>&lt;code> 𝐻2
+&lt;/code>&lt;/pre>
+&lt;p>записывается как:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">H~2~O
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre>&lt;code> 2^10^
+&lt;/code>&lt;/pre>
+&lt;p>записывается как&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">2^10^
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Внутритекстовые формулы делаются аналогично формулам LaTeX. Например, формула
+sin2(𝑥) + cos2(𝑥) = 1 запишется как:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">$\sin^2 (x) + \cos^2 (x) = 1$
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="обработка-файлов-в-формате-markdown">Обработка файлов в формате Markdown&lt;/h2>
+&lt;p>Для обработки файлов в формате Markdown будем использовать Pandoc
+&lt;a href="https://pandoc.org/" target="_blank" rel="noopener">https://pandoc.org/&lt;/a>. Конкретно, нам понадобится программа pandoc ,
+pandoc-citeproc &lt;a href="https://github.com/jgm/pandoc/releases" target="_blank" rel="noopener">https://github.com/jgm/pandoc/releases&lt;/a>, pandoc-crossref
+&lt;a href="https://github.com/lierdakil/pandoc-crossref/releases" target="_blank" rel="noopener">https://github.com/lierdakil/pandoc-crossref/releases&lt;/a>.&lt;/p>
+&lt;p>Преобразовать файл README.md можно следующим образом:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">pandoc README.md -o README.pdf
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>или так&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">pandoc README.md -o README.docx
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Pandas</title><link>https://hikrim.github.io/ru/project/pandas/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/ru/project/pandas/</guid><description>&lt;p>Гибкая и мощная библиотека анализа и обработки данных для Python, предоставляющая маркированные структуры данных.&lt;/p></description></item><item><title>PyTorch</title><link>https://hikrim.github.io/ru/project/pytorch/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/ru/project/pytorch/</guid><description>&lt;p>PyTorch — это пакет Python, который обеспечивает тензорные вычисления (например, NumPy) с мощным ускорением на GPU.&lt;/p></description></item><item><title>scikit-learn</title><link>https://hikrim.github.io/ru/project/scikit/</link><pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/ru/project/scikit/</guid><description>&lt;p>scikit-learn — это модуль Python для машинного обучения, созданный на основе SciPy и распространяется по лицензии BSD из 3 пунктов.&lt;/p></description></item></channel></rss>

@@ -1,492 +1,371 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
-      <title>Blog</title>
-      <link>http://localhost:1313/post/</link>
-    </image>
-    
-    <item>
-      <title>✅ Last week&#39;s post</title>
-      <link>http://localhost:1313/post/last-week-stage-6/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/last-week-stage-6/</guid>
-      <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
-&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
-&lt;p&gt;On Monday, I took distance classes, then rested.&lt;/p&gt;
-&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
-&lt;p&gt;On Tuesday I attended classes at the institute, there was a matanalysis test, after the institute I was preparing for the Wednesday test and did not rest.&lt;/p&gt;
-&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
-&lt;p&gt;On Wednesday I attended classes at the institute, there was a test in mathematical logic. After college, I got ready for Thursday at home and had a rest.&lt;/p&gt;
-&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
-&lt;p&gt;On Thursday, I attended classes at the institute, defended a laboratory paper on programming technology. After college, I got ready for Friday at home and had a rest.&lt;/p&gt;
-&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
-&lt;p&gt;On Friday I attended classes at the institute, there was a test in German and a monologue in English. I had a rest after college.&lt;/p&gt;
-&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
-&lt;p&gt;On Saturday, I rested and prepared for the next difficult week.&lt;/p&gt;
-&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
-&lt;p&gt;I did the same thing on Sunday as I did on Saturday.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>✅ Pointers in C&#43;&#43;</title>
-      <link>http://localhost:1313/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</link>
-      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c&#43;&#43;/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;📌 Pointers in C++&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Pointers are one of the most powerful but complex topics in C++. They allow you to work with memory directly, which makes the code more flexible and efficient. Let&amp;rsquo;s figure out how they work!&lt;/p&gt;
-&lt;h3 id=&#34;-what-is-a-pointer&#34;&gt;🔹 What is a pointer?&lt;/h3&gt;
-&lt;p&gt;A pointer is a variable that stores the &lt;strong&gt;address of another variable&lt;/strong&gt; in memory. He announces himself like this:&lt;br&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Hugo Academic CV Theme</title><link>https://hikrim.github.io/post/</link><atom:link href="https://hikrim.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Blog</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate><image><url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url><title>Blog</title><link>https://hikrim.github.io/post/</link></image><item><title>✅ Last week's post</title><link>https://hikrim.github.io/post/last-week-stage-6/</link><pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/post/last-week-stage-6/</guid><description>&lt;p>Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p>
+&lt;h2 id="monday">Monday&lt;/h2>
+&lt;p>On Monday, I took distance classes, then rested.&lt;/p>
+&lt;h2 id="tuesday">Tuesday&lt;/h2>
+&lt;p>On Tuesday I attended classes at the institute, there was a matanalysis test, after the institute I was preparing for the Wednesday test and did not rest.&lt;/p>
+&lt;h2 id="wednesday">Wednesday&lt;/h2>
+&lt;p>On Wednesday I attended classes at the institute, there was a test in mathematical logic. After college, I got ready for Thursday at home and had a rest.&lt;/p>
+&lt;h2 id="thursday">Thursday&lt;/h2>
+&lt;p>On Thursday, I attended classes at the institute, defended a laboratory paper on programming technology. After college, I got ready for Friday at home and had a rest.&lt;/p>
+&lt;h2 id="friday">Friday&lt;/h2>
+&lt;p>On Friday I attended classes at the institute, there was a test in German and a monologue in English. I had a rest after college.&lt;/p>
+&lt;h2 id="saturday">Saturday&lt;/h2>
+&lt;p>On Saturday, I rested and prepared for the next difficult week.&lt;/p>
+&lt;h2 id="sunday">Sunday&lt;/h2>
+&lt;p>I did the same thing on Sunday as I did on Saturday.&lt;/p></description></item><item><title>✅ Pointers in C++</title><link>https://hikrim.github.io/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c++/</link><pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c++/</guid><description>&lt;p>&lt;strong>📌 Pointers in C++&lt;/strong>&lt;/p>
+&lt;p>Pointers are one of the most powerful but complex topics in C++. They allow you to work with memory directly, which makes the code more flexible and efficient. Let&amp;rsquo;s figure out how they work!&lt;/p>
+&lt;h3 id="-what-is-a-pointer">🔹 What is a pointer?&lt;/h3>
+&lt;p>A pointer is a variable that stores the &lt;strong>address of another variable&lt;/strong> in memory. He announces himself like this:&lt;br>
 ``cpp
-int* ptr; // ptr is a pointer to the int type&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;### 🔹 How do I get the address of a variable?  &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Using&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;the&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;&amp;amp;` operator:  &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;```&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cpp&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;ne&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;num&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;ne&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ptr&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;//&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ptr&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;now&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;stores&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;the&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;address&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;of&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;num&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;-pointer-dereference&#34;&gt;🔹 Pointer dereference&lt;/h3&gt;
-&lt;p&gt;To get the value at the address, use the &lt;code&gt;*&lt;/code&gt; operator.:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;cout&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ptr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// Outputs 10 (the value of num)
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;``&lt;/span&gt;  
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;### 🔹 Dynamic memory  
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Pointers&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;are&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;often&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;used&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;to&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;work&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;with&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;dynamic&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;memory&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;:&lt;/span&gt;  
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;err&#34;&gt;``&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cpp&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;arr&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;];&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// Allocated memory for the
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;delete&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[]&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;arr&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;array&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// Don&amp;#39;t forget to release!
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;-nullptr-instead-of-null&#34;&gt;🔹 nullptr instead of NULL&lt;/h3&gt;
-&lt;p&gt;In modern C++, it is better to use &lt;code&gt;nullptr&lt;/code&gt; for empty pointers.:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ptr&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;nullptr&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// The pointer does not refer to anything
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;-why-is-this-necessary&#34;&gt;🔹 Why is this necessary?&lt;/h3&gt;
-&lt;p&gt;Pointers are used for:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Works with dynamic structures (arrays, lists).&lt;/li&gt;
-&lt;li&gt;Transfer big data to functions without copying.&lt;/li&gt;
-&lt;li&gt;Polymorphism (through pointers to base classes).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;, Advice:&lt;/strong&gt; Always check the pointers for &lt;code&gt;nullptr&lt;/code&gt; before using!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>✅ Last week&#39;s post</title>
-      <link>http://localhost:1313/post/last-week-stage-5/</link>
-      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/last-week-stage-5/</guid>
-      <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
-&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
-&lt;p&gt;On Monday, I took distance classes, then rested.&lt;/p&gt;
-&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
-&lt;p&gt;I didn&amp;rsquo;t have classes at the institute on Tuesday, so Tuesday was like a day off for me.&lt;/p&gt;
-&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
-&lt;p&gt;I also had no classes at the institute on Wednesday, so I started doing an external course.&lt;/p&gt;
-&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
-&lt;p&gt;Thursday was a day off, which I spent doing an external course.&lt;/p&gt;
-&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
-&lt;p&gt;On Friday, I played a volleyball tournament in our Fok, the tournament was in honor of Victory Day, and my team won first place with me.&lt;/p&gt;
-&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
-&lt;p&gt;On Saturday, I continued to do the external course and rested.&lt;/p&gt;
-&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
-&lt;p&gt;On Sunday, I finalized the external course by completing the last section.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>✅ Scientific programming languages</title>
-      <link>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
-      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
-      <description>&lt;h1 id=&#34;scientific-programming-languages-which-ones-to-choose&#34;&gt;Scientific programming languages: which ones to choose?&lt;/h1&gt;
-&lt;p&gt;Scientific programming is a powerful tool for solving complex problems in mathematics, physics, bioinformatics, Data Science and other fields. But which languages are best suited for such calculations?
-📌 Top 5 languages for scientific calculations:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Python 🐍
-
-    Advantages: Simplicity, rich libraries (NumPy, SciPy, Pandas, Matplotlib), machine learning support (TensorFlow, PyTorch).
-
-    Cons: Not the fastest, but integration with C/Fortran solves the problem.
-
+int* ptr; // ptr is a pointer to the int type&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-gdscript3" data-lang="gdscript3">&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">### 🔹 How do I get the address of a variable? &lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">Using&lt;/span> &lt;span class="n">the&lt;/span> &lt;span class="s1">&amp;#39;&amp;amp;` operator: &lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">```&lt;/span>&lt;span class="n">cpp&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="ne">int&lt;/span> &lt;span class="n">num&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">10&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="ne">int&lt;/span>&lt;span class="o">*&lt;/span> &lt;span class="n">ptr&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="o">&amp;amp;&lt;/span>&lt;span class="n">num&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="o">//&lt;/span> &lt;span class="n">ptr&lt;/span> &lt;span class="n">now&lt;/span> &lt;span class="n">stores&lt;/span> &lt;span class="n">the&lt;/span> &lt;span class="n">address&lt;/span> &lt;span class="n">of&lt;/span> &lt;span class="n">num&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="-pointer-dereference">🔹 Pointer dereference&lt;/h3>
+&lt;p>To get the value at the address, use the &lt;code>*&lt;/code> operator.:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="n">cout&lt;/span> &lt;span class="o">&amp;lt;&amp;lt;&lt;/span> &lt;span class="o">*&lt;/span>&lt;span class="n">ptr&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="c1">// Outputs 10 (the value of num)
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="err">``&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="cp">### 🔹 Dynamic memory
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="cp">&lt;/span>&lt;span class="n">Pointers&lt;/span> &lt;span class="n">are&lt;/span> &lt;span class="n">often&lt;/span> &lt;span class="n">used&lt;/span> &lt;span class="n">to&lt;/span> &lt;span class="n">work&lt;/span> &lt;span class="n">with&lt;/span> &lt;span class="n">dynamic&lt;/span> &lt;span class="n">memory&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="o">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="err">``&lt;/span>&lt;span class="n">cpp&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span>&lt;span class="o">*&lt;/span> &lt;span class="n">arr&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="kt">int&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="mi">10&lt;/span>&lt;span class="p">];&lt;/span> &lt;span class="c1">// Allocated memory for the
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="k">delete&lt;/span>&lt;span class="p">[]&lt;/span> &lt;span class="n">arr&lt;/span> &lt;span class="n">array&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="c1">// Don&amp;#39;t forget to release!
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="-nullptr-instead-of-null">🔹 nullptr instead of NULL&lt;/h3>
+&lt;p>In modern C++, it is better to use &lt;code>nullptr&lt;/code> for empty pointers.:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span>&lt;span class="o">*&lt;/span> &lt;span class="n">ptr&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">nullptr&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="c1">// The pointer does not refer to anything
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="-why-is-this-necessary">🔹 Why is this necessary?&lt;/h3>
+&lt;p>Pointers are used for:&lt;/p>
+&lt;ul>
+&lt;li>Works with dynamic structures (arrays, lists).&lt;/li>
+&lt;li>Transfer big data to functions without copying.&lt;/li>
+&lt;li>Polymorphism (through pointers to base classes).&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>, Advice:&lt;/strong> Always check the pointers for &lt;code>nullptr&lt;/code> before using!&lt;/p></description></item><item><title>✅ Last week's post</title><link>https://hikrim.github.io/post/last-week-stage-5/</link><pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/post/last-week-stage-5/</guid><description>&lt;p>Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p>
+&lt;h2 id="monday">Monday&lt;/h2>
+&lt;p>On Monday, I took distance classes, then rested.&lt;/p>
+&lt;h2 id="tuesday">Tuesday&lt;/h2>
+&lt;p>I didn&amp;rsquo;t have classes at the institute on Tuesday, so Tuesday was like a day off for me.&lt;/p>
+&lt;h2 id="wednesday">Wednesday&lt;/h2>
+&lt;p>I also had no classes at the institute on Wednesday, so I started doing an external course.&lt;/p>
+&lt;h2 id="thursday">Thursday&lt;/h2>
+&lt;p>Thursday was a day off, which I spent doing an external course.&lt;/p>
+&lt;h2 id="friday">Friday&lt;/h2>
+&lt;p>On Friday, I played a volleyball tournament in our Fok, the tournament was in honor of Victory Day, and my team won first place with me.&lt;/p>
+&lt;h2 id="saturday">Saturday&lt;/h2>
+&lt;p>On Saturday, I continued to do the external course and rested.&lt;/p>
+&lt;h2 id="sunday">Sunday&lt;/h2>
+&lt;p>On Sunday, I finalized the external course by completing the last section.&lt;/p></description></item><item><title>✅ Scientific programming languages</title><link>https://hikrim.github.io/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link><pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid><description>&lt;h1 id="scientific-programming-languages-which-ones-to-choose">Scientific programming languages: which ones to choose?&lt;/h1>
+&lt;p>Scientific programming is a powerful tool for solving complex problems in mathematics, physics, bioinformatics, Data Science and other fields. But which languages are best suited for such calculations?
+📌 Top 5 languages for scientific calculations:&lt;/p>
+&lt;pre>&lt;code>Python 🐍
+Advantages: Simplicity, rich libraries (NumPy, SciPy, Pandas, Matplotlib), machine learning support (TensorFlow, PyTorch).
+Cons: Not the fastest, but integration with C/Fortran solves the problem.
 Julia ✨
-
-    Advantages: High speed (like C), convenient syntax (like Python), built-in support for parallel computing.
-
-    Cons: There are fewer ready-made solutions than Python.
-
+Advantages: High speed (like C), convenient syntax (like Python), built-in support for parallel computing.
+Cons: There are fewer ready-made solutions than Python.
 R 📊
-
-    Pros: The best for statistics and data visualization (ggplot2, dplyr).
-
-    Cons: Slower than Python/Julia, specific syntax.
-
+Pros: The best for statistics and data visualization (ggplot2, dplyr).
+Cons: Slower than Python/Julia, specific syntax.
 MATLAB ➕
-
-    Pros: Ready-made tools for engineers and mathematicians, excellent visualization.
-
-    Cons: Expensive license, slower than modern analogues.
-
+Pros: Ready-made tools for engineers and mathematicians, excellent visualization.
+Cons: Expensive license, slower than modern analogues.
 Fortran &amp;amp; C/C++ ⚡
-
-    Positive: Maximum performance, used in HPC (supercomputers).
-
-    Cons: Complex syntax, long development time.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;, Which one should I choose?&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;For Data Science / ML → Python + Julia.
-
+Positive: Maximum performance, used in HPC (supercomputers).
+Cons: Complex syntax, long development time.
+&lt;/code>&lt;/pre>
+&lt;p>, Which one should I choose?&lt;/p>
+&lt;pre>&lt;code>For Data Science / ML → Python + Julia.
 For mathematical modeling → Julia / MATLAB.
-
 For high-performance computing → Fortran / C++.
-
 For statistics → R.
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>✅ Creating a report</title>
-      <link>http://localhost:1313/post/report/</link>
-      <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/report/</guid>
-      <description>&lt;p&gt;** How to make a report correctly: instructions for laboratory and research**&lt;/p&gt;
-&lt;p&gt;Writing a report is an important part of any scientific or educational work. A properly designed document helps to clearly state the results and make them understandable to the examiners. Here are the main points worth paying attention to:&lt;/p&gt;
-&lt;h3 id=&#34;1-report-structure&#34;&gt;&lt;strong&gt;1. Report structure&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;✔ &lt;strong&gt;Title page&lt;/strong&gt; – title of the work, full name of the author, teacher/supervisor, date.&lt;br&gt;
-✔ &lt;strong&gt;Table of Contents&lt;/strong&gt; – indicating the pages.&lt;br&gt;
-✔ &lt;strong&gt;Introduction&lt;/strong&gt; – purpose of the work, tasks, relevance.&lt;br&gt;
-✔ &lt;strong&gt;The theoretical part&lt;/strong&gt; is a brief review of the literature, basic concepts.&lt;br&gt;
-✔ &lt;strong&gt;Methodology&lt;/strong&gt; – description of methods, equipment, algorithms.&lt;br&gt;
-✔ &lt;strong&gt;Results&lt;/strong&gt; – tables, graphs, calculations with explanations.&lt;br&gt;
-✔ &lt;strong&gt;Conclusions&lt;/strong&gt; – a brief summary of the results, meeting the goals.&lt;br&gt;
-✔ &lt;strong&gt;The list of references&lt;/strong&gt; is designed according to GOST or university requirements.&lt;/p&gt;
-&lt;h3 id=&#34;2-text-formatting&#34;&gt;&lt;strong&gt;2. Text formatting&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;🔹 &lt;strong&gt;Font&lt;/strong&gt; – usually Times New Roman, 12-14 pt.&lt;br&gt;
-🔹 **The interval ** is 1.5 (for readability).&lt;br&gt;
-🔹 &lt;strong&gt;The margins&lt;/strong&gt; are standard (2-3 cm).&lt;br&gt;
-*&lt;strong&gt;Page numbering&lt;/strong&gt; is end–to-end, starting from the title page (but no number is placed on it).&lt;/p&gt;
-&lt;h3 id=&#34;3-graphs-and-tables&#34;&gt;&lt;strong&gt;3. Graphs and tables&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;📊 &lt;strong&gt;Signatures&lt;/strong&gt; should be clear, with numbers (Fig. 1, Table 2).&lt;br&gt;
-📊 &lt;strong&gt;Discussion&lt;/strong&gt; – each graph/table needs to be commented in the text.&lt;/p&gt;
-&lt;h3 id=&#34;4-checking-before-delivery&#34;&gt;&lt;strong&gt;4. Checking before delivery&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;Spelling and punctuation (you can use services like Grammarly).&lt;br&gt;
-Compliance with the requirements of the training manual (if any).&lt;br&gt;
-Logical presentation – are all conclusions justified?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>✅ Last week&#39;s post</title>
-      <link>http://localhost:1313/post/last-week-stage-4/</link>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/last-week-stage-4/</guid>
-      <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
-&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
-&lt;p&gt;On Monday, I was at school, after which I completed the necessary tasks, and rested in the evening.&lt;/p&gt;
-&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
-&lt;p&gt;On Tuesday, I attended classes at the institute, after which I went home, and then went to the volleyball section, rested in the evening.&lt;/p&gt;
-&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
-&lt;p&gt;On Wednesday, I was in class at the institute, the first pair for me was next to the main building, and the second was in the building of my faculty. I had a rest after college.&lt;/p&gt;
-&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
-&lt;p&gt;On Thursday, I attended classes at the institute, after which I rested and prepared assignments for Friday.&lt;/p&gt;
-&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
-&lt;p&gt;On Friday, I attended language classes at the institute, after which I rested at home.&lt;/p&gt;
-&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
-&lt;p&gt;On Saturday, I took distance classes, after which I had a volleyball section at the institute, after which I rested.&lt;/p&gt;
-&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
-&lt;p&gt;I took a day off on Sunday.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>✅ Markdown Markup Language</title>
-      <link>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
-      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
-      <description>&lt;p&gt;Theoretical information.&lt;/p&gt;
-&lt;h2 id=&#34;basic-information-about-markdown&#34;&gt;Basic information about Markdown&lt;/h2&gt;
-&lt;p&gt;To create a title, use the ( # ) sign.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# This is heading 1
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;## This is heading 2
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;### This is heading 3
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;#### This is heading 4
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To make the text bold, enclose it with double asterisks.:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This text is **bold**.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To set the text in italics, enclose it in single asterisks.:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This text is *italic*.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To make the text bold and italicized, enclose it in triple asterisks.:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;This is text is both ***bold and italic***.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Quotation blocks are created using the symbol &amp;gt;:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;gt; The drought had lasted now for ten million years, and the reign of
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;the terrible lizards had long since ended. Here on the Equator, in
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;the continent which would one day be known as Africa, the battle
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;for existence had reached a new climax of ferocity, and the victor
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;was not yet in sight. In this barren and desiccated land, only the
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;small or the swift or the fierce could flourish, or even hope to
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;survive.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;An unordered (bulleted) list can be formatted using asterisks
-or dashes.:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- List item 1
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- List item 2
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- List item 3
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To nest one list into another, add an indentation for the elements of the child list.:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- List item 1
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - List item A
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - List item B
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- List item 2
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The ordered list can be formatted using the appropriate numbers.:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. First instruction
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Second instruction
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Third instruction
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To nest one list into another, add an indentation for the elements of the child list.:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. First instruction
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  1. Sub-instruction
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  1. Sub-instruction
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Second instruction
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The Markdown syntax for an embedded link consists of the [link text] part, representing-
+&lt;/code>&lt;/pre></description></item><item><title>✅ Creating a report</title><link>https://hikrim.github.io/post/report/</link><pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/post/report/</guid><description>&lt;p>** How to make a report correctly: instructions for laboratory and research**&lt;/p>
+&lt;p>Writing a report is an important part of any scientific or educational work. A properly designed document helps to clearly state the results and make them understandable to the examiners. Here are the main points worth paying attention to:&lt;/p>
+&lt;h3 id="1-report-structure">&lt;strong>1. Report structure&lt;/strong>&lt;/h3>
+&lt;p>✔ &lt;strong>Title page&lt;/strong> – title of the work, full name of the author, teacher/supervisor, date.&lt;br>
+✔ &lt;strong>Table of Contents&lt;/strong> – indicating the pages.&lt;br>
+✔ &lt;strong>Introduction&lt;/strong> – purpose of the work, tasks, relevance.&lt;br>
+✔ &lt;strong>The theoretical part&lt;/strong> is a brief review of the literature, basic concepts.&lt;br>
+✔ &lt;strong>Methodology&lt;/strong> – description of methods, equipment, algorithms.&lt;br>
+✔ &lt;strong>Results&lt;/strong> – tables, graphs, calculations with explanations.&lt;br>
+✔ &lt;strong>Conclusions&lt;/strong> – a brief summary of the results, meeting the goals.&lt;br>
+✔ &lt;strong>The list of references&lt;/strong> is designed according to GOST or university requirements.&lt;/p>
+&lt;h3 id="2-text-formatting">&lt;strong>2. Text formatting&lt;/strong>&lt;/h3>
+&lt;p>🔹 &lt;strong>Font&lt;/strong> – usually Times New Roman, 12-14 pt.&lt;br>
+🔹 **The interval ** is 1.5 (for readability).&lt;br>
+🔹 &lt;strong>The margins&lt;/strong> are standard (2-3 cm).&lt;br>
+*&lt;strong>Page numbering&lt;/strong> is end–to-end, starting from the title page (but no number is placed on it).&lt;/p>
+&lt;h3 id="3-graphs-and-tables">&lt;strong>3. Graphs and tables&lt;/strong>&lt;/h3>
+&lt;p>📊 &lt;strong>Signatures&lt;/strong> should be clear, with numbers (Fig. 1, Table 2).&lt;br>
+📊 &lt;strong>Discussion&lt;/strong> – each graph/table needs to be commented in the text.&lt;/p>
+&lt;h3 id="4-checking-before-delivery">&lt;strong>4. Checking before delivery&lt;/strong>&lt;/h3>
+&lt;p>Spelling and punctuation (you can use services like Grammarly).&lt;br>
+Compliance with the requirements of the training manual (if any).&lt;br>
+Logical presentation – are all conclusions justified?&lt;/p></description></item><item><title>✅ Last week's post</title><link>https://hikrim.github.io/post/last-week-stage-4/</link><pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/post/last-week-stage-4/</guid><description>&lt;p>Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p>
+&lt;h2 id="monday">Monday&lt;/h2>
+&lt;p>On Monday, I was at school, after which I completed the necessary tasks, and rested in the evening.&lt;/p>
+&lt;h2 id="tuesday">Tuesday&lt;/h2>
+&lt;p>On Tuesday, I attended classes at the institute, after which I went home, and then went to the volleyball section, rested in the evening.&lt;/p>
+&lt;h2 id="wednesday">Wednesday&lt;/h2>
+&lt;p>On Wednesday, I was in class at the institute, the first pair for me was next to the main building, and the second was in the building of my faculty. I had a rest after college.&lt;/p>
+&lt;h2 id="thursday">Thursday&lt;/h2>
+&lt;p>On Thursday, I attended classes at the institute, after which I rested and prepared assignments for Friday.&lt;/p>
+&lt;h2 id="friday">Friday&lt;/h2>
+&lt;p>On Friday, I attended language classes at the institute, after which I rested at home.&lt;/p>
+&lt;h2 id="saturday">Saturday&lt;/h2>
+&lt;p>On Saturday, I took distance classes, after which I had a volleyball section at the institute, after which I rested.&lt;/p>
+&lt;h2 id="sunday">Sunday&lt;/h2>
+&lt;p>I took a day off on Sunday.&lt;/p></description></item><item><title>✅ Markdown Markup Language</title><link>https://hikrim.github.io/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link><pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid><description>&lt;p>Theoretical information.&lt;/p>
+&lt;h2 id="basic-information-about-markdown">Basic information about Markdown&lt;/h2>
+&lt;p>To create a title, use the ( # ) sign.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl"># This is heading 1
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">## This is heading 2
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">### This is heading 3
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">#### This is heading 4
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>To make the text bold, enclose it with double asterisks.:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">This text is **bold**.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>To set the text in italics, enclose it in single asterisks.:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">This text is *italic*.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>To make the text bold and italicized, enclose it in triple asterisks.:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">This is text is both ***bold and italic***.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Quotation blocks are created using the symbol &amp;gt;:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">&amp;gt; The drought had lasted now for ten million years, and the reign of
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">the terrible lizards had long since ended. Here on the Equator, in
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">the continent which would one day be known as Africa, the battle
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">for existence had reached a new climax of ferocity, and the victor
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">was not yet in sight. In this barren and desiccated land, only the
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">small or the swift or the fierce could flourish, or even hope to
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">survive.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>An unordered (bulleted) list can be formatted using asterisks
+or dashes.:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">- List item 1
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- List item 2
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- List item 3
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>To nest one list into another, add an indentation for the elements of the child list.:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">- List item 1
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> - List item A
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> - List item B
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- List item 2
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>The ordered list can be formatted using the appropriate numbers.:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">1. First instruction
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1. Second instruction
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1. Third instruction
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>To nest one list into another, add an indentation for the elements of the child list.:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">1. First instruction
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 1. Sub-instruction
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 1. Sub-instruction
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1. Second instruction
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>The Markdown syntax for an embedded link consists of the [link text] part, representing-
 containing the hyperlink text, and parts of (file-name.md ) is the URL or name of the file
-to which the link is given.:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[link text](file-name.md)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Markdown supports both embedding code fragments into a sentence and
+to which the link is given.:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">[link text](file-name.md)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Markdown supports both embedding code fragments into a sentence and
 placing them between sentences as separate fenced blocks. Fenced
 code blocks are an easy way to highlight syntax for code snippets. The general
-format of the protected code blocks:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;``` language
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2 your code goes in here
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Upper and lower indexes:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;    𝐻2
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;it is written as:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;H~2~O
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;  2^10^
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;it is written as&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2^10^
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;In-text formulas are made similarly to LaTeX formulas. For example, the formula
-sin2(𝑥) + cos2(𝑥) = 1 is written as:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$\sin^2 (x) + \cos^2 (x) = 1$
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;processing-files-in-markdown-format&#34;&gt;Processing files in Markdown format&lt;/h2&gt;
-&lt;p&gt;We will use Pandoc to process files in Markdown format.
-&lt;a href=&#34;https://pandoc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pandoc.org/&lt;/a&gt;. Specifically, we will need the pandoc program,
-pandoc-citeproc. &lt;a href=&#34;https://github.com/jgm/pandoc/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jgm/pandoc/releases&lt;/a&gt; , pandoc-crossref
-&lt;a href=&#34;https://github.com/lierdakil/pandoc-crossref/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/lierdakil/pandoc-crossref/releases&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Convert the file README.md it can be done as follows:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;pandoc README.md -o README.pdf
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Or so&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;pandoc README.md -o README.docx
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>✅ Last week&#39;s post</title>
-      <link>http://localhost:1313/post/last-week-stage-3/</link>
-      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/last-week-stage-3/</guid>
-      <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
-&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
-&lt;p&gt;On Monday, I was at school, after which I completed the necessary tasks, and rested in the evening.&lt;/p&gt;
-&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
-&lt;p&gt;On Tuesday, I attended classes at the institute, after which I went home, and then went to the volleyball section, rested in the evening.&lt;/p&gt;
-&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
-&lt;p&gt;On Wednesday, I was in class at the institute, the first pair for me was next to the main building, and the second was in the building of my faculty. I had a rest after college.&lt;/p&gt;
-&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
-&lt;p&gt;On Thursday, I attended classes at the institute, after which I rested and prepared assignments for Friday.&lt;/p&gt;
-&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
-&lt;p&gt;On Friday, I attended language classes at the institute, after which I was at home doing laboratory work No. 8.&lt;/p&gt;
-&lt;h2 id=&#34;saturday&#34;&gt;Saturday&lt;/h2&gt;
-&lt;p&gt;On Saturday, I took distance classes, after which I had a volleyball section at the institute, after which I rested.&lt;/p&gt;
-&lt;h2 id=&#34;sunday&#34;&gt;Sunday&lt;/h2&gt;
-&lt;p&gt;Sunday was like a day off for me, and I also completed lab work No. 9.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>✅ Last week&#39;s post</title>
-      <link>http://localhost:1313/post/last-week/</link>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/last-week/</guid>
-      <description>&lt;p&gt;Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p&gt;
-&lt;h2 id=&#34;monday&#34;&gt;Monday&lt;/h2&gt;
-&lt;p&gt;On Monday, I was in remote classes, after which I completed the work &amp;ldquo;The Spigot algorithm in C++&amp;rdquo; for Tuesday on the subject of &amp;ldquo;Computer workshop&amp;rdquo;. I rested in the evening.&lt;/p&gt;
-&lt;h2 id=&#34;tuesday&#34;&gt;Tuesday&lt;/h2&gt;
-&lt;p&gt;On Tuesday, I attended classes at the institute, after which I went home, and then went to the volleyball section, rested in the evening.&lt;/p&gt;
-&lt;h2 id=&#34;wednesday&#34;&gt;Wednesday&lt;/h2&gt;
-&lt;p&gt;On Wednesday, I was in class at the institute, the first pair for me was next to the main building, and the second was in the building of my faculty. At home, I was creating a presentation on Thursday on the subject &amp;ldquo;Fundamentals of Russian Statehood&amp;rdquo; about the Museum of Cosmonautics in Moscow. I rested in the evening.&lt;/p&gt;
-&lt;h2 id=&#34;thursday&#34;&gt;Thursday&lt;/h2&gt;
-&lt;p&gt;On Thursday, I attended classes at the institute, where I told a presentation that I was preparing, and on Wednesday I defended my Laboratory work on the subject of &amp;ldquo;Programming Technology&amp;rdquo;. I rested after the steam.&lt;/p&gt;
-&lt;h2 id=&#34;friday&#34;&gt;Friday&lt;/h2&gt;
-&lt;p&gt;Before the institute, I was preparing for the &amp;ldquo;solution essay&amp;rdquo; for English, in which I later wrote it. After graduation, I rested and began to carry out the second stage of the implementation of an individual project for the &amp;ldquo;Operating Systems&amp;rdquo; project.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>✅ Version control. Git.</title>
-      <link>http://localhost:1313/post/git/</link>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/git/</guid>
-      <description>&lt;p&gt;Theoretical information&lt;/p&gt;
-&lt;h2 id=&#34;version-control-systems-general-concepts&#34;&gt;Version control systems. General concepts&lt;/h2&gt;
-&lt;p&gt;Version Control Systems (VCS) are used when several people work on the same project. Usually, the main project tree is stored in a local or remote repository, to which access is configured for project participants. When making changes to the project content, the version control system allows you to fix them, combine changes made by different project participants, and roll back to any earlier version of the project, if required.&lt;/p&gt;
-&lt;p&gt;Classical version control systems use a centralized model that assumes a single repository for storing files. Most version control functions are performed by a dedicated server. The project participant (user) receives the required version of files through certain commands before starting work. After making changes, the user places the new version in the repository. However, previous versions are not deleted from the central repository and you can return to them at any time. The server may not save the full version of the modified files, but rather perform so-called delta compression — save only changes between successive versions, which reduces the amount of data stored.&lt;/p&gt;
-&lt;p&gt;Version control systems support the ability to track and resolve conflicts that may arise when multiple people are working on a single file. You can merge (merge) the changes made by different participants (automatically or manually), manually select the desired version, cancel the changes altogether, or lock the files for modification. Depending on the settings, the lock prevents other users from obtaining a working copy or prevents the OS file system from changing the working copy of the file, thus providing privileged access to only one user working with the file.&lt;/p&gt;
-&lt;p&gt;Version control systems can also provide additional, more flexible functionality. For example, they can support working with multiple versions of a single file, maintaining a common revision history up to the point of branching versions and their own revision histories of each branch. In addition, information is usually available about which of the participants made changes, when and what. Usually, this kind of information is stored in the changelog, access to which can be restricted.&lt;/p&gt;
-&lt;p&gt;Unlike classical systems, a central repository is not mandatory in distributed version control systems.&lt;/p&gt;
-&lt;p&gt;Among the classic VCS, CVS and Subversion are the most well—known, while among the distributed ones are Git, Bazaar, and Mercurial. The principles of their work are similar, they differ mainly in the syntax of the commands used in the work.&lt;/p&gt;
-&lt;h2 id=&#34;examples-of-using-git&#34;&gt;Examples of using git&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;The Git version control system is a set of command-line programs. They can be accessed from the terminal by entering the git command with various options.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Due to the fact that Git is a distributed version control system, a backup copy of the local storage can be made by simple copying or archiving.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;basic-git-commands&#34;&gt;Basic git commands&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Let&amp;rsquo;s list the most frequently used git commands.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Creation of the main repository tree:&lt;/p&gt;
-&lt;p&gt;git init&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Getting updates (changes) to the current tree from the central repository:&lt;/p&gt;
-&lt;p&gt;git pull&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Sending all changes made to the local tree to the central repository:&lt;/p&gt;
-&lt;p&gt;git push&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;View the list of changed files in the current directory:&lt;/p&gt;
-&lt;p&gt;git status&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;View current changes:&lt;/p&gt;
-&lt;p&gt;git diff&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Save current changes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;add all modified and/or created files and/or directories:&lt;/p&gt;
-&lt;p&gt;git add .&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;add specific modified and/or created files and/or directories:&lt;/p&gt;
-&lt;p&gt;git add file_name&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;delete the file and/or directory from the repository index (while the file and/or directory remains in the local directory):&lt;/p&gt;
-&lt;p&gt;git rm file_name&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Saving added changes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;save all added changes and all modified files:&lt;/p&gt;
-&lt;p&gt;git commit -am &amp;lsquo;Description of the commit&amp;rsquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;save the added changes with a comment through the built-in editor:&lt;/p&gt;
-&lt;p&gt;git commit&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;create a new branch based on the current one:&lt;/p&gt;
-&lt;p&gt;git checkout -b_name&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;switching to a certain branch:&lt;/p&gt;
-&lt;p&gt;git checkout branch name_&lt;/p&gt;
-&lt;p&gt;(when switching to a branch that is not yet in the local repository, it will be created and linked to the remote one)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;sending changes of a specific branch to the central repository:&lt;/p&gt;
-&lt;p&gt;git push origin_name&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;merge a branch with the current tree:&lt;/p&gt;
-&lt;p&gt;git merge &amp;ndash;no-ff_name&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Deleting a branch:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;deleting a local branch that has already merged with the main tree:&lt;/p&gt;
-&lt;p&gt;git branch -d branch_name&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;forced deletion of a local branch:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;git branch -D branch_name&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;deleting a branch from the central repository:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;git push origin :branch name_&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;basic-git-setup&#34;&gt;Basic git setup&lt;/h2&gt;
-&lt;h3 id=&#34;initial-configuration-of-git-parameters&#34;&gt;Initial configuration of git parameters&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Enter the name and email address of the repository owner:&lt;/p&gt;
-&lt;p&gt;git config &amp;ndash;global user.name &amp;ldquo;Name Surname&amp;rdquo;
-git config &amp;ndash;global user.email &amp;ldquo;work@mail&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Configure utf-8 in git message output:&lt;/p&gt;
-&lt;p&gt;git config &amp;ndash;global core.quotepath false&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Set up verification and signing of git commits.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;We will set the name of the initial branch (we will call it master):&lt;/p&gt;
-&lt;p&gt;git config &amp;ndash;global init.defaultBranch master&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;accounting-for-line-breaks&#34;&gt;Accounting for line breaks&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Different operating systems use different characters for translating strings:
+format of the protected code blocks:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">``` language
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">2 your code goes in here
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Upper and lower indexes:&lt;/p>
+&lt;pre>&lt;code> 𝐻2
+&lt;/code>&lt;/pre>
+&lt;p>it is written as:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">H~2~O
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre>&lt;code> 2^10^
+&lt;/code>&lt;/pre>
+&lt;p>it is written as&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">2^10^
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>In-text formulas are made similarly to LaTeX formulas. For example, the formula
+sin2(𝑥) + cos2(𝑥) = 1 is written as:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">$\sin^2 (x) + \cos^2 (x) = 1$
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="processing-files-in-markdown-format">Processing files in Markdown format&lt;/h2>
+&lt;p>We will use Pandoc to process files in Markdown format.
+&lt;a href="https://pandoc.org/" target="_blank" rel="noopener">https://pandoc.org/&lt;/a>. Specifically, we will need the pandoc program,
+pandoc-citeproc. &lt;a href="https://github.com/jgm/pandoc/releases" target="_blank" rel="noopener">https://github.com/jgm/pandoc/releases&lt;/a> , pandoc-crossref
+&lt;a href="https://github.com/lierdakil/pandoc-crossref/releases" target="_blank" rel="noopener">https://github.com/lierdakil/pandoc-crossref/releases&lt;/a>.&lt;/p>
+&lt;p>Convert the file README.md it can be done as follows:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">pandoc README.md -o README.pdf
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Or so&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">pandoc README.md -o README.docx
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>✅ Last week's post</title><link>https://hikrim.github.io/post/last-week-stage-3/</link><pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/post/last-week-stage-3/</guid><description>&lt;p>Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p>
+&lt;h2 id="monday">Monday&lt;/h2>
+&lt;p>On Monday, I was at school, after which I completed the necessary tasks, and rested in the evening.&lt;/p>
+&lt;h2 id="tuesday">Tuesday&lt;/h2>
+&lt;p>On Tuesday, I attended classes at the institute, after which I went home, and then went to the volleyball section, rested in the evening.&lt;/p>
+&lt;h2 id="wednesday">Wednesday&lt;/h2>
+&lt;p>On Wednesday, I was in class at the institute, the first pair for me was next to the main building, and the second was in the building of my faculty. I had a rest after college.&lt;/p>
+&lt;h2 id="thursday">Thursday&lt;/h2>
+&lt;p>On Thursday, I attended classes at the institute, after which I rested and prepared assignments for Friday.&lt;/p>
+&lt;h2 id="friday">Friday&lt;/h2>
+&lt;p>On Friday, I attended language classes at the institute, after which I was at home doing laboratory work No. 8.&lt;/p>
+&lt;h2 id="saturday">Saturday&lt;/h2>
+&lt;p>On Saturday, I took distance classes, after which I had a volleyball section at the institute, after which I rested.&lt;/p>
+&lt;h2 id="sunday">Sunday&lt;/h2>
+&lt;p>Sunday was like a day off for me, and I also completed lab work No. 9.&lt;/p></description></item><item><title>✅ Last week's post</title><link>https://hikrim.github.io/post/last-week/</link><pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/post/last-week/</guid><description>&lt;p>Insanity is the exact repetition of the same action, over and over again, in the hope of a change.&lt;/p>
+&lt;h2 id="monday">Monday&lt;/h2>
+&lt;p>On Monday, I was in remote classes, after which I completed the work &amp;ldquo;The Spigot algorithm in C++&amp;rdquo; for Tuesday on the subject of &amp;ldquo;Computer workshop&amp;rdquo;. I rested in the evening.&lt;/p>
+&lt;h2 id="tuesday">Tuesday&lt;/h2>
+&lt;p>On Tuesday, I attended classes at the institute, after which I went home, and then went to the volleyball section, rested in the evening.&lt;/p>
+&lt;h2 id="wednesday">Wednesday&lt;/h2>
+&lt;p>On Wednesday, I was in class at the institute, the first pair for me was next to the main building, and the second was in the building of my faculty. At home, I was creating a presentation on Thursday on the subject &amp;ldquo;Fundamentals of Russian Statehood&amp;rdquo; about the Museum of Cosmonautics in Moscow. I rested in the evening.&lt;/p>
+&lt;h2 id="thursday">Thursday&lt;/h2>
+&lt;p>On Thursday, I attended classes at the institute, where I told a presentation that I was preparing, and on Wednesday I defended my Laboratory work on the subject of &amp;ldquo;Programming Technology&amp;rdquo;. I rested after the steam.&lt;/p>
+&lt;h2 id="friday">Friday&lt;/h2>
+&lt;p>Before the institute, I was preparing for the &amp;ldquo;solution essay&amp;rdquo; for English, in which I later wrote it. After graduation, I rested and began to carry out the second stage of the implementation of an individual project for the &amp;ldquo;Operating Systems&amp;rdquo; project.&lt;/p></description></item><item><title>✅ Version control. Git.</title><link>https://hikrim.github.io/post/git/</link><pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/post/git/</guid><description>&lt;p>Theoretical information&lt;/p>
+&lt;h2 id="version-control-systems-general-concepts">Version control systems. General concepts&lt;/h2>
+&lt;p>Version Control Systems (VCS) are used when several people work on the same project. Usually, the main project tree is stored in a local or remote repository, to which access is configured for project participants. When making changes to the project content, the version control system allows you to fix them, combine changes made by different project participants, and roll back to any earlier version of the project, if required.&lt;/p>
+&lt;p>Classical version control systems use a centralized model that assumes a single repository for storing files. Most version control functions are performed by a dedicated server. The project participant (user) receives the required version of files through certain commands before starting work. After making changes, the user places the new version in the repository. However, previous versions are not deleted from the central repository and you can return to them at any time. The server may not save the full version of the modified files, but rather perform so-called delta compression — save only changes between successive versions, which reduces the amount of data stored.&lt;/p>
+&lt;p>Version control systems support the ability to track and resolve conflicts that may arise when multiple people are working on a single file. You can merge (merge) the changes made by different participants (automatically or manually), manually select the desired version, cancel the changes altogether, or lock the files for modification. Depending on the settings, the lock prevents other users from obtaining a working copy or prevents the OS file system from changing the working copy of the file, thus providing privileged access to only one user working with the file.&lt;/p>
+&lt;p>Version control systems can also provide additional, more flexible functionality. For example, they can support working with multiple versions of a single file, maintaining a common revision history up to the point of branching versions and their own revision histories of each branch. In addition, information is usually available about which of the participants made changes, when and what. Usually, this kind of information is stored in the changelog, access to which can be restricted.&lt;/p>
+&lt;p>Unlike classical systems, a central repository is not mandatory in distributed version control systems.&lt;/p>
+&lt;p>Among the classic VCS, CVS and Subversion are the most well—known, while among the distributed ones are Git, Bazaar, and Mercurial. The principles of their work are similar, they differ mainly in the syntax of the commands used in the work.&lt;/p>
+&lt;h2 id="examples-of-using-git">Examples of using git&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>The Git version control system is a set of command-line programs. They can be accessed from the terminal by entering the git command with various options.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Due to the fact that Git is a distributed version control system, a backup copy of the local storage can be made by simple copying or archiving.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="basic-git-commands">Basic git commands&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Let&amp;rsquo;s list the most frequently used git commands.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Creation of the main repository tree:&lt;/p>
+&lt;p>git init&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Getting updates (changes) to the current tree from the central repository:&lt;/p>
+&lt;p>git pull&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sending all changes made to the local tree to the central repository:&lt;/p>
+&lt;p>git push&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>View the list of changed files in the current directory:&lt;/p>
+&lt;p>git status&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>View current changes:&lt;/p>
+&lt;p>git diff&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Save current changes:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>add all modified and/or created files and/or directories:&lt;/p>
+&lt;p>git add .&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>add specific modified and/or created files and/or directories:&lt;/p>
+&lt;p>git add file_name&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>delete the file and/or directory from the repository index (while the file and/or directory remains in the local directory):&lt;/p>
+&lt;p>git rm file_name&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Saving added changes:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>save all added changes and all modified files:&lt;/p>
+&lt;p>git commit -am &amp;lsquo;Description of the commit&amp;rsquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>save the added changes with a comment through the built-in editor:&lt;/p>
+&lt;p>git commit&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>create a new branch based on the current one:&lt;/p>
+&lt;p>git checkout -b_name&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>switching to a certain branch:&lt;/p>
+&lt;p>git checkout branch name_&lt;/p>
+&lt;p>(when switching to a branch that is not yet in the local repository, it will be created and linked to the remote one)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>sending changes of a specific branch to the central repository:&lt;/p>
+&lt;p>git push origin_name&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>merge a branch with the current tree:&lt;/p>
+&lt;p>git merge &amp;ndash;no-ff_name&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Deleting a branch:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>deleting a local branch that has already merged with the main tree:&lt;/p>
+&lt;p>git branch -d branch_name&lt;/p>
+&lt;ul>
+&lt;li>forced deletion of a local branch:&lt;/li>
+&lt;/ul>
+&lt;p>git branch -D branch_name&lt;/p>
+&lt;ul>
+&lt;li>deleting a branch from the central repository:&lt;/li>
+&lt;/ul>
+&lt;p>git push origin :branch name_&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="basic-git-setup">Basic git setup&lt;/h2>
+&lt;h3 id="initial-configuration-of-git-parameters">Initial configuration of git parameters&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Enter the name and email address of the repository owner:&lt;/p>
+&lt;p>git config &amp;ndash;global user.name &amp;ldquo;Name Surname&amp;rdquo;
+git config &amp;ndash;global user.email &amp;ldquo;work@mail&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Configure utf-8 in git message output:&lt;/p>
+&lt;p>git config &amp;ndash;global core.quotepath false&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Set up verification and signing of git commits.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>We will set the name of the initial branch (we will call it master):&lt;/p>
+&lt;p>git config &amp;ndash;global init.defaultBranch master&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="accounting-for-line-breaks">Accounting for line breaks&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Different operating systems use different characters for translating strings:
 Windows: \r\n (CR and LF);
 Unix: \n (LF);
-Mac: \r (CR).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;You can view the values of line breaks in the repository using the command:&lt;/p&gt;
-&lt;p&gt;git ls-files &amp;ndash;eol&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol&gt;
-&lt;li&gt;The autocrlf parameter is
-the core setting.autocrlf is designed to ensure that all line breaks in text files are the same in the main repository.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Configuring core.autocrlf with the true and input parameters makes all line breaks of text files in the main repository the same.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;core.autocrlf true: CRLF-&amp;gt;LF conversion when committing and back LF-&amp;gt;CRLF when uploading code from the repository to the file system (usually used on Windows).&lt;/li&gt;
-&lt;li&gt;core.autocrlf input: CRLF-&amp;gt;LF conversion only for commits (used on macOS/Linux).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Conversion options&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+Mac: \r (CR).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>You can view the values of line breaks in the repository using the command:&lt;/p>
+&lt;p>git ls-files &amp;ndash;eol&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>The autocrlf parameter is
+the core setting.autocrlf is designed to ensure that all line breaks in text files are the same in the main repository.&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>
+&lt;p>Configuring core.autocrlf with the true and input parameters makes all line breaks of text files in the main repository the same.&lt;/p>
+&lt;ul>
+&lt;li>core.autocrlf true: CRLF-&amp;gt;LF conversion when committing and back LF-&amp;gt;CRLF when uploading code from the repository to the file system (usually used on Windows).&lt;/li>
+&lt;li>core.autocrlf input: CRLF-&amp;gt;LF conversion only for commits (used on macOS/Linux).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Conversion options&lt;/p>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
