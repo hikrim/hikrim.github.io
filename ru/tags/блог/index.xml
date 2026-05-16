@@ -1,367 +1,201 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Блог | Hugo Academic CV Theme</title><link>https://hikrim.github.io/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</link><atom:link href="https://hikrim.github.io/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/index.xml" rel="self" type="application/rss+xml"/><description>Блог</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate><image><url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url><title>Блог</title><link>https://hikrim.github.io/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</link></image><item><title>✅ Пост по прошедшей неделе</title><link>https://hikrim.github.io/ru/post/last-week-stage-6/</link><pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/ru/post/last-week-stage-6/</guid><description>&lt;p>Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p>
-&lt;h2 id="понедельник">Понедельник&lt;/h2>
-&lt;p>В понедельник был на дистанционных занятиях, потом отдыхал.&lt;/p>
-&lt;h2 id="вторник">Вторник&lt;/h2>
-&lt;p>Во вторник был на занятиях в институте, была контрольная по матанализу, после института готовился к контрольной на среду и не отдыхал.&lt;/p>
-&lt;h2 id="среда">Среда&lt;/h2>
-&lt;p>В среду был на занятиях в институте, была контрольная по математической логике. После института, дома готовился к четвергу и отдыхал.&lt;/p>
-&lt;h2 id="четверг">Четверг&lt;/h2>
-&lt;p>В четверг был на занятиях в институте, защищал лабораторную по технологии программирования. После института, дома готовился к пятнице и отдыхал.&lt;/p>
-&lt;h2 id="пятница">Пятница&lt;/h2>
-&lt;p>В пятницу был на занятиях в институте, был зачет по немецкому и монолог по английскому. После института отдыхал.&lt;/p>
-&lt;h2 id="суббота">Суббота&lt;/h2>
-&lt;p>В субботу отдыхал и готовился к следующей не менее сложной неделе.&lt;/p>
-&lt;h2 id="воскресенье">Воскресенье&lt;/h2>
-&lt;p>В воскресенье занимался тем же что и в субботу.&lt;/p></description></item><item><title>✅ Указатели в C++</title><link>https://hikrim.github.io/ru/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c++/</link><pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/ru/post/%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2-c++/</guid><description>&lt;p>&lt;strong>📌 Указатели в C++&lt;/strong>&lt;/p>
-&lt;p>Указатели — одна из самых мощных, но сложных тем в C++. Они позволяют работать с памятью напрямую, что делает код более гибким и эффективным. Давайте разберёмся, как они устроены!&lt;/p>
-&lt;h3 id="-что-такое-указатель">🔹 Что такое указатель?&lt;/h3>
-&lt;p>Указатель — это переменная, которая хранит &lt;strong>адрес другой переменной&lt;/strong> в памяти. Объявляется он так:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span>&lt;span class="o">*&lt;/span> &lt;span class="n">ptr&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="c1">// ptr — указатель на тип int
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="-как-получить-адрес-переменной">🔹 Как получить адрес переменной?&lt;/h3>
-&lt;p>Через оператор &lt;code>&amp;amp;&lt;/code>:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span> &lt;span class="n">num&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="mi">10&lt;/span>&lt;span class="p">;&lt;/span>
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span>&lt;span class="o">*&lt;/span> &lt;span class="n">ptr&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="o">&amp;amp;&lt;/span>&lt;span class="n">num&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="c1">// ptr теперь хранит адрес num
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="-разыменование-указателя">🔹 Разыменование указателя&lt;/h3>
-&lt;p>Чтобы получить значение по адресу, используется оператор &lt;code>*&lt;/code>:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="n">cout&lt;/span> &lt;span class="o">&amp;lt;&amp;lt;&lt;/span> &lt;span class="o">*&lt;/span>&lt;span class="n">ptr&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="c1">// Выведет 10 (значение num)
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="-динамическая-память">🔹 Динамическая память&lt;/h3>
-&lt;p>Указатели часто используют для работы с динамической памятью:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span>&lt;span class="o">*&lt;/span> &lt;span class="n">arr&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">new&lt;/span> &lt;span class="kt">int&lt;/span>&lt;span class="p">[&lt;/span>&lt;span class="mi">10&lt;/span>&lt;span class="p">];&lt;/span> &lt;span class="c1">// Выделили память под массив
-&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1">&lt;/span>&lt;span class="k">delete&lt;/span>&lt;span class="p">[]&lt;/span> &lt;span class="n">arr&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="c1">// Не забываем освободить!
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="-nullptr-вместо-null">🔹 nullptr вместо NULL&lt;/h3>
-&lt;p>В современном C++ лучше использовать &lt;code>nullptr&lt;/code> для пустых указателей:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cpp" data-lang="cpp">&lt;span class="line">&lt;span class="cl">&lt;span class="kt">int&lt;/span>&lt;span class="o">*&lt;/span> &lt;span class="n">ptr&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="k">nullptr&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="c1">// Указатель ни на что не ссылается
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="-зачем-это-нужно">🔹 Зачем это нужно?&lt;/h3>
-&lt;p>Указатели применяют для:&lt;/p>
-&lt;ul>
-&lt;li>Работы с динамическими структурами (массивы, списки).&lt;/li>
-&lt;li>Передачи больших данных в функции без копирования.&lt;/li>
-&lt;li>Полиморфизма (через указатели на базовые классы).&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>💡 Совет:&lt;/strong> Всегда проверяйте указатели на &lt;code>nullptr&lt;/code> перед использованием!&lt;/p></description></item><item><title>✅ Пост по прошедшей неделе</title><link>https://hikrim.github.io/ru/post/last-week-stage-5/</link><pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/ru/post/last-week-stage-5/</guid><description>&lt;p>Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p>
-&lt;h2 id="понедельник">Понедельник&lt;/h2>
-&lt;p>В понедельник был на дистанционных занятиях, потом отдыхал.&lt;/p>
-&lt;h2 id="вторник">Вторник&lt;/h2>
-&lt;p>Во вторник занятий в институте у меня не было, поэтому вторник для меня был как выходной.&lt;/p>
-&lt;h2 id="среда">Среда&lt;/h2>
-&lt;p>В среду также занятий в институте у меня не было, поэтому я начал выполнять внешний курс.&lt;/p>
-&lt;h2 id="четверг">Четверг&lt;/h2>
-&lt;p>В четверг был выходной, который я потратил на выполнение внешнего курса.&lt;/p>
-&lt;h2 id="пятница">Пятница&lt;/h2>
-&lt;p>В пятницу я играл турнир по волейболу в нашем ФОК&amp;rsquo;е, турнир был в честь Дня Победы, моя команда вместе со мной выиграла первое место.&lt;/p>
-&lt;h2 id="суббота">Суббота&lt;/h2>
-&lt;p>В субботу я продолжил выполнять внешний курс и отдыхал.&lt;/p>
-&lt;h2 id="воскресенье">Воскресенье&lt;/h2>
-&lt;p>В воскресенье я финализировал выполнение внешнего курса выполнив последний раздел.&lt;/p></description></item><item><title>✅ Языки научного программирования</title><link>https://hikrim.github.io/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link><pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid><description>&lt;h1 id="языки-научного-программирования-какие-выбрать">Языки научного программирования: какие выбрать?&lt;/h1>
-&lt;p>Научное программирование — это мощный инструмент для решения сложных задач в математике, физике, биоинформатике, Data Science и других областях. Но какие языки лучше всего подходят для таких вычислений?
-📌 Топ-5 языков для научных расчетов:&lt;/p>
-&lt;pre>&lt;code>Python 🐍
-Плюсы: Простота, богатые библиотеки (NumPy, SciPy, Pandas, Matplotlib), поддержка машинного обучения (TensorFlow, PyTorch).
-Минусы: Не самый быстрый, но интеграция с C/Fortran решает проблему.
-Julia ✨
-Плюсы: Высокая скорость (как C), удобный синтаксис (как Python), встроенная поддержка параллельных вычислений.
-Минусы: Меньше готовых решений, чем у Python.
-R 📊
-Плюсы: Лучший для статистики и визуализации данных (ggplot2, dplyr).
-Минусы: Медленнее Python/Julia, специфический синтаксис.
-MATLAB ➕
-Плюсы: Готовые инструменты для инженеров и математиков, отличная визуализация.
-Минусы: Дорогая лицензия, медленнее современных аналогов.
-Fortran &amp;amp; C/C++ ⚡
-Плюсы: Максимальная производительность, используются в HPC (суперкомпьютеры).
-Минусы: Сложный синтаксис, долгая разработка.
-&lt;/code>&lt;/pre>
-&lt;p>🔎 Какой выбрать?&lt;/p>
-&lt;pre>&lt;code>Для Data Science / ML → Python + Julia.
-Для математического моделирования → Julia / MATLAB.
-Для высокопроизводительных вычислений → Fortran / C++.
-Для статистики → R.
-&lt;/code>&lt;/pre></description></item><item><title>✅ Оформление отчёта</title><link>https://hikrim.github.io/ru/post/report/</link><pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/ru/post/report/</guid><description>&lt;p>&lt;strong>📌 Как правильно оформить отчет: инструкция для лабораторных и НИР&lt;/strong>&lt;/p>
-&lt;p>Написание отчета – важная часть любой научной или учебной работы. Правильно оформленный документ помогает четко изложить результаты и сделать их понятными для проверяющих. Вот основные моменты, на которые стоит обратить внимание:&lt;/p>
-&lt;h3 id="1-структура-отчета">&lt;strong>1. Структура отчета&lt;/strong>&lt;/h3>
-&lt;p>✔ &lt;strong>Титульный лист&lt;/strong> – название работы, ФИО автора, преподавателя/руководителя, дата.&lt;br>
-✔ &lt;strong>Оглавление&lt;/strong> – с указанием страниц.&lt;br>
-✔ &lt;strong>Введение&lt;/strong> – цель работы, задачи, актуальность.&lt;br>
-✔ &lt;strong>Теоретическая часть&lt;/strong> – краткий обзор литературы, основные понятия.&lt;br>
-✔ &lt;strong>Методика&lt;/strong> – описание методов, оборудования, алгоритмов.&lt;br>
-✔ &lt;strong>Результаты&lt;/strong> – таблицы, графики, расчеты с пояснениями.&lt;br>
-✔ &lt;strong>Выводы&lt;/strong> – краткое подведение итогов, соответствие целям.&lt;br>
-✔ &lt;strong>Список литературы&lt;/strong> – оформленный по ГОСТу или требованиям вуза.&lt;/p>
-&lt;h3 id="2-оформление-текста">&lt;strong>2. Оформление текста&lt;/strong>&lt;/h3>
-&lt;p>🔹 &lt;strong>Шрифт&lt;/strong> – обычно Times New Roman, 12–14 pt.&lt;br>
-🔹 &lt;strong>Интервал&lt;/strong> – 1,5 (для удобства чтения).&lt;br>
-🔹 &lt;strong>Поля&lt;/strong> – стандартные (2–3 см).&lt;br>
-🔹 &lt;strong>Нумерация страниц&lt;/strong> – сквозная, начиная с титульного листа (но на нем номер не ставится).&lt;/p>
-&lt;h3 id="3-графики-и-таблицы">&lt;strong>3. Графики и таблицы&lt;/strong>&lt;/h3>
-&lt;p>📊 &lt;strong>Подписи&lt;/strong> – должны быть четкими, с номерами (Рис. 1, Таблица 2).&lt;br>
-📊 &lt;strong>Обсуждение&lt;/strong> – каждый график/таблицу нужно прокомментировать в тексте.&lt;/p>
-&lt;h3 id="4-проверка-перед-сдачей">&lt;strong>4. Проверка перед сдачей&lt;/strong>&lt;/h3>
-&lt;p>✅ Орфография и пунктуация (можно использовать сервисы вроде Grammarly).&lt;br>
-✅ Соответствие требованиям методички (если есть).&lt;br>
-✅ Логичность изложения – все ли выводы обоснованы?&lt;/p></description></item><item><title>✅ Пост по прошедшей неделе</title><link>https://hikrim.github.io/ru/post/last-week-stage-4/</link><pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/ru/post/last-week-stage-4/</guid><description>&lt;p>Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p>
-&lt;h2 id="понедельник">Понедельник&lt;/h2>
-&lt;p>В понедельник я был на учебе, после чего выполнял необходимые задания, вечером отдыхал&lt;/p>
-&lt;h2 id="вторник">Вторник&lt;/h2>
-&lt;p>Во вторник я был на занятиях в институте, после чего поехал домой, а потом выехал на секцию о волейболу, вечером отдыхал.&lt;/p>
-&lt;h2 id="среда">Среда&lt;/h2>
-&lt;p>В среду я был на занятиях в иституте, первая для меня пара была рядом с главным корпусом, а вторая в корпусе моего факультета. После института отдыхал.&lt;/p>
-&lt;h2 id="четверг">Четверг&lt;/h2>
-&lt;p>В четверг я был на занятиях в институте, после них отдыхал и готовил задания к пятнице.&lt;/p>
-&lt;h2 id="пятница">Пятница&lt;/h2>
-&lt;p>В пятницу был на языковых занятиях в институте, после чего дома отдыхал.&lt;/p>
-&lt;h2 id="суббота">Суббота&lt;/h2>
-&lt;p>В субботу я был на дистанционных занятиях, после чего у меня была секция по волейболу в институте, после нее я отдыхал.&lt;/p>
-&lt;h2 id="воскресенье">Воскресенье&lt;/h2>
-&lt;p>В воскресенье я сделал себе выходной.&lt;/p></description></item><item><title>✅ Язык разметки Markdown</title><link>https://hikrim.github.io/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link><pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid><description>&lt;p>Теоретические сведения.&lt;/p>
-&lt;h2 id="базовые-сведения-о-markdown">Базовые сведения о Markdown&lt;/h2>
-&lt;p>Чтобы создать заголовок, используйте знак ( # ).&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl"># This is heading 1
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">## This is heading 2
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">### This is heading 3
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">#### This is heading 4
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Чтобы задать для текста полужирное начертание, заключите его в двойные звездочки:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">This text is **bold**.
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Чтобы задать для текста курсивное начертание, заключите его в одинарные звездочки:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">This text is *italic*.
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Чтобы задать для текста полужирное и курсивное начертание, заключите его в тройные звездочки:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">This is text is both ***bold and italic***.
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Блоки цитирования создаются с помощью символа &amp;gt;:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">&amp;gt; The drought had lasted now for ten million years, and the reign of
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">the terrible lizards had long since ended. Here on the Equator, in
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">the continent which would one day be known as Africa, the battle
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">for existence had reached a new climax of ferocity, and the victor
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">was not yet in sight. In this barren and desiccated land, only the
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">small or the swift or the fierce could flourish, or even hope to
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">survive.
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Неупорядоченный (маркированный) список можно отформатировать с помощью звез-
-дочек или тире:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">- List item 1
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- List item 2
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- List item 3
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">- List item 1
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> - List item A
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> - List item B
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">- List item 2
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Упорядоченный список можно отформатировать с помощью соответствующих цифр:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">1. First instruction
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1. Second instruction
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1. Third instruction
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">1. First instruction
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 1. Sub-instruction
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> 1. Sub-instruction
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1. Second instruction
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Синтаксис Markdown для встроенной ссылки состоит из части [link text] , представ-
-ляющей текст гиперссылки, и части (file-name.md) – URL-адреса или имени файла,
-на который дается ссылка:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">[link text](file-name.md)
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Markdown поддерживает как встраивание фрагментов кода в предложение, так и их
-размещение между предложениями в виде отдельных огражденных блоков. Огражденные
-блоки кода — это простой способ выделить синтаксис для фрагментов кода. Общий
-формат огражденных блоков кода:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">``` language
-&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">2 your code goes in here
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Верхние и нижние индексы:&lt;/p>
-&lt;pre>&lt;code> 𝐻2
-&lt;/code>&lt;/pre>
-&lt;p>записывается как:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">H~2~O
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre>&lt;code> 2^10^
-&lt;/code>&lt;/pre>
-&lt;p>записывается как&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">2^10^
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Внутритекстовые формулы делаются аналогично формулам LaTeX. Например, формула
-sin2(𝑥) + cos2(𝑥) = 1 запишется как:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">$\sin^2 (x) + \cos^2 (x) = 1$
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="обработка-файлов-в-формате-markdown">Обработка файлов в формате Markdown&lt;/h2>
-&lt;p>Для обработки файлов в формате Markdown будем использовать Pandoc
-&lt;a href="https://pandoc.org/" target="_blank" rel="noopener">https://pandoc.org/&lt;/a>. Конкретно, нам понадобится программа pandoc ,
-pandoc-citeproc &lt;a href="https://github.com/jgm/pandoc/releases" target="_blank" rel="noopener">https://github.com/jgm/pandoc/releases&lt;/a>, pandoc-crossref
-&lt;a href="https://github.com/lierdakil/pandoc-crossref/releases" target="_blank" rel="noopener">https://github.com/lierdakil/pandoc-crossref/releases&lt;/a>.&lt;/p>
-&lt;p>Преобразовать файл README.md можно следующим образом:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">pandoc README.md -o README.pdf
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>или так&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">pandoc README.md -o README.docx
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>✅ Пост по прошедшей неделе</title><link>https://hikrim.github.io/ru/post/last-week-stage-3/</link><pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/ru/post/last-week-stage-3/</guid><description>&lt;p>Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p>
-&lt;h2 id="понедельник">Понедельник&lt;/h2>
-&lt;p>В понедельник я был на учебе, после чего выполнял необходимые задания, вечером отдыхал&lt;/p>
-&lt;h2 id="вторник">Вторник&lt;/h2>
-&lt;p>Во вторник я был на занятиях в институте, после чего поехал домой, а потом выехал на секцию о волейболу, вечером отдыхал.&lt;/p>
-&lt;h2 id="среда">Среда&lt;/h2>
-&lt;p>В среду я был на занятиях в иституте, первая для меня пара была рядом с главным корпусом, а вторая в корпусе моего факультета. После института отдыхал.&lt;/p>
-&lt;h2 id="четверг">Четверг&lt;/h2>
-&lt;p>В четверг я был на занятиях в институте, после них отдыхал и готовил задания к пятнице.&lt;/p>
-&lt;h2 id="пятница">Пятница&lt;/h2>
-&lt;p>В пятницу был на языковых занятиях в институте, после чего дома выполняял лабораторную работу №8.&lt;/p>
-&lt;h2 id="суббота">Суббота&lt;/h2>
-&lt;p>В субботу я был на дистанционных занятиях, после чего у меня была секция по волейболу в институте, после нее я отдыхал&lt;/p>
-&lt;h2 id="воскресенье">Воскресенье&lt;/h2>
-&lt;p>Воскресенье было для меня как выходной, также я выполнил лабораторную работу №9.&lt;/p></description></item><item><title>✅ Пост по прошедшей неделе</title><link>https://hikrim.github.io/ru/post/last-week/</link><pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/ru/post/last-week/</guid><description>&lt;p>Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p>
-&lt;h2 id="понедельник">Понедельник&lt;/h2>
-&lt;p>В понедельник, я был на дистанционных занятиях, после которых выполнял работу &amp;ldquo;Алгоритм &amp;ldquo;Spigot&amp;rdquo; на C++&amp;rdquo; на вторник по предмету &amp;ldquo;Компьютерный практикум&amp;rdquo;. Вечером отдыхал.&lt;/p>
-&lt;h2 id="вторник">Вторник&lt;/h2>
-&lt;p>Во вторник я был на занятиях в институте, после чего поехал домой, а потом выехал на секцию о волейболу, вечером отдыхал.&lt;/p>
-&lt;h2 id="среда">Среда&lt;/h2>
-&lt;p>В среду я был на занятиях в иституте, первая для меня пара была рядом с главным корпусом, а вторая в корпусе моего факультета. Дома я создавал презентацию на четверг по предмету &amp;ldquo;Основы российской государственности&amp;rdquo; про Музей космонавтики в Москве. Вечером отдыхал.&lt;/p>
-&lt;h2 id="четверг">Четверг&lt;/h2>
-&lt;p>В четверг я был на занятиях в институте, на которых рассказал презентацию, которую готовил в среду защищал свою Лабораторную работу по предмету &amp;ldquo;Технология программирования&amp;rdquo;. После пар отдыхал.&lt;/p>
-&lt;h2 id="пятница">Пятница&lt;/h2>
-&lt;p>Перед институтом готовился к &amp;ldquo;solution essay&amp;rdquo; для Английского языка, на котором я его потом и писал. После института отдохнул и начал выполнять второй этап реализации индивидуального проекта по предемету &amp;ldquo;Операционные системы&amp;rdquo;.&lt;/p></description></item><item><title>✅ Управление версиями. Git.</title><link>https://hikrim.github.io/ru/post/git/</link><pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/ru/post/git/</guid><description>&lt;p>Теоретические сведения.&lt;/p>
-&lt;h2 id="системы-контроля-версий-общие-понятия">Системы контроля версий. Общие понятия&lt;/h2>
-&lt;p>Системы контроля версий (Version Control System, VCS) применяются при работе нескольких человек над одним проектом. Обычно основное дерево проекта хранится в локальном или удалённом репозитории, к которому настроен доступ для участников проекта. При внесении изменений в содержание проекта система контроля версий позволяет их фиксировать, совмещать изменения, произведённые разными участниками проекта, производить откат к любой более ранней версии проекта, если это требуется.&lt;/p>
-&lt;p>В классических системах контроля версий используется централизованная модель, предполагающая наличие единого репозитория для хранения файлов. Выполнение большинства функций по управлению версиями осуществляется специальным сервером. Участник проекта (пользователь) перед началом работы посредством определённых команд получает нужную ему версию файлов. После внесения изменений, пользователь размещает новую версию в хранилище. При этом предыдущие версии не удаляются из центрального хранилища и к ним можно вернуться в любой момент. Сервер может сохранять не полную версию изменённых файлов, а производить так называемую дельта-компрессию — сохранять только изменения между последовательными версиями, что позволяет уменьшить объём хранимых данных.&lt;/p>
-&lt;p>Системы контроля версий поддерживают возможность отслеживания и разрешения конфликтов, которые могут возникнуть при работе нескольких человек над одним файлом. Можно объединить (слить) изменения, сделанные разными участниками (автоматически или вручную), вручную выбрать нужную версию, отменить изменения вовсе или заблокировать файлы для изменения. В зависимости от настроек блокировка не позволяет другим пользователям получить рабочую копию или препятствует изменению рабочей копии файла средствами файловой системы ОС, обеспечивая таким образом, привилегированный доступ только одному пользователю, работающему с файлом.&lt;/p>
-&lt;p>Системы контроля версий также могут обеспечивать дополнительные, более гибкие функциональные возможности. Например, они могут поддерживать работу с несколькими версиями одного файла, сохраняя общую историю изменений до точки ветвления версий и собственные истории изменений каждой ветви. Кроме того, обычно доступна информация о том, кто из участников, когда и какие изменения вносил. Обычно такого рода информация хранится в журнале изменений, доступ к которому можно ограничить.&lt;/p>
-&lt;p>В отличие от классических, в распределённых системах контроля версий центральный репозиторий не является обязательным.&lt;/p>
-&lt;p>Среди классических VCS наиболее известны CVS, Subversion, а среди распределённых — Git, Bazaar, Mercurial. Принципы их работы схожи, отличаются они в основном синтаксисом используемых в работе команд.&lt;/p>
-&lt;h2 id="примеры-использования-git">Примеры использования git&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>Система контроля версий Git представляет собой набор программ командной строки. Доступ к ним можно получить из терминала посредством ввода команды git с различными опциями.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Благодаря тому, что Git является распределённой системой контроля версий, резервную копию локального хранилища можно сделать простым копированием или архивацией.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="основные-команды-git">Основные команды git&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>Перечислим наиболее часто используемые команды git.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Создание основного дерева репозитория:&lt;/p>
-&lt;p>git init&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Получение обновлений (изменений) текущего дерева из центрального репозитория:&lt;/p>
-&lt;p>git pull&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Отправка всех произведённых изменений локального дерева в центральный репозиторий:&lt;/p>
-&lt;p>git push&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Просмотр списка изменённых файлов в текущей директории:&lt;/p>
-&lt;p>git status&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Просмотр текущих изменений:&lt;/p>
-&lt;p>git diff&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Сохранение текущих изменений:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>добавить все изменённые и/или созданные файлы и/или каталоги:&lt;/p>
-&lt;p>git add .&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>добавить конкретные изменённые и/или созданные файлы и/или каталоги:&lt;/p>
-&lt;p>git add имена_файлов&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>удалить файл и/или каталог из индекса репозитория (при этом файл и/или каталог остаётся в локальной директории):&lt;/p>
-&lt;p>git rm имена_файлов&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>Сохранение добавленных изменений:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>сохранить все добавленные изменения и все изменённые файлы:&lt;/p>
-&lt;p>git commit -am &amp;lsquo;Описание коммита&amp;rsquo;&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>сохранить добавленные изменения с внесением комментария через встроенный редактор:&lt;/p>
-&lt;p>git commit&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>создание новой ветки, базирующейся на текущей:&lt;/p>
-&lt;p>git checkout -b имя_ветки&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>переключение на некоторую ветку:&lt;/p>
-&lt;p>git checkout имя_ветки&lt;/p>
-&lt;p>(при переключении на ветку, которой ещё нет в локальном репозитории, она будет создана и связана с удалённой)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>отправка изменений конкретной ветки в центральный репозиторий:&lt;/p>
-&lt;p>git push origin имя_ветки&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>слияние ветки с текущим деревом:&lt;/p>
-&lt;p>git merge &amp;ndash;no-ff имя_ветки&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>Удаление ветки:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>удаление локальной уже слитой с основным деревом ветки:&lt;/p>
-&lt;p>git branch -d имя_ветки&lt;/p>
-&lt;ul>
-&lt;li>принудительное удаление локальной ветки:&lt;/li>
-&lt;/ul>
-&lt;p>git branch -D имя_ветки&lt;/p>
-&lt;ul>
-&lt;li>удаление ветки с центрального репозитория:&lt;/li>
-&lt;/ul>
-&lt;p>git push origin :имя_ветки&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="базовая-настройка-git">Базовая настройка git&lt;/h2>
-&lt;h3 id="первичная-настройка-параметров-git">Первичная настройка параметров git&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>Зададим имя и email владельца репозитория:&lt;/p>
-&lt;p>git config &amp;ndash;global user.name &amp;ldquo;Name Surname&amp;rdquo;
-git config &amp;ndash;global user.email &amp;ldquo;work@mail&amp;rdquo;&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Настроим utf-8 в выводе сообщений git:&lt;/p>
-&lt;p>git config &amp;ndash;global core.quotepath false&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Настройте верификацию и подписание коммитов git.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Зададим имя начальной ветки (будем называть её master):&lt;/p>
-&lt;p>git config &amp;ndash;global init.defaultBranch master&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h3 id="учёт-переносов-строк">Учёт переносов строк&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>В разных операционных системах приняты разные символы для перевода строк:
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Блог | Hugo Academic CV Theme</title>
+    <link>https://example.com/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+      <atom:link href="https://example.com/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/index.xml" rel="self" type="application/rss+xml" />
+    <description>Блог</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Блог</title>
+      <link>https://example.com/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+    </image>
+    
+    <item>
+      <title>✅ Пост по прошедшей неделе</title>
+      <link>https://example.com/ru/post/last-week/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/last-week/</guid>
+      <description>&lt;p&gt;Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p&gt;
+&lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
+&lt;p&gt;В понедельник, я был на дистанционных занятиях, после которых выполнял работу &amp;ldquo;Алгоритм &amp;ldquo;Spigot&amp;rdquo; на C++&amp;rdquo; на вторник по предмету &amp;ldquo;Компьютерный практикум&amp;rdquo;. Вечером отдыхал.&lt;/p&gt;
+&lt;h2 id=&#34;вторник&#34;&gt;Вторник&lt;/h2&gt;
+&lt;p&gt;Во вторник я был на занятиях в институте, после чего поехал домой, а потом выехал на секцию о волейболу, вечером отдыхал.&lt;/p&gt;
+&lt;h2 id=&#34;среда&#34;&gt;Среда&lt;/h2&gt;
+&lt;p&gt;В среду я был на занятиях в иституте, первая для меня пара была рядом с главным корпусом, а вторая в корпусе моего факультета. Дома я создавал презентацию на четверг по предмету &amp;ldquo;Основы российской государственности&amp;rdquo; про Музей космонавтики в Москве. Вечером отдыхал.&lt;/p&gt;
+&lt;h2 id=&#34;четверг&#34;&gt;Четверг&lt;/h2&gt;
+&lt;p&gt;В четверг я был на занятиях в институте, на которых рассказал презентацию, которую готовил в среду защищал свою Лабораторную работу по предмету &amp;ldquo;Технология программирования&amp;rdquo;. После пар отдыхал.&lt;/p&gt;
+&lt;h2 id=&#34;пятница&#34;&gt;Пятница&lt;/h2&gt;
+&lt;p&gt;Перед институтом готовился к &amp;ldquo;solution essay&amp;rdquo; для Английского языка, на котором я его потом и писал. После института отдохнул и начал выполнять второй этап реализации индивидуального проекта по предемету &amp;ldquo;Операционные системы&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>✅ Управление версиями. Git.</title>
+      <link>https://example.com/ru/post/git/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/git/</guid>
+      <description>&lt;p&gt;Теоретические сведения.&lt;/p&gt;
+&lt;h2 id=&#34;системы-контроля-версий-общие-понятия&#34;&gt;Системы контроля версий. Общие понятия&lt;/h2&gt;
+&lt;p&gt;Системы контроля версий (Version Control System, VCS) применяются при работе нескольких человек над одним проектом. Обычно основное дерево проекта хранится в локальном или удалённом репозитории, к которому настроен доступ для участников проекта. При внесении изменений в содержание проекта система контроля версий позволяет их фиксировать, совмещать изменения, произведённые разными участниками проекта, производить откат к любой более ранней версии проекта, если это требуется.&lt;/p&gt;
+&lt;p&gt;В классических системах контроля версий используется централизованная модель, предполагающая наличие единого репозитория для хранения файлов. Выполнение большинства функций по управлению версиями осуществляется специальным сервером. Участник проекта (пользователь) перед началом работы посредством определённых команд получает нужную ему версию файлов. После внесения изменений, пользователь размещает новую версию в хранилище. При этом предыдущие версии не удаляются из центрального хранилища и к ним можно вернуться в любой момент. Сервер может сохранять не полную версию изменённых файлов, а производить так называемую дельта-компрессию — сохранять только изменения между последовательными версиями, что позволяет уменьшить объём хранимых данных.&lt;/p&gt;
+&lt;p&gt;Системы контроля версий поддерживают возможность отслеживания и разрешения конфликтов, которые могут возникнуть при работе нескольких человек над одним файлом. Можно объединить (слить) изменения, сделанные разными участниками (автоматически или вручную), вручную выбрать нужную версию, отменить изменения вовсе или заблокировать файлы для изменения. В зависимости от настроек блокировка не позволяет другим пользователям получить рабочую копию или препятствует изменению рабочей копии файла средствами файловой системы ОС, обеспечивая таким образом, привилегированный доступ только одному пользователю, работающему с файлом.&lt;/p&gt;
+&lt;p&gt;Системы контроля версий также могут обеспечивать дополнительные, более гибкие функциональные возможности. Например, они могут поддерживать работу с несколькими версиями одного файла, сохраняя общую историю изменений до точки ветвления версий и собственные истории изменений каждой ветви. Кроме того, обычно доступна информация о том, кто из участников, когда и какие изменения вносил. Обычно такого рода информация хранится в журнале изменений, доступ к которому можно ограничить.&lt;/p&gt;
+&lt;p&gt;В отличие от классических, в распределённых системах контроля версий центральный репозиторий не является обязательным.&lt;/p&gt;
+&lt;p&gt;Среди классических VCS наиболее известны CVS, Subversion, а среди распределённых — Git, Bazaar, Mercurial. Принципы их работы схожи, отличаются они в основном синтаксисом используемых в работе команд.&lt;/p&gt;
+&lt;h2 id=&#34;примеры-использования-git&#34;&gt;Примеры использования git&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Система контроля версий Git представляет собой набор программ командной строки. Доступ к ним можно получить из терминала посредством ввода команды git с различными опциями.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Благодаря тому, что Git является распределённой системой контроля версий, резервную копию локального хранилища можно сделать простым копированием или архивацией.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;основные-команды-git&#34;&gt;Основные команды git&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Перечислим наиболее часто используемые команды git.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Создание основного дерева репозитория:&lt;/p&gt;
+&lt;p&gt;git init&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Получение обновлений (изменений) текущего дерева из центрального репозитория:&lt;/p&gt;
+&lt;p&gt;git pull&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Отправка всех произведённых изменений локального дерева в центральный репозиторий:&lt;/p&gt;
+&lt;p&gt;git push&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Просмотр списка изменённых файлов в текущей директории:&lt;/p&gt;
+&lt;p&gt;git status&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Просмотр текущих изменений:&lt;/p&gt;
+&lt;p&gt;git diff&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Сохранение текущих изменений:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;добавить все изменённые и/или созданные файлы и/или каталоги:&lt;/p&gt;
+&lt;p&gt;git add .&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;добавить конкретные изменённые и/или созданные файлы и/или каталоги:&lt;/p&gt;
+&lt;p&gt;git add имена_файлов&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;удалить файл и/или каталог из индекса репозитория (при этом файл и/или каталог остаётся в локальной директории):&lt;/p&gt;
+&lt;p&gt;git rm имена_файлов&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Сохранение добавленных изменений:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;сохранить все добавленные изменения и все изменённые файлы:&lt;/p&gt;
+&lt;p&gt;git commit -am &amp;lsquo;Описание коммита&amp;rsquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;сохранить добавленные изменения с внесением комментария через встроенный редактор:&lt;/p&gt;
+&lt;p&gt;git commit&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;создание новой ветки, базирующейся на текущей:&lt;/p&gt;
+&lt;p&gt;git checkout -b имя_ветки&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;переключение на некоторую ветку:&lt;/p&gt;
+&lt;p&gt;git checkout имя_ветки&lt;/p&gt;
+&lt;p&gt;(при переключении на ветку, которой ещё нет в локальном репозитории, она будет создана и связана с удалённой)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;отправка изменений конкретной ветки в центральный репозиторий:&lt;/p&gt;
+&lt;p&gt;git push origin имя_ветки&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;слияние ветки с текущим деревом:&lt;/p&gt;
+&lt;p&gt;git merge &amp;ndash;no-ff имя_ветки&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Удаление ветки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;удаление локальной уже слитой с основным деревом ветки:&lt;/p&gt;
+&lt;p&gt;git branch -d имя_ветки&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;принудительное удаление локальной ветки:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;git branch -D имя_ветки&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;удаление ветки с центрального репозитория:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;git push origin :имя_ветки&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;базовая-настройка-git&#34;&gt;Базовая настройка git&lt;/h2&gt;
+&lt;h3 id=&#34;первичная-настройка-параметров-git&#34;&gt;Первичная настройка параметров git&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Зададим имя и email владельца репозитория:&lt;/p&gt;
+&lt;p&gt;git config &amp;ndash;global user.name &amp;ldquo;Name Surname&amp;rdquo;
+git config &amp;ndash;global user.email &amp;ldquo;work@mail&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Настроим utf-8 в выводе сообщений git:&lt;/p&gt;
+&lt;p&gt;git config &amp;ndash;global core.quotepath false&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Настройте верификацию и подписание коммитов git.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Зададим имя начальной ветки (будем называть её master):&lt;/p&gt;
+&lt;p&gt;git config &amp;ndash;global init.defaultBranch master&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;учёт-переносов-строк&#34;&gt;Учёт переносов строк&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;В разных операционных системах приняты разные символы для перевода строк:
 Windows: \r\n (CR и LF);
 Unix: \n (LF);
-Mac: \r (CR).&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Посмотреть значения переносов строк в репозитории можно командой:&lt;/p>
-&lt;p>git ls-files &amp;ndash;eol&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;ol>
-&lt;li>Параметр autocrlf&lt;/li>
-&lt;/ol>
-&lt;ul>
-&lt;li>
-&lt;p>Настройка core.autocrlf предназначена для того, чтобы в главном репозитории все переводы строк текстовых файлах были одинаковы.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Настройка core.autocrlf с параметрами true и input делает все переводы строк текстовых файлов в главном репозитории одинаковыми.&lt;/p>
-&lt;ul>
-&lt;li>core.autocrlf true: конвертация CRLF-&amp;gt;LF при коммите и обратно LF-&amp;gt;CRLF при выгрузке кода из репозитория на файловую систему (обычно используется в Windows).&lt;/li>
-&lt;li>core.autocrlf input: конвертация CRLF-&amp;gt;LF только при коммитах (используются в MacOS/Linux).&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>Варианты конвертации&lt;/p>
-&lt;/li>
-&lt;/ul></description></item></channel></rss>
+Mac: \r (CR).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Посмотреть значения переносов строк в репозитории можно командой:&lt;/p&gt;
+&lt;p&gt;git ls-files &amp;ndash;eol&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;Параметр autocrlf&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Настройка core.autocrlf предназначена для того, чтобы в главном репозитории все переводы строк текстовых файлах были одинаковы.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Настройка core.autocrlf с параметрами true и input делает все переводы строк текстовых файлов в главном репозитории одинаковыми.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;core.autocrlf true: конвертация CRLF-&amp;gt;LF при коммите и обратно LF-&amp;gt;CRLF при выгрузке кода из репозитория на файловую систему (обычно используется в Windows).&lt;/li&gt;
+&lt;li&gt;core.autocrlf input: конвертация CRLF-&amp;gt;LF только при коммитах (используются в MacOS/Linux).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Варианты конвертации&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
