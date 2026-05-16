@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Блог | Hugo Academic CV Theme</title>
-    <link>https://example.com/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
-      <atom:link href="https://example.com/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hikrim.github.io/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+      <atom:link href="https://hikrim.github.io/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/index.xml" rel="self" type="application/rss+xml" />
     <description>Блог</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Блог</title>
-      <link>https://example.com/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+      <link>https://hikrim.github.io/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
     </image>
     
     <item>
       <title>✅ Пост по прошедшей неделе</title>
-      <link>https://example.com/ru/post/last-week/</link>
+      <link>https://hikrim.github.io/ru/post/last-week/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-week/</guid>
+      <guid>https://hikrim.github.io/ru/post/last-week/</guid>
       <description>&lt;p&gt;Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;В понедельник, я был на дистанционных занятиях, после которых выполнял работу &amp;ldquo;Алгоритм &amp;ldquo;Spigot&amp;rdquo; на C++&amp;rdquo; на вторник по предмету &amp;ldquo;Компьютерный практикум&amp;rdquo;. Вечером отдыхал.&lt;/p&gt;
@@ -33,9 +33,9 @@
     
     <item>
       <title>✅ Управление версиями. Git.</title>
-      <link>https://example.com/ru/post/git/</link>
+      <link>https://hikrim.github.io/ru/post/git/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/git/</guid>
+      <guid>https://hikrim.github.io/ru/post/git/</guid>
       <description>&lt;p&gt;Теоретические сведения.&lt;/p&gt;
 &lt;h2 id=&#34;системы-контроля-версий-общие-понятия&#34;&gt;Системы контроля версий. Общие понятия&lt;/h2&gt;
 &lt;p&gt;Системы контроля версий (Version Control System, VCS) применяются при работе нескольких человек над одним проектом. Обычно основное дерево проекта хранится в локальном или удалённом репозитории, к которому настроен доступ для участников проекта. При внесении изменений в содержание проекта система контроля версий позволяет их фиксировать, совмещать изменения, произведённые разными участниками проекта, производить откат к любой более ранней версии проекта, если это требуется.&lt;/p&gt;

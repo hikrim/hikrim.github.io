@@ -2,604 +2,604 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/ru/event/example/</loc>
+    <loc>https://hikrim.github.io/ru/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/event/example/"
+                href="https://hikrim.github.io/event/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/event/example/"
+                href="https://hikrim.github.io/ru/event/example/"
                 />
   </url><url>
-    <loc>https://example.com/ru/event/</loc>
+    <loc>https://hikrim.github.io/ru/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/event/"
+                href="https://hikrim.github.io/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/event/"
+                href="https://hikrim.github.io/ru/event/"
                 />
   </url><url>
-    <loc>https://example.com/ru/project/</loc>
+    <loc>https://hikrim.github.io/ru/project/</loc>
     <lastmod>2026-05-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/project/"
+                href="https://hikrim.github.io/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/project/"
+                href="https://hikrim.github.io/ru/project/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tags/</loc>
+    <loc>https://hikrim.github.io/ru/tags/</loc>
     <lastmod>2026-05-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/"
+                href="https://hikrim.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tags/"
+                href="https://hikrim.github.io/ru/tags/"
                 />
   </url><url>
-    <loc>https://example.com/ru/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/</loc>
+    <loc>https://hikrim.github.io/ru/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/</loc>
     <lastmod>2026-05-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/"
+                href="https://hikrim.github.io/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/"
+                href="https://hikrim.github.io/ru/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/"
                 />
   </url><url>
-    <loc>https://example.com/ru/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/</loc>
+    <loc>https://hikrim.github.io/ru/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/</loc>
     <lastmod>2026-05-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/"
+                href="https://hikrim.github.io/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/"
+                href="https://hikrim.github.io/ru/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/"
                 />
   </url><url>
-    <loc>https://example.com/ru/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/</loc>
+    <loc>https://hikrim.github.io/ru/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/</loc>
     <lastmod>2026-05-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/"
+                href="https://hikrim.github.io/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/"
+                href="https://hikrim.github.io/ru/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tags/%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</loc>
+    <loc>https://hikrim.github.io/ru/tags/%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</loc>
     <lastmod>2026-05-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/ru/tags/%D0%BB%D0%B8%D0%BD%D1%83%D0%BA%D1%81/</loc>
+    <loc>https://hikrim.github.io/ru/tags/%D0%BB%D0%B8%D0%BD%D1%83%D0%BA%D1%81/</loc>
     <lastmod>2026-05-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/ru/tags/%D1%81%D1%82%D0%B5%D0%BF%D0%B8%D0%BA/</loc>
+    <loc>https://hikrim.github.io/ru/tags/%D1%81%D1%82%D0%B5%D0%BF%D0%B8%D0%BA/</loc>
     <lastmod>2026-05-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/ru/post/last-week/</loc>
+    <loc>https://hikrim.github.io/ru/post/last-week/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/last-week/"
+                href="https://hikrim.github.io/post/last-week/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/last-week/"
+                href="https://hikrim.github.io/ru/post/last-week/"
                 />
   </url><url>
-    <loc>https://example.com/ru/post/git/</loc>
+    <loc>https://hikrim.github.io/ru/post/git/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/git/"
+                href="https://hikrim.github.io/post/git/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/git/"
+                href="https://hikrim.github.io/ru/post/git/"
                 />
   </url><url>
-    <loc>https://example.com/ru/post/</loc>
+    <loc>https://hikrim.github.io/ru/post/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/"
+                href="https://hikrim.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/"
+                href="https://hikrim.github.io/ru/post/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tags/git/</loc>
+    <loc>https://hikrim.github.io/ru/tags/git/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/git/"
+                href="https://hikrim.github.io/tags/git/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tags/git/"
+                href="https://hikrim.github.io/ru/tags/git/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</loc>
+    <loc>https://hikrim.github.io/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/%D0%B1%D0%BB%D0%BE%D0%B3/"
+                href="https://hikrim.github.io/tags/%D0%B1%D0%BB%D0%BE%D0%B3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/"
+                href="https://hikrim.github.io/ru/tags/%D0%B1%D0%BB%D0%BE%D0%B3/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</loc>
+    <loc>https://hikrim.github.io/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/"
+                href="https://hikrim.github.io/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/"
+                href="https://hikrim.github.io/ru/tags/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/"
                 />
   </url><url>
-    <loc>https://example.com/ru/projects/</loc>
+    <loc>https://hikrim.github.io/ru/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/projects/"
+                href="https://hikrim.github.io/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/projects/"
+                href="https://hikrim.github.io/ru/projects/"
                 />
   </url><url>
-    <loc>https://example.com/ru/post/get-started/</loc>
+    <loc>https://hikrim.github.io/ru/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/get-started/"
+                href="https://hikrim.github.io/post/get-started/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/get-started/"
+                href="https://hikrim.github.io/ru/post/get-started/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tags/academic/</loc>
+    <loc>https://hikrim.github.io/ru/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/academic/"
+                href="https://hikrim.github.io/tags/academic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tags/academic/"
+                href="https://hikrim.github.io/ru/tags/academic/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tags/hugo-blox/</loc>
+    <loc>https://hikrim.github.io/ru/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/hugo-blox/"
+                href="https://hikrim.github.io/tags/hugo-blox/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tags/hugo-blox/"
+                href="https://hikrim.github.io/ru/tags/hugo-blox/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tags/markdown/</loc>
+    <loc>https://hikrim.github.io/ru/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/markdown/"
+                href="https://hikrim.github.io/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tags/markdown/"
+                href="https://hikrim.github.io/ru/tags/markdown/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tags/second-brain/</loc>
+    <loc>https://hikrim.github.io/ru/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/second-brain/"
+                href="https://hikrim.github.io/tags/second-brain/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tags/second-brain/"
+                href="https://hikrim.github.io/ru/tags/second-brain/"
                 />
   </url><url>
-    <loc>https://example.com/ru/post/second-brain/</loc>
+    <loc>https://hikrim.github.io/ru/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/second-brain/"
+                href="https://hikrim.github.io/post/second-brain/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/second-brain/"
+                href="https://hikrim.github.io/ru/post/second-brain/"
                 />
   </url><url>
-    <loc>https://example.com/ru/post/data-visualization/</loc>
+    <loc>https://hikrim.github.io/ru/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/data-visualization/"
+                href="https://hikrim.github.io/post/data-visualization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/data-visualization/"
+                href="https://hikrim.github.io/ru/post/data-visualization/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tags/hugo/</loc>
+    <loc>https://hikrim.github.io/ru/tags/hugo/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/hugo/"
+                href="https://hikrim.github.io/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tags/hugo/"
+                href="https://hikrim.github.io/ru/tags/hugo/"
                 />
   </url><url>
-    <loc>https://example.com/ru/post/teach-courses/</loc>
+    <loc>https://hikrim.github.io/ru/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/teach-courses/"
+                href="https://hikrim.github.io/post/teach-courses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/teach-courses/"
+                href="https://hikrim.github.io/ru/post/teach-courses/"
                 />
   </url><url>
-    <loc>https://example.com/ru/experience/</loc>
+    <loc>https://hikrim.github.io/ru/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/experience/"
+                href="https://hikrim.github.io/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/experience/"
+                href="https://hikrim.github.io/ru/experience/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tags/hugo-blox-builder/</loc>
+    <loc>https://hikrim.github.io/ru/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/hugo-blox-builder/"
+                href="https://hikrim.github.io/tags/hugo-blox-builder/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tags/hugo-blox-builder/"
+                href="https://hikrim.github.io/ru/tags/hugo-blox-builder/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tags/javascript/</loc>
+    <loc>https://hikrim.github.io/ru/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/javascript/"
+                href="https://hikrim.github.io/tags/javascript/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tags/javascript/"
+                href="https://hikrim.github.io/ru/tags/javascript/"
                 />
   </url><url>
-    <loc>https://example.com/ru/teaching/js/</loc>
+    <loc>https://hikrim.github.io/ru/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/teaching/js/"
+                href="https://hikrim.github.io/teaching/js/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/teaching/js/"
+                href="https://hikrim.github.io/ru/teaching/js/"
                 />
   </url><url>
-    <loc>https://example.com/ru/teaching/python/</loc>
+    <loc>https://hikrim.github.io/ru/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/teaching/python/"
+                href="https://hikrim.github.io/teaching/python/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/teaching/python/"
+                href="https://hikrim.github.io/ru/teaching/python/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tags/python/</loc>
+    <loc>https://hikrim.github.io/ru/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/python/"
+                href="https://hikrim.github.io/tags/python/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tags/python/"
+                href="https://hikrim.github.io/ru/tags/python/"
                 />
   </url><url>
-    <loc>https://example.com/ru/teaching/</loc>
+    <loc>https://hikrim.github.io/ru/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/teaching/"
+                href="https://hikrim.github.io/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/teaching/"
+                href="https://hikrim.github.io/ru/teaching/"
                 />
   </url><url>
-    <loc>https://example.com/ru/post/project-management/</loc>
+    <loc>https://hikrim.github.io/ru/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/project-management/"
+                href="https://hikrim.github.io/post/project-management/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/project-management/"
+                href="https://hikrim.github.io/ru/post/project-management/"
                 />
   </url><url>
-    <loc>https://example.com/ru/</loc>
+    <loc>https://hikrim.github.io/ru/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/"
+                href="https://hikrim.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/"
+                href="https://hikrim.github.io/ru/"
                 />
   </url><url>
-    <loc>https://example.com/ru/publication/preprint/</loc>
+    <loc>https://hikrim.github.io/ru/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/preprint/"
+                href="https://hikrim.github.io/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication/preprint/"
+                href="https://hikrim.github.io/ru/publication/preprint/"
                 />
   </url><url>
-    <loc>https://example.com/ru/publication_types/article/</loc>
+    <loc>https://hikrim.github.io/ru/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication_types/article/"
+                href="https://hikrim.github.io/publication_types/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication_types/article/"
+                href="https://hikrim.github.io/ru/publication_types/article/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tags/large-language-models/</loc>
+    <loc>https://hikrim.github.io/ru/tags/large-language-models/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/large-language-models/"
+                href="https://hikrim.github.io/tags/large-language-models/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tags/large-language-models/"
+                href="https://hikrim.github.io/ru/tags/large-language-models/"
                 />
   </url><url>
-    <loc>https://example.com/ru/publication_types/</loc>
+    <loc>https://hikrim.github.io/ru/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication_types/"
+                href="https://hikrim.github.io/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication_types/"
+                href="https://hikrim.github.io/ru/publication_types/"
                 />
   </url><url>
-    <loc>https://example.com/ru/publication/</loc>
+    <loc>https://hikrim.github.io/ru/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/"
+                href="https://hikrim.github.io/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication/"
+                href="https://hikrim.github.io/ru/publication/"
                 />
   </url><url>
-    <loc>https://example.com/ru/publication/journal-article/</loc>
+    <loc>https://hikrim.github.io/ru/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/journal-article/"
+                href="https://hikrim.github.io/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication/journal-article/"
+                href="https://hikrim.github.io/ru/publication/journal-article/"
                 />
   </url><url>
-    <loc>https://example.com/ru/publication_types/article-journal/</loc>
+    <loc>https://hikrim.github.io/ru/publication_types/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication_types/article-journal/"
+                href="https://hikrim.github.io/publication_types/article-journal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication_types/article-journal/"
+                href="https://hikrim.github.io/ru/publication_types/article-journal/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tags/source-themes/</loc>
+    <loc>https://hikrim.github.io/ru/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/source-themes/"
+                href="https://hikrim.github.io/tags/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tags/source-themes/"
+                href="https://hikrim.github.io/ru/tags/source-themes/"
                 />
   </url><url>
-    <loc>https://example.com/ru/publication/conference-paper/</loc>
+    <loc>https://hikrim.github.io/ru/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/conference-paper/"
+                href="https://hikrim.github.io/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication/conference-paper/"
+                href="https://hikrim.github.io/ru/publication/conference-paper/"
                 />
   </url><url>
-    <loc>https://example.com/ru/publication_types/paper-conference/</loc>
+    <loc>https://hikrim.github.io/ru/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication_types/paper-conference/"
+                href="https://hikrim.github.io/publication_types/paper-conference/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication_types/paper-conference/"
+                href="https://hikrim.github.io/ru/publication_types/paper-conference/"
                 />
   </url>
 </urlset>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Hugo Academic CV Theme</title>
-    <link>https://example.com/ru/post/</link>
-      <atom:link href="https://example.com/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hikrim.github.io/ru/post/</link>
+      <atom:link href="https://hikrim.github.io/ru/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
-      <link>https://example.com/ru/post/</link>
+      <link>https://hikrim.github.io/ru/post/</link>
     </image>
     
     <item>
       <title>✅ Пост по прошедшей неделе</title>
-      <link>https://example.com/ru/post/last-week/</link>
+      <link>https://hikrim.github.io/ru/post/last-week/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/last-week/</guid>
+      <guid>https://hikrim.github.io/ru/post/last-week/</guid>
       <description>&lt;p&gt;Безумие - это точное повторение одного и того же действия, раз за разом, в надежде на изменение.&lt;/p&gt;
 &lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
 &lt;p&gt;В понедельник, я был на дистанционных занятиях, после которых выполнял работу &amp;ldquo;Алгоритм &amp;ldquo;Spigot&amp;rdquo; на C++&amp;rdquo; на вторник по предмету &amp;ldquo;Компьютерный практикум&amp;rdquo;. Вечером отдыхал.&lt;/p&gt;
@@ -33,9 +33,9 @@
     
     <item>
       <title>✅ Управление версиями. Git.</title>
-      <link>https://example.com/ru/post/git/</link>
+      <link>https://hikrim.github.io/ru/post/git/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/git/</guid>
+      <guid>https://hikrim.github.io/ru/post/git/</guid>
       <description>&lt;p&gt;Теоретические сведения.&lt;/p&gt;
 &lt;h2 id=&#34;системы-контроля-версий-общие-понятия&#34;&gt;Системы контроля версий. Общие понятия&lt;/h2&gt;
 &lt;p&gt;Системы контроля версий (Version Control System, VCS) применяются при работе нескольких человек над одним проектом. Обычно основное дерево проекта хранится в локальном или удалённом репозитории, к которому настроен доступ для участников проекта. При внесении изменений в содержание проекта система контроля версий позволяет их фиксировать, совмещать изменения, произведённые разными участниками проекта, производить откат к любой более ранней версии проекта, если это требуется.&lt;/p&gt;
@@ -199,9 +199,9 @@ Mac: \r (CR).&lt;/p&gt;
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>https://example.com/ru/post/get-started/</link>
+      <link>https://hikrim.github.io/ru/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/get-started/</guid>
+      <guid>https://hikrim.github.io/ru/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -285,9 +285,9 @@ Mac: \r (CR).&lt;/p&gt;
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>https://example.com/ru/post/second-brain/</link>
+      <link>https://hikrim.github.io/ru/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/second-brain/</guid>
+      <guid>https://hikrim.github.io/ru/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -397,9 +397,9 @@ Mac: \r (CR).&lt;/p&gt;
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>https://example.com/ru/post/data-visualization/</link>
+      <link>https://hikrim.github.io/ru/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/data-visualization/</guid>
+      <guid>https://hikrim.github.io/ru/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -410,7 +410,7 @@ Mac: \r (CR).&lt;/p&gt;
 
 
 
-&lt;div id=&#34;chart-947513862&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-816735492&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -428,7 +428,7 @@ Mac: \r (CR).&lt;/p&gt;
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-947513862&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-816735492&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -607,9 +607,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>https://example.com/ru/post/teach-courses/</link>
+      <link>https://hikrim.github.io/ru/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/teach-courses/</guid>
+      <guid>https://hikrim.github.io/ru/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -658,7 +658,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/ru/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://hikrim.github.io/ru/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -717,9 +717,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>https://example.com/ru/post/project-management/</link>
+      <link>https://hikrim.github.io/ru/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/project-management/</guid>
+      <guid>https://hikrim.github.io/ru/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
