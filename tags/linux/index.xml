@@ -1,1 +1,1546 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linux | Hugo Academic CV Theme</title><link>https://hikrim.github.io/tags/linux/</link><atom:link href="https://hikrim.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml"/><description>Linux</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><image><url>https://hikrim.github.io/media/icon_hu_645fa481986063ef.png</url><title>Linux</title><link>https://hikrim.github.io/tags/linux/</link></image><item><title>Stepik</title><link>https://hikrim.github.io/project/stepik/</link><pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate><guid>https://hikrim.github.io/project/stepik/</guid><description>&lt;p>The course &amp;ldquo;Introduction to Linux&amp;rdquo; on the Stepik platform, which I completed.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/linux/</link>
+      <atom:link href="https://example.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linux</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Linux</title>
+      <link>https://example.com/tags/linux/</link>
+    </image>
+    
+    <item>
+      <title>External Сourse Cybersecurity Fundamentals. Section 1</title>
+      <link>https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/</link>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/</guid>
+      <description>&lt;p&gt;Answers to test assignments presented in the first section of the course &amp;ldquo;Fundamentals of Cybersecurity&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;work-objective&#34;&gt;Work Objective&lt;/h1&gt;
+&lt;p&gt;Выполнить первый раздел внешнего курса &amp;ldquo;Основы кибербезопасности&amp;rdquo;.&lt;/p&gt;
+&lt;h1 id=&#34;task&#34;&gt;Task&lt;/h1&gt;
+&lt;p&gt;Первый раздел курса &amp;ldquo;Основы кибербезопасности&amp;rdquo;.&lt;/p&gt;
+&lt;h1 id=&#34;theoretical-introduction&#34;&gt;Theoretical Introduction&lt;/h1&gt;
+&lt;p&gt;Теоретическое введение в курсе представлено в виде видео-лекций.&lt;/p&gt;
+&lt;h1 id=&#34;completing-the-work&#34;&gt;Completing the Work&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 1&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/1_hu_5fe37bd372ce0d43.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/1_hu_384d12eddfc345d7.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/1_hu_23d1e5d07aba1ab0.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/1_hu_5fe37bd372ce0d43.webp&#34;
+               width=&#34;438&#34;
+               height=&#34;375&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;HTTPS is an application layer protocol&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 2&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/2_hu_37d9727015f3b9e3.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/2_hu_21a44282e9c2fc24.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/2_hu_7ae57429a5381560.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/2_hu_37d9727015f3b9e3.webp&#34;
+               width=&#34;437&#34;
+               height=&#34;367&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The TCP protocol operates at the transport layer&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 3&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/3_hu_a247d0cfc2bece4d.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/3_hu_a26bbabbcbc09db8.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/3_hu_5151c30d96f29d08.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/3_hu_a247d0cfc2bece4d.webp&#34;
+               width=&#34;485&#34;
+               height=&#34;452&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The other options contain values greater than 255, which is incorrect&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 4&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/4_hu_f82cbae22ffe616c.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/4_hu_9574cf3afa9df800.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/4_hu_812fa9cc510f9360.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/4_hu_f82cbae22ffe616c.webp&#34;
+               width=&#34;414&#34;
+               height=&#34;379&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;A DNS server maps IP addresses to domain names. The other options do not fit&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 5&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/5_hu_f7530020adee6845.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/5_hu_ccfa5386e8c719f1.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/5_hu_c3d16fd14505d5fc.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/5_hu_f7530020adee6845.webp&#34;
+               width=&#34;581&#34;
+               height=&#34;376&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The correct sequence of protocols in the TCP/IP model: application &amp;ndash; transport &amp;ndash; network &amp;ndash; link layer&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 6&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/6_hu_5acb711f6d01af7f.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/6_hu_a6abbf4669ee1366.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/6_hu_3941d7c928b6a869.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/6_hu_5acb711f6d01af7f.webp&#34;
+               width=&#34;543&#34;
+               height=&#34;319&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The HTTP protocol implies data transmission between client and server in plain text&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 7&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/7_hu_3d8911da0ca6d9bb.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/7_hu_77ae30464304514e.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/7_hu_3ae9a06c305b5c51.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/7_hu_3d8911da0ca6d9bb.webp&#34;
+               width=&#34;698&#34;
+               height=&#34;382&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;HTTP consists of two phases: handshake and data transfer&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 8&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/8_hu_953e96f0ba76c728.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/8_hu_5bca976dc169552a.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/8_hu_a9f5021bb44afce5.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/8_hu_953e96f0ba76c728.webp&#34;
+               width=&#34;513&#34;
+               height=&#34;382&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The TLS protocol version is determined by both the client and the server during the &amp;ldquo;negotiation&amp;rdquo; process&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 9&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/9_hu_ff41ffcd80ffbfeb.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/9_hu_7c5c40b891c8dbcb.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/9_hu_54a106431bd1a444.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/9_hu_ff41ffcd80ffbfeb.webp&#34;
+               width=&#34;589&#34;
+               height=&#34;384&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;During the TLS handshake phase, data encryption is not provided&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 10&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/10_hu_77a242e8ff3280e0.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/10_hu_b179d6fa05d4741d.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/10_hu_e9c30dcb26017198.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/10_hu_77a242e8ff3280e0.webp&#34;
+               width=&#34;500&#34;
+               height=&#34;450&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Cookies store the session ID and user identifier&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 11&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/11_hu_7e1fe7dc6bafd186.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/11_hu_4e76551c7f8a191.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/11_hu_1ff813bffbbdcd98.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/11_hu_7e1fe7dc6bafd186.webp&#34;
+               width=&#34;409&#34;
+               height=&#34;399&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Cookies are not used to improve connection reliability&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 12&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/12_hu_d87134d9f334624b.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/12_hu_2812f8d4fd989a2.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/12_hu_67e649016e1fa44c.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/12_hu_d87134d9f334624b.webp&#34;
+               width=&#34;395&#34;
+               height=&#34;313&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Cookies are generated by the server&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 13&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/13_hu_9dfa6b30e7612689.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/13_hu_ee1a2cadc7f48210.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/13_hu_b2485a4b41a7d8b4.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/13_hu_9dfa6b30e7612689.webp&#34;
+               width=&#34;452&#34;
+               height=&#34;346&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Session cookies are stored in the browser for the duration of using the website&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 14&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/14_hu_f12f7645c7f23235.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/14_hu_4c07410e7e4fdea7.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/14_hu_bc83ff5b1d9cf26d.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/14_hu_f12f7645c7f23235.webp&#34;
+               width=&#34;463&#34;
+               height=&#34;353&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In the TOR onion network, there are 3 intermediate nodes&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 15&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/15_hu_d9bdef4ca69b9d4f.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/15_hu_5896c0e2ba42fde4.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/15_hu_353b815845fc5c54.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/15_hu_d9bdef4ca69b9d4f.webp&#34;
+               width=&#34;474&#34;
+               height=&#34;360&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The other options are not suitable&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 16&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/16_hu_8e79adf7128be4c2.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/16_hu_1e3286072f4fcec8.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/16_hu_607fda5293f3ee8e.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/16_hu_8e79adf7128be4c2.webp&#34;
+               width=&#34;461&#34;
+               height=&#34;373&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The sender generates a shared secret key with the guard, intermediate, and exit node&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 17&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/17_hu_2fc35746939e5a10.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/17_hu_6d955393e18b934b.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/17_hu_2931268f44bf8599.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/17_hu_2fc35746939e5a10.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;258&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;No, the recipient does not need to use the TOR browser to receive packets&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 18&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/18_hu_66eebd45da8e915b.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/18_hu_9a039a3931cdd847.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/18_hu_8a71aecae1ad5e7e.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/18_hu_66eebd45da8e915b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;356&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;WiFi is a wireless local area network technology (IEEE 802.11)&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 19&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/19_hu_4d921f78947979ac.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/19_hu_64ab493d3999acf5.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/19_hu_37aec6b5cb44dfee.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/19_hu_4d921f78947979ac.webp&#34;
+               width=&#34;401&#34;
+               height=&#34;377&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;WiFi operates at the link layer&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 20&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/20_hu_400f36b411833c26.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/20_hu_decab336ebda94e2.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/20_hu_927e86f656d25f7b.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/20_hu_400f36b411833c26.webp&#34;
+               width=&#34;627&#34;
+               height=&#34;379&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;WEP is an insecure method of providing encryption and authentication in WiFi networks&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 21&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/21_hu_1b83a9e61e869e8a.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/21_hu_695848f5d615f5dc.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/21_hu_e3861d1117bfc45c.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/21_hu_1b83a9e61e869e8a.webp&#34;
+               width=&#34;589&#34;
+               height=&#34;375&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Data between a network host and the router is transmitted in encrypted form after device authentication&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 22&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/22_hu_39c58ea5229ef922.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/22_hu_3af307083c7ea419.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/22_hu_eece26c215a03f13.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1/image/22_hu_39c58ea5229ef922.webp&#34;
+               width=&#34;555&#34;
+               height=&#34;310&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Personal - for individuals, Enterprise - for organizations&lt;/p&gt;
+&lt;h1 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h1&gt;
+&lt;p&gt;We completed the first section of the course &amp;ldquo;Fundamentals of Cybersecurity&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>External Сourse Cybersecurity Fundamentals. Section 2</title>
+      <link>https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/</link>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/</guid>
+      <description>&lt;p&gt;Answers to test assignments presented in the second section of the course &amp;ldquo;Fundamentals of Cybersecurity&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;objective-of-the-work&#34;&gt;Objective of the work&lt;/h1&gt;
+&lt;p&gt;Complete the second section of the external course &amp;ldquo;Fundamentals of Cybersecurity&amp;rdquo;.&lt;/p&gt;
+&lt;h1 id=&#34;task&#34;&gt;Task&lt;/h1&gt;
+&lt;p&gt;Second section of the course &amp;ldquo;Fundamentals of Cybersecurity&amp;rdquo;.&lt;/p&gt;
+&lt;h1 id=&#34;theoretical-introduction&#34;&gt;Theoretical Introduction&lt;/h1&gt;
+&lt;p&gt;The theoretical introduction in the course is presented in the form of video lectures.&lt;/p&gt;
+&lt;h1 id=&#34;completing-the-work&#34;&gt;Completing the Work&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 1&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/1_hu_b9030e612f777539.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/1_hu_d986a146c2718f05.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/1_hu_a296f01931a86ba9.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/1_hu_b9030e612f777539.webp&#34;
+               width=&#34;463&#34;
+               height=&#34;329&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The boot sector of a disk can be encrypted.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 2&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/2_hu_b49ddcf9358c1713.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/2_hu_e72df5aac0c126a8.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/2_hu_ef68713f19eb028f.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/2_hu_b49ddcf9358c1713.webp&#34;
+               width=&#34;433&#34;
+               height=&#34;347&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Disk encryption is based on symmetric encryption.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 3&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/3_hu_24a957886ff11156.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/3_hu_ffc5575f6c28c130.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/3_hu_7af9509022962841.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/3_hu_24a957886ff11156.webp&#34;
+               width=&#34;540&#34;
+               height=&#34;460&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;A hard disk can be encrypted using VeraCrypt and BitLocker software.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 4&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/4_hu_3c043733d7881152.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/4_hu_53b86495f9cca75e.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/4_hu_1a18723e7b0eaae0.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/4_hu_3c043733d7881152.webp&#34;
+               width=&#34;417&#34;
+               height=&#34;374&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The remaining passwords are simple; they don&amp;rsquo;t even use special characters or mixed case letters.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 5&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/5_hu_ed90f32aa7b0a53b.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/5_hu_1ee90049653bdd9d.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/5_hu_494155d956ae48d.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/5_hu_ed90f32aa7b0a53b.webp&#34;
+               width=&#34;460&#34;
+               height=&#34;410&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Passwords should only be stored securely in password managers.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 6&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/6_hu_811b403815674d42.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/6_hu_9a6f8db0bcfd97ec.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/6_hu_3f501e2c245c2d9.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/6_hu_811b403815674d42.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;CAPTCHA is needed to protect against automated attacks.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 7&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/7_hu_42b7b0aa6ceeb92e.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/7_hu_e0b0f0c1f3d2a87d.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/7_hu_bcc773bd7b0b0f30.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/7_hu_42b7b0aa6ceeb92e.webp&#34;
+               width=&#34;565&#34;
+               height=&#34;385&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Password hashing is used to avoid storing passwords on the server in plain text—that is, for security purposes.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 8&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/8_hu_1b8120ab1569ac7e.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/8_hu_34e8724ab69bdbe1.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/8_hu_af06561599d6263a.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/8_hu_1b8120ab1569ac7e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;255&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Salt will not help improve password resistance to brute-force attacks.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 9&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/9_hu_48448316f0da836e.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/9_hu_24749579717643aa.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/9_hu_71bc53ae0a6732.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/9_hu_48448316f0da836e.webp&#34;
+               width=&#34;516&#34;
+               height=&#34;447&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;All proposed measures protect against data leaks from brute-force attacks.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 10&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/10_hu_b205c0847e532cb0.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/10_hu_322699a7e29f0585.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/10_hu_50013e4a74a2e1a4.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/10_hu_b205c0847e532cb0.webp&#34;
+               width=&#34;717&#34;
+               height=&#34;455&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Correct answers: sberbank.ru, yandex.ru, without anything extra in between.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 11&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/11_hu_ae2deb65b523c79a.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/11_hu_d089d7ec2ee43ecb.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/11_hu_71664ee1c15d74c6.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/11_hu_ae2deb65b523c79a.webp&#34;
+               width=&#34;499&#34;
+               height=&#34;337&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Yes, address spoofing is possible.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 12&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/12_hu_39e15d644773a4c8.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/12_hu_6acca850ae590d20.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/12_hu_442fb58b542a319c.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/12_hu_39e15d644773a4c8.webp&#34;
+               width=&#34;481&#34;
+               height=&#34;367&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Email spoofing is the forgery of the sender&amp;rsquo;s address in emails.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 13&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/13_hu_b00dcd9066f4f6a5.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/13_hu_3016f5a44dd6ba9f.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/13_hu_c774b9e84f8f06a.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/13_hu_b00dcd9066f4f6a5.webp&#34;
+               width=&#34;559&#34;
+               height=&#34;379&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;A Trojan virus disguises itself as a legitimate program.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 14&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/14_hu_4d046d02ff0f8177.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/14_hu_78d112ad9dd3cf2b.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/14_hu_a14d31a0e35ebc28.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/14_hu_4d046d02ff0f8177.webp&#34;
+               width=&#34;656&#34;
+               height=&#34;381&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;It is formed during the generation of the first message by the sending party.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 15&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/15_hu_1334e6264f5cb5b.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/15_hu_bfb8f8d4d8ef20be.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/15_hu_a1317a4ffbfa9324.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2/image/15_hu_1334e6264f5cb5b.webp&#34;
+               width=&#34;691&#34;
+               height=&#34;383&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The essence of end-to-end encryption is that messages are transmitted through communication nodes in encrypted form.&lt;/p&gt;
+&lt;h1 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h1&gt;
+&lt;p&gt;We completed the second section of the external course &amp;ldquo;Fundamentals of Cybersecurity&amp;rdquo; and learned about phishing, email spoofing, and other related concepts.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>External Сourse Cybersecurity Fundamentals. Section 3</title>
+      <link>https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/</link>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/</guid>
+      <description>&lt;p&gt;Answers to test assignments presented in the third section of the course &amp;ldquo;Fundamentals of Cybersecurity&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;objective-of-the-work&#34;&gt;Objective of the work&lt;/h1&gt;
+&lt;p&gt;Complete the third section of the external course &amp;ldquo;Fundamentals of Cybersecurity&amp;rdquo;.&lt;/p&gt;
+&lt;h1 id=&#34;task&#34;&gt;Task&lt;/h1&gt;
+&lt;p&gt;Third section of the course &amp;ldquo;Fundamentals of Cybersecurity&amp;rdquo;.&lt;/p&gt;
+&lt;h1 id=&#34;theoretical-introduction&#34;&gt;Theoretical Introduction&lt;/h1&gt;
+&lt;p&gt;The theoretical introduction in the course is presented in the form of video lectures.&lt;/p&gt;
+&lt;h1 id=&#34;completing-the-work&#34;&gt;Completing the Work&lt;/h1&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 1&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/1_hu_387c926e5a3e4183.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/1_hu_102fdddc8ab3825b.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/1_hu_1d71d491fe1d04ce.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/1_hu_387c926e5a3e4183.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;379&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In asymmetric cryptographic primitives, both parties have a key pair.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 2&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/2_hu_1be9316127084845.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/2_hu_a241d5aac446ff3c.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/2_hu_a2c29d368c58c249.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/2_hu_1be9316127084845.webp&#34;
+               width=&#34;689&#34;
+               height=&#34;459&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;A cryptographic hash function does not ensure confidentiality of hashed data, while the other answer options are correct.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 3&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/3_hu_f6c163655a187497.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/3_hu_5303ede7909cd6ed.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/3_hu_d9006034c9a5db46.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/3_hu_f6c163655a187497.webp&#34;
+               width=&#34;585&#34;
+               height=&#34;474&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;RSA, ECDSA, and GOST R 34.10-2012 are digital signature algorithms.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 4&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/4_hu_87c68ba90bfcceb1.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/4_hu_d3b927d65d018108.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/4_hu_83e383540b204df1.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/4_hu_87c68ba90bfcceb1.webp&#34;
+               width=&#34;581&#34;
+               height=&#34;386&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Diffie-Hellman key exchange is an asymmetric primitive for generating a shared secret key.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 5&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/5_hu_4d4d6de58cd37e23.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/5_hu_8a59b04df8a82e2d.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/5_hu_c7fb42efe36a3bf8.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/5_hu_4d4d6de58cd37e23.webp&#34;
+               width=&#34;592&#34;
+               height=&#34;373&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The electronic digital signature verification algorithm requires as input: signature, secret key, and message.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 6&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/6_hu_c3bf68fd75aa12fc.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/6_hu_d149a1a3e5435c2b.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/6_hu_fedf8b9a8d6797f4.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/6_hu_c3bf68fd75aa12fc.webp&#34;
+               width=&#34;439&#34;
+               height=&#34;379&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Electronic digital signature does not ensure confidentiality.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 7&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/7_hu_f528b7bdda689cd7.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/7_hu_3766ae4d0dc50f5b.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/7_hu_24923fcbb89c6eb8.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/7_hu_f528b7bdda689cd7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;327&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;To submit tax reports to the Federal Tax Service, an enhanced qualified electronic signature is required.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 8&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/8_hu_f8be5ca9a7c0f6fb.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/8_hu_5d0369e85ec12371.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/8_hu_cbd599ddb315b87c.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/8_hu_f8be5ca9a7c0f6fb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;321&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;A qualified certificate for an electronic signature verification key can be obtained at a certification authority.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 9&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/9_hu_c1a70bdfc3224d64.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/9_hu_47c66457a0df3656.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/9_hu_833b32408b631290.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/9_hu_c1a70bdfc3224d64.webp&#34;
+               width=&#34;541&#34;
+               height=&#34;503&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;MasterCard and MIR are payment systems.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 10&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/10_hu_299ad5fb1e438522.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/10_hu_35419ff7acb9cbf6.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/10_hu_90ff3f2ca5ce2cec.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/10_hu_299ad5fb1e438522.webp&#34;
+               width=&#34;556&#34;
+               height=&#34;462&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Password check + SMS code and SMS code + fingerprint are two examples of multi-factor authentication.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 11&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/11_hu_d7247c8a7206c59b.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/11_hu_9211c74352b34a36.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/11_hu_175530294d383815.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/11_hu_d7247c8a7206c59b.webp&#34;
+               width=&#34;677&#34;
+               height=&#34;374&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Today, multi-factor authentication of the buyer is used before the issuing bank for online payments.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 12&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/12_hu_381130621bb266c5.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/12_hu_4130d3cce2e2fb4f.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/12_hu_9b1e40cc92b535a1.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/12_hu_381130621bb266c5.webp&#34;
+               width=&#34;713&#34;
+               height=&#34;389&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;A correct property is the difficulty of finding a preimage.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 13&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/13_hu_1118421c6ed8d60e.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/13_hu_897fcc5e3dc77b4e.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/13_hu_bf8c00ce4f9f826a.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/13_hu_1118421c6ed8d60e.webp&#34;
+               width=&#34;624&#34;
+               height=&#34;460&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Consensus in some blockchain systems has all the properties proposed in the assignment.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;тест 14&#34; srcset=&#34;
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/14_hu_b30abc24e485a891.webp 400w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/14_hu_b2f48edf1088cd1.webp 760w,
+               /project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/14_hu_9c63c17db015d49.webp 1200w&#34;
+               src=&#34;https://example.com/project/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-3/image/14_hu_b30abc24e485a891.webp&#34;
+               width=&#34;718&#34;
+               height=&#34;400&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Blockchain participants store secret digital signature keys.&lt;/p&gt;
+&lt;h1 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h1&gt;
+&lt;p&gt;We completed the third section of the external course &amp;ldquo;Fundamentals of Cybersecurity&amp;rdquo; and learned more about secret keys, digital signatures, and blockchain.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
